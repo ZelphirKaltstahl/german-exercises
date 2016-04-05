@@ -428,7 +428,7 @@ The two words _das_ and _dass_ are completely different in their usage. _Das_ is
 ### Haben
 
 * reflexive Verben
-* transitive Verben (erfordern 2 Argumente)
+* transitive Verben (Objekt im Akkusativ)
 * intransitive Verben[^intransitives_verb] die keine Ortsänderung des Subjekts ausdrücken
 * intransitive Verben die keine Zustandsänderung des Subjekts ausdrücken
 * haben, anfangen, beginnen, zunehmen, erhöhen, abnehmen, verringern, aufhören
@@ -446,33 +446,77 @@ The two words _das_ and _dass_ are completely different in their usage. _Das_ is
 1. reflexive Verben
 
 	a) Er _hat_ _sich_ sehr über die Shāobing[^shaobing] _gefreut_.
+
+		**English**: He was very happy about the Shaobing.
+
 	a) Sie _hatte_ _sich_ schon immer _gefragt_, wann sie haben und wann sie sein verwenden musste.
+
+		**English**: She had always asked herself, in which case she needed to use haben and in which case she needed to use sein.
 
 2. transitive Verben (haben 2 Argumente)
 
 	a) Wir _haben_ das Geschirr _abgewaschen_.
+
+		**English**: We washed the dishes.
+
 	a) Die Kinder _haben_ eine Sandburg _gebaut_.
+
+		**English**: The children built a sand castle.
 
 3. intransitive Verben die keine Ortsänderung des Subjekts ausdrücken
 
 	a) Sie _hat_ _komponiert_.
+
+		**English**: She composed.
+
 	a) Ihr _habt_ _geplant_.
+
+		**English**: You made a plan.
 
 4. intransitive Verben die keine Zustandsänderung des Subjekts ausdrücken
 
 	a) Die Erwachsenen _haben_ lange _diskutiert_.
+
+		**English**: The grown ups discussed for a long time.
+
 	a) Die Philosophen _haben_ sehr genau _argumentiert_.
+
+		**English**: The philosophers argued very precisely.
 
 5. haben, anfangen, beginnen, zunehmen, erhöhen, abnehmen, verringern, aufhören
 
 	a) Er _hat_ Glück _gehabt_.
+
+		**English**: He had lucky.
+
 	a) Der Unterricht _hat_ schon _angefangen_.
+
+		**English**: The class already started.
+
 	a) Die kalte Jahreszeit _hat_ _begonnen_.
+
+		**English**: The cold season has begun.
+
 	a) Da die Leute zu viele ungesunde Dinge essen, _haben_ sie _zugenommen_.
+
+		**English**: Since people ate too much unhealthy food, they gained weight.
+
 	a) Die Steuern _haben_ sich wieder _erhöht_.
+
+		**English**: The taxes increased again.
+
 	a) Die Anzahl der Wähler _hat_ erneut _abgenommen_.
+
+		**English**: The number of voters decreased again.
+
 	a) Die Polizei _hat_ die Anzahl der Diebstähle _verringert_.
+
+		**English**: The police reduced the number of thefts.
+
 	a) Es _hat_ _aufgehört_ zu regnen.
+
+		**English**: It stopped raining.
+
 
 [^shaobing]: : Shāobing ist ein chinesisches rundes Gebäck (Nahrungsmittel).
 [^zustandsaenderung]: : Die Definition einer Zustandsänderung ist schwierig und ungenau. Man könnte anbringen, dass jede Handlung eine Zustandsänderung zur Folge hat und diese auch ausdrückt. Zum Beispiel drückt _"Sie hat gegessen."_ aus, dass _Sie_ bereits gegessen hat, während eine andere Person vielleicht noch nicht gegessen hat, wodurch der Unterschied der Zustände beider Personen ausgedrückt wird.

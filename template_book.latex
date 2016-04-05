@@ -2,7 +2,7 @@
 \errorcontextlines 10000
 
 % DOCUMENT ATTRIBUTES
-\documentclass[12pt, a4paper, parskip=full, openany, twoside]{book}
+\documentclass[10pt, a4paper, parskip=full, openany, twoside]{book}
 % 12pt         : main font size
 % a4paper      : paper format
 % parskip=full : ???
