@@ -32,7 +32,7 @@ Table: Ersetzungen für deutsche Umlauten
 Da diese Schreibweise nicht jedem bekannt ist und manche Leute sie nicht akzeptieren, empfehle ich Deutschlernern sie (noch) nicht anzuwenden. In diesem Dokument werde ich die allgemein akzeptierte Schreibweise mit deutschen Umlauten verwenden. Dieser Hinweis dient hoffentlich, Verwirrung über meine Schreibweise aufzuklären, sollte ich in diesem Dokument versehentlich Umlaute, der Tabelle gemäß, ersetzen.
 
 
-I tend to replace the German _Umlaute_ as follows:
+**English**: I tend to replace the German _Umlaute_ as follows:
 
 +--------+-------------+
 | Umlaut | Replacement |
@@ -52,7 +52,7 @@ I tend to replace the German _Umlaute_ as follows:
 
 Table: Replacements for German Umlaute
 
-Since this way of writing is not known to everyone and some people have trouble accepting it as a valid way of writing, I do not recommend it to people, who are learning German. In this document, I will use the more generally accepted way of spelling words using the German _Umlaute_. This note hopefully serves to clear up confusion in case I accidently use my way of writing within this document.
+**English**: Since this way of writing is not known to everyone and some people have trouble accepting it as a valid way of writing, I do not recommend it to people, who are learning German. In this document, I will use the more generally accepted way of spelling words using the German _Umlaute_. This note hopefully serves to clear up confusion in case I accidently use my way of writing within this document.
 
 ## Ratschläge
 
@@ -101,91 +101,91 @@ TODO
 
 i. Ist dieser Satz korrekt?
 
-	(Is this phrase correct?)
+	**English**: Is this phrase correct?
 
 ii. Kannst du es noch einmal wiederholen?
 
-	(Can you repeat that one more time?)
+	**English**: Can you repeat that one more time?
 
 iii. Das habe ich nicht verstanden.
 
-	(I did not understand that.)
+	**English**: I did not understand that.
 
 iv. Kannst du etwas langsamer sprechen?
 
-	(Can you speak a little bit slower?)
+	**English**: Can you speak a little bit slower?
 
 v. Wie schreibt man ... ?
 
-	(How do you write ...?)
+	**English**: How do you write ...?
 
 vi. Wie buchstabiert man ... ?
 
-	(How do you spell ...?)
+	**English**: How do you spell ...?
 
 vii. Wie spricht man ... aus?
 
-	(How do you pronounce ... ?)
+	**English**: How do you pronounce ... ?
 
 viii. Wie sagt man ... auf Deutsch?
 
-	(How do you say ... in German?)
+	**English**: How do you say ... in German?
 
 ix. Was bedeutet ... ?
 
-	(What is the meaning of ... ?)
+	**English**: What is the meaning of ... ?
 
 x. Kannst du das genauer erklären?
 
-	(Can you explain that in more detail?)
+	**English**: Can you explain that in more detail?
 
 xi. Kannst du meinen Text korrigieren?
 
-	(Can you revise my text?)
+	**English**: Can you revise my text?
 
 xii. Lass mich deinen Text lesen.
 
-	(Let me read your text.)
+	**English**: Let me read your text.
 
 xiii. Welcher Satz kannst du nicht übersetzen?
 
-	(Which phrase can you not translate?)
+	**English**: Which phrase can you not translate?
 
 xiv. Bei welchem Satz brauchst du Hilfe?
 
-	(With which phrase do you need help?)
+	**English**: With which phrase do you need help?
 
 xv. Kann ich dir helfen?
 
-	(Can I help you?)
+	**English**: Can I help you?
 
 xvi. Lass mich dir helen.
 
-	(Let me help you.)
+	**English**: Let me help you.
 
 xvii. Dein Satz ist fast richtig.
 
-	(Your phrase is almost correct.)
+	**English**: Your phrase is almost correct.
 
 xviii. Dein Satz ist nicht ganz richtig.
 
-	(Your phrase is not entirely correct.)
+	**English**: Your phrase is not entirely correct.
 
 xix. In deinem Satz gibt es einen Fehler.
 
-	(There is a mistake in your phrase.)
+	**English**: There is a mistake in your phrase.
 
 xx. Dein Satz ist richtig.
 
-	(You phrase is correct.)
+	**English**: You phrase is correct.
 
 xxi. Das hast du gut gemacht!
 
-	(Well done!)
+	**English**: Well done!
 
 xxii. Du solltest ... noch einmal üben.
 
-	(You should practice ... again.)
+	**English**: You should practice ... again.
 
 xxiii. Ich weiß nicht worum es geht.
 
@@ -193,25 +193,25 @@ xxiii. Ich weiß nicht worum es geht.
 
 * Versuche einen Tagebucheintrag zu schreiben. Frage einen Muttersprachler oder eine Muttersprachlerin, ob er oder sie dir dabei helfen kann. Versuche dabei so viel wie möglich selbst zu schreiben. Weißt du nicht wie man ein Wort schreibt oder wie du einen Satz formulieren kannst, dann frage einfach nach.
 
-	Try to write a diary entry. Ask a native speaker, if they can help you. Try to write as much as you can yourself. If you don't know a word or how to put a phrase, ask a native speaker.
+	**English**: Try to write a diary entry. Ask a native speaker, if they can help you. Try to write as much as you can yourself. If you don't know a word or how to put a phrase, ask a native speaker.
 
-	TODO: 汉语
+	**汉语**: TODO
 
 * Lasse dir von einem Muttersprachler oder einer Muttersprachlerin etwas vorlesen und versuche ohne den Text zu sehen so viel wie möglich zu verstehen. Falls du nichts verstehst, könnt ihr ein Lesetempo finden, das angemessen ist.
 
-	Let a native speaker read something to you and try to understand as much as possible, not looking at the text. In case you don't understand anything, you can find an appropriate speed of reading.
+	**English**: Let a native speaker read something to you and try to understand as much as possible, not looking at the text. In case you don't understand anything, you can find an appropriate speed of reading.
 
 * Höre dir ein interessantes Hörbuch an.
 
-	Listen to an interesting audio book.
+	**English**: Listen to an interesting audio book.
 
 * Höre Radio in der Fremdsprache.
 
-	Listen to radion in the foreign language.
+	**English**: Listen to radion in the foreign language.
 
 * Gehe zu einem Sprachtreffen um mit Leuten sprechen zu üben.
 
-	Visit a language meeting, to practice speaking the language with people.
+	**English**: Visit a language meeting, to practice speaking the language with people.
 
 # Übersetzen
 
@@ -321,23 +321,23 @@ The two words _das_ and _dass_ are completely different in their usage. _Das_ is
 
 1. Es überraschte mich, \shortgap niemand ans Telefon ging.
 
-	(It surprised me, that no one answered the phone.)
+	**English**: It surprised me, that no one answered the phone.
 
 2. Die Universität, die \shortgap Zertifikat ausstellt, ist in Berlin.
 
-	(The university, which issued the certificate, is in Berlin.)
+	**English**: The university, which issued the certificate, is in Berlin.
 
 3. Das Chinesisch-Treffen, \shortgap ich besuche ist in der Nähe vom Alexanderplatz.
 
-	(The Chinese meeting, which I visit, is near Alexanderplatz.)
+	**English**: The Chinese meeting, which I visit, is near Alexanderplatz.
 
 4. Nach einer Stunde des Wartens sahen wir ein, \shortgap das weiteres Warten sinnlos gewesen wäre.
 
-	(After waiting one hour we realized, that further waiting wouldn't serve us.)
+	**English**: After waiting one hour we realized, that further waiting wouldn't serve us.
 
 5. Man konnte nicht vorhersehen, \shortgap \shortgap (2 Wörter, 2 words) Wetter so schlecht sein würde.
 
-	(One couldn't foresee, that the weather would be this bad.)
+	**English**: One couldn't foresee, that the weather would be this bad.
 
 # Hilfsverben
 
@@ -351,45 +351,45 @@ The two words _das_ and _dass_ are completely different in their usage. _Das_ is
 
 1. Gestern \shortgap wir in der Bahn kontrolliert worden.
 
-	(Yesterday they checked our tickets in the train.)
+	**English**: Yesterday they checked our tickets in the train.
 
 2. \shortgap Sie schon Ihre Verwandten besucht?
 
-	(Did you already visit your relatives?)
+	**English**: Did you already visit your relatives?
 
 3. Für das neue Semester \shortgap sich schon viele Studenten angemeldet.
 
-	(Many students already signed up for the new semester.)
+	**English**: Many students already signed up for the new semester.
 
 4. Die Hausaufgaben \shortgap bereits gelöst.
 
-	(The homework is already done.)
+	**English**: The homework is already done.
 
-	\begin{pinyinscope}(作业结束了．)\end{pinyinscope}
+	**功课**: 作业结束了。
 
 5. In der Kaufhalle \shortgap viele Menschen.
 
-	(There are many people in the supermarket.)
+	**English**: There are many people in the supermarket.
 
 6. \shortgap der Weihnachtsmann dieses Jahr kommen?
 
-	(Will Santa come this year?)
+	**English**: Will Santa come this year?
 
 7. Am Donnerstag \shortgap wir die Klausur geschrieben haben.
 
-	(On Thursday we will have written the exam.)
+	**English**: On Thursday we will have written the exam.
 
 8. Vorheriges Jahr \shortgap die Firma bereits pleite.
 
-	(Last year the company was already bankrupt.)
+	**English**: Last year the company was already bankrupt.
 
 9. Vorheriges Jahr ist die Firme bereits pleite \shortgap.
 
-	(Last year the company has already been bankrupt.)
+	**English**: Last year the company has already been bankrupt.
 
 10. Um 16:00 \shortgap der Zug schon unterwegs sein.
 
-	(At 16:00 the train will have been on its way already.)
+	**English**: At 16:00 the train will have been on its way already.
 
 ## Aufgabe 2
 
@@ -401,21 +401,21 @@ The two words _das_ and _dass_ are completely different in their usage. _Das_ is
 
 1. Es \shortgap sehr viele Menschen in Berlin.
 
-	(There are many people in Berlin.)
+	**English**: There are many people in Berlin.
 
-	(在柏林有很多人。)
+	**汉语**: 在柏林有很多人。
 
 2. Gestern \shortgap es geregnet.
 
-	(Yesterday it was raining.)
+	**English**: Yesterday it was raining.
 
-	(昨天下雨。)
+	**汉语**: 昨天下雨。
 
 3. Am Montag \shortgap ich Eis gegessen.
 
-	(On Monday I've eaten ice cream.)
+	**English**: On Monday I've eaten ice cream.
 
-	(周一我吃过冰淇淋。)
+	**汉语**: 周一我吃过冰淇淋。
 
 <!-- ??? Was war mit diesem Satz gemeint? Keines der Verben passt. 4. Es \shortgap immer noch Menschen die kein Englisch sprechen können.
 
