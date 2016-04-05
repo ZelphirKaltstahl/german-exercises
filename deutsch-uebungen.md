@@ -526,20 +526,44 @@ The two words _das_ and _dass_ are completely different in their usage. _Das_ is
 1. intransitive Verben die eine Ortsänderung des Subjekts ausdrücken
 
 	a) Er _ist_ nach Hause _gelaufen_.
+
+		**English**: He walked home.
+
 	a) Sie _sind_ in den Urlaub _gefahren_.
+
+		**English**: They went on vacation.
 
 2. intransitive Verben der Zustandsänderung des Subjekts
 
 	a) Der See _ist_ _zugefroren_.
+
+		**English**: The lake froze.
+
 	a) Die Dinosaurier _sind_ _ausgestorben_.
+
+		**English**: The dinosaurs are extinct.
 
 3. sein, bleiben, werden, passieren, geschehen
 
 	a) _Bist_ du im Supermarkt _gewesen_?
+
+		**English**: Were you at the super market?
+
 	a) Er _ist_ in China _geblieben_.
+
+		**English**: He stayed in China.
+
 	a) Ihre Kinder _sind_ schon groß _geworden_.
+
+		**English**: Their children already grew up.
+
 	a) _Ist_ es dir schon einmal _passiert_, dass du den Schlüssel vergessen hast?
+
+		**English**: Did it already happen to you once, that you forgot the key.
+
 	a) Gestern _ist_ etwas merkwürdiges _geschehen_.
+
+		**English**: Yesterday something strange happened.
 
 ### Verben der Ortsänderung des Subjektes
 
