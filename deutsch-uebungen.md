@@ -1,0 +1,1479 @@
+% Deutsch Übungen
+% 样小龙
+
+# Hinweise (Eng. Note)
+
+## Rechtschreibung
+
+Normalerweise ersetze ich die deutschen Umlaute wie folgt:
+
++--------+-----------+
+| Umlaut | Ersetzung |
++========+===========+
+| Ä      | Ae        |
++--------+-----------+
+| Ö      | Oe        |
++--------+-----------+
+| Ü      | Ue        |
++--------+-----------+
+| ä      | ae        |
++--------+-----------+
+| ö      | oe        |
++--------+-----------+
+| ü      | ue        |
++--------+-----------+
+
+Table: Ersetzungen für deutsche Umlauten
+
+Da diese Schreibweise nicht jedem bekannt ist und manche Leute sie nicht akzeptieren, empfehle ich Deutschlernern sie (noch) nicht anzuwenden. In diesem Dokument werde ich die allgemein akzeptierte Schreibweise mit deutschen Umlauten verwenden. Dieser Hinweis dient hoffentlich, Verwirrung über meine Schreibweise aufzuklären, sollte ich in diesem Dokument versehentlich Umlaute, der Tabelle gemäß, ersetzen.
+
+
+I tend to replace the German _Umlaute_ as follows:
+
++--------+-------------+
+| Umlaut | Replacement |
++========+=============+
+| Ä      | Ae          |
++--------+-------------+
+| Ö      | Oe          |
++--------+-------------+
+| Ü      | Ue          |
++--------+-------------+
+| ä      | ae          |
++--------+-------------+
+| ö      | oe          |
++--------+-------------+
+| ü      | ue          |
++--------+-------------+
+
+Table: Replacements for German Umlaute
+
+Since this way of writing is not known to everyone and some people have trouble accepting it as a valid way of writing, I do not recommend it to people, who are learning German. In this document, I will use the more generally accepted way of spelling words using the German _Umlaute_. This note hopefully serves to clear up confusion in case I accidently use my way of writing within this document.
+
+## Ratschläge
+
+* Es ist sinnvoll die Lösungen der Übungen mit einem Muttersprachler zu kontrollieren, der Bedeutungen von Sätzen und Wörtern erklären kann.
+	
+	_It makes sence to check the solutions to the exercises with a native speaker, who is able to explain meanings of phrases and words._
+
+* Versuche die Muster hinter dem Gebrauch von Wörtern zu erkennen.
+	
+	_Try to recognize the patterns of usage of words._
+
+* Wenn du eine neue Vokabel lernst, die ein Nomen (Substantiv) ist, dann solltest du den Artikel mit der Vokabel zusammen lernen.
+
+	_When you learn a new vocable, if it is a noun, it is best to lern the article at the same time._
+
+# Danksagung
+
+TODO
+
+# Übersetzen
+
+TODO
+
+# Vokabular (Lückentexte)
+
+TODO: Einleitungstext
+
+## Thema Schule
+
+TODO
+
+## Thema Studium
+
+TODO
+
+## Thema Straßenverkehr
+
+TODO
+
+## Thema Wetter
+
+TODO
+
+## Thema Beziehungen
+
+TODO
+
+# Wortreihenfolge
+
+Verbinde die Wörter jeweils zu ganzen Sätzen. Unterschiedliche Lösungen können jeweils richtig sein.
+
+(Form a whole phrase with each group of words. Various solutions can be correct for each group of words.)
+
+1. können, wichtig, ist, einsetzen, Beruf, in, Fähigkeit, Universität, erlernte, im, der, zu, .
+2. bin, professionelle, noch, ich, Komponistin, keine, .
+3. ich, New Age, gerne, Musik, höre, .
+4. komponieren, dein, Hobby, ist, größtes, Musik, ?
+5. einfach, nicht, Deutsch, sein, lernen, immer, .
+6. gehe, Chinesisch-Sprachtreffen, gerne, zum, ich, .
+7. kam, suchte, ich, einen, Tandempartner, ich, nach, als, Deutschland, .
+8. in, zwei, Jahre, studiere, Berlin, ich, schon, .
+9. meine, ich, erledigt, Hausaufgaben, habe, schon, .
+
+# Artikel der, die, das
+
+## Merkregeln
+
+<!-- +--------------+-----------------------------------------------------------------------+
+| Artikel      | Vorkommen                                                             |
++==============+=======================================================================+
+| die (female) | Plural (außer bei Genitiv und Akkusativ),                             |
+|              |                                                                       |
+|              | -ung, -ion, -heit, -schaft, -ei, -in, -tät, -enz, -ie, -ik, -sis, -ur |
++--------------+-----------------------------------------------------------------------+
+| der (male)   | -ling, -ig, -ich, -ismus, -ant, -ast, -ent, -ist, -or, -us            |
++--------------+-----------------------------------------------------------------------+
+| das (neuter) | -chen, -lein, -tel, -tum, -nis, -em, -in, -um, -ma, -ment             |
++--------------+-----------------------------------------------------------------------+
+
+Table: Geschlecht von Nomen anhand von Endungen
+
+\begin{tabu} [H] {X[0.2]|[1.1pt]X[0.8]}
+	\rowfont[c]{\bfseries}Artikel & Vorkommen / Endungen\\\tabucline[1.1pt]{-}
+	die (weiblich) & Plural (außer bei Genitiv und Akkusativ), -ung, -ion, -heit, -schaft, -ei, -in, -tät, -enz, -ie, -ik, -sis, -ur\\
+	der (männlich) & -ling, -ig, -ich, -ismus, -ant, -ast, -ent, -ist, -or, -us\\
+	das (neuter) & -chen, -lein, -tel, -tum, -nis, -em, -in, -um, -ma, -ment
+\end{tabu} -->
+
+\begin{longtabu} to \linewidth [H] {X[0.2]|[1.1pt]X[0.8]}
+	\rowfont[c]{\bfseries}Artikel & Vorkommen / Endungen\\\tabucline[1.1pt]{-}
+	die (weiblich) & Plural (außer bei Genitiv und Akkusativ), -ung, -ion, -heit, -schaft, -ei, -in, -tät, -enz, -ie, -ik, -sis, -ur\\
+	der (männlich) & -ling, -ig, -ich, -ismus, -ant, -ast, -ent, -ist, -or, -us\\
+	das (neuter) & -chen, -lein, -tel, -tum, -nis, -em, -in, -um, -ma, -ment\\
+	\caption{Geschlecht von Nomen anhand von Endungen}
+\end{longtabu}
+
+Falls das Nomen aus mehr als einem Wort besteht, ein so genanntes zusammengesetztes Nomen ist, richtet sich der Artikel nach dem letzten dieser Wörter.
+
+_In nouns, which consist of more than one word, so called compund nouns, the definite article depends on the last of those words._
+
+# Beantworten von Fragen
+
+TODO
+
+# Nützliche Wörter
+
+* und (和，跟)
+* oder (还是，或者，．．．)
+* aber (不过，但是，．．．)
+* trotzdem
+* obwohl (尽管)
+* dennoch
+* jedoch
+* noch (还)
+* schon (已经)
+* außerdem
+* weiterhin
+* des Weiteren
+
+# Sprichwörter
+
+1. Es ist noch kein Meister vom Himmel gefallen.
+2. ...
+
+TODO
+
+# Unterscheidung von das und dass
+
+## Erklärung
+
+Es handelt sich um 2 grundsätzlich verschiedene Wörter. _das_ ist ein Artikel und _dass_ ist eine so genannte Konjunktion. _das_ bezieht sich immer auf eine Sache, wohingegen _dass_ die Beschreibung eines Sachverhalt einleitet.
+
+## Übungsaufgaben
+
+Setze in die folgenden Sätze jeweils _das_ oder _dass_[^dass_alte_rechtschreibung] richtig ein.
+
+[^dass_alte_rechtschreibung]: : Nach alter Rechtschreibung wurde dieses _dass_ mit _ß_ geschrieben (_daß_). Immer noch schreiben viele Menschen mit _ß_ anstatt doppeltem _s_.
+
+(Insert _das_ or _dass_[^dass_old_spelling] correctly in each of the following phrases.)
+
+[^dass_old_spelling]: : According to old spelling, _dass_ was written with _ß_ instead (_daß_). Still many people use _daß_ instead of _dass_.
+
+1. Es überraschte mich, \shortgap niemand ans Telefon ging.
+2. Die Universität, die \shortgap Zertifikat ausstellt, ist in Berlin.
+3. Das Chinesisch-Treffen, \shortgap ich besuche ist in der Nähe vom Alexanderplatz.
+4. Nach einer Stunde des Wartens sahen wir ein, \shortgap das weiteres Warten sinnlos gewesen wäre.
+5. Man konnte nicht vorhersehen, \shortgap \shortgap (2 Wörter, 2 words) Wetter so schlecht sein würde.
+
+# Hilfsverben
+
+## Aufgabe 1
+
+Setze in die folgenden Sätze entweder _haben_, _sein_ oder _werden_ ein.
+
+(Insert either _haben_, _sein_ or _werden_ into the following phrases.)
+
+(TODO: 中文)
+
+1. Gestern \shortgap wir in der Bahn kontrolliert worden.
+
+	(Yesterday they checked our tickets in the train.)
+
+2. \shortgap Sie schon Ihre Verwandten besucht?
+
+	(Did you already visit your relatives?)
+
+3. Für das neue Semester \shortgap sich schon viele Studenten angemeldet.
+
+	(Many students already signed up for the new semester.)
+
+4. Die Hausaufgaben \shortgap bereits gelöst.
+
+	(The homework is already done.)
+
+	\begin{pinyinscope}(作业结束了．)\end{pinyinscope}
+
+5. In der Kaufhalle \shortgap viele Menschen.
+
+	(There are many people in the supermarket.)
+
+6. \shortgap der Weihnachtsmann dieses Jahr kommen?
+
+	(Will Santa come this year?)
+
+7. Am Donnerstag \shortgap wir die Klausur geschrieben haben.
+
+	(On Thursday we will have written the exam.)
+
+8. Vorheriges Jahr \shortgap die Firma bereits pleite.
+
+	(Last year the company was already bankrupt.)
+
+9. Vorheriges Jahr ist die Firme bereits pleite \shortgap.
+
+	(Last year the company has already been bankrupt.)
+
+10. Um 16:00 \shortgap der Zug schon unterwegs sein.
+
+	(At 16:00 the train will have been on its way already.)
+
+## Aufgabe 2
+
+Setze eines der folgenden Verben in die folgenden Sätze ein: haben, sein, geben
+
+(Insert one of the following verbs into the phrases: haben, sein, geben)
+
+1. Es \shortgap sehr viele Menschen in Berlin.
+
+	(There are many people in Berlin.)
+
+2. Gestern \shortgap es geregnet.
+
+	(Yesterday it was raining.)
+
+3. Gestern \shortgap es Regen.
+
+	(Yesterday there was rain.)
+
+4. Am Montag \shortgap ich Eis gegessen.
+
+	(On Monday I've been eating ice cream.)
+
+5. Es \shortgap immer noch Menschen die kein Englisch sprechen können.
+
+	(There are still many people, who can't speak English.)
+
+# Verwendung von _haben_ oder _sein_ im Perfekt
+
+## Grammatik
+
+### Haben
+
+* reflexive Verben
+* transitive Verben (erfordern 2 Argumente)
+* intransitive Verben die keine Ortsänderung des Subjekts ausdrücken
+* intransitive Verben die keine Zustandsänderung des Subjekts ausdrücken
+* haben, anfangen, beginnen, zunehmen, erhöhen, abnehmen, verringern, aufhören
+
+### Sein
+
+* intransitive Verben die eine Ortsänderung des Subjekts ausdrücken
+* intransitive Verben der Zustandsänderung des Subjekts
+* sein, bleiben, werden, passieren, geschehen
+
+### Beispiele mit Haben
+
+1. reflexive Verben
+
+	a) Er _hat_ _sich_ sehr über die Shāobing[^shaobing] _gefreut_.
+	a) Sie _hatte_ _sich_ schon immer _gefragt_, wann sie haben und wann sie sein verwenden musste.
+
+2. transitive Verben (haben 2 Argumente)
+
+	a) Wir _haben_ das Geschirr _abgewaschen_.
+	a) Die Kinder _haben_ eine Sandburg _gebaut_.
+
+3. intransitive Verben die keine Ortsänderung des Subjekts ausdrücken
+
+	a) Sie _hat_ _komponiert_.
+	a) Ihr _habt_ _geplant_.
+
+4. intransitive Verben die keine Zustandsänderung des Subjekts ausdrücken
+
+	a) Die Erwachsenen _haben_ lange _diskutiert_.
+	a) Die Philosophen _haben_ sehr genau _argumentiert_.
+
+5. haben, anfangen, beginnen, zunehmen, erhöhen, abnehmen, verringern, aufhören
+
+	a) Er _hat_ Glück _gehabt_.
+	a) Der Unterricht _hat_ schon _angefangen_.
+	a) Die kalte Jahreszeit _hat_ _begonnen_.
+	a) Da die Leute zu viele ungesunde Dinge essen, _haben_ sie _zugenommen_.
+	a) Die Steuern _haben_ sich wieder _erhöht_.
+	a) Die Anzahl der Wähler _hat_ erneut _abgenommen_.
+	a) Die Polizei _hat_ die Anzahl der Diebstähle _verringert_.
+	a) Es _hat_ _aufgehört_ zu regnen.
+
+[^shaobing]: : Shāobing ist ein chinesisches rundes Gebäck (Nahrungsmittel).
+[^zustandsaenderung]: : Die Definition einer Zustandsänderung ist schwierig und ungenau. Man könnte anbringen, dass jede Handlung eine Zustandsänderung zur Folge hat und diese auch ausdrückt. Zum Beispiel drückt _"Sie hat gegessen."_ aus, dass _Sie_ bereits gegessen hat, während eine andere Person vielleicht noch nicht gegessen hat, wodurch der Unterschied der Zustände beider Personen ausgedrückt wird.
+
+### Beispiele mit Sein
+
+1. intransitive Verben die eine Ortsänderung des Subjekts ausdrücken
+
+	a) Er _ist_ nach Hause _gelaufen_.
+	a) Sie _sind_ in den Urlaub _gefahren_.
+
+2. intransitive Verben der Zustandsänderung des Subjekts
+
+	a) Der See _ist_ _zugefroren_.
+	a) Die Dinosaurier _sind_ _ausgestorben_.
+
+3. sein, bleiben, werden, passieren, geschehen
+
+	a) _Bist_ du im Supermarkt _gewesen_?
+	a) Er _ist_ in China _geblieben_.
+	a) Ihre Kinder _sind_ schon groß _geworden_.
+	a) _Ist_ es dir schon einmal _passiert_, dass du den Schlüssel vergessen hast?
+	a) Gestern _ist_ etwas merkwürdiges _geschehen_.
+
+### Verben der Ortsänderung des Subjektes
+
+gehen, kommen, schlendern, spazieren, stolzieren, marschieren, stapfen, wandern, wandeln, laufen, rennen, eilen, hetzen, jagen, fliehen, flüchten, fahren, reisen, fliegen, reiten, segeln, rudern rasen, rollen, brettern, dampfen, düsen, flitzen, sausen, klettern, steigen, klimmen, kraxeln, springen, hüpfen, hopsen, fallen, stürzen, stolpern, traucheln, eiern, kippen, aufwachen, aufstehen, auftauen, schlüpfen, ausbrechen, einbrechen, entweichen, entkommen
+schwimmen, tauchen, sinken, watscheln, flattern, schleichen, traben, galoppieren, hoppeln, tapsen, gleiten, rutschen, robben, kriechen, stampfen, trampeln, ...
+
+(Anmerkung: Verben, die das nicht Vorhandensein einer Ortsänderung ausdrücken zählen nicht zu den Verben der Ortsänderung und erfordern das Hilfsverb _haben_. Umgangssprachlich werden sie jedoch vor allem im Süden Deutschlands mit dem Hilfsverb _sein_ verwendet. Einige Beispiele sind _liegen_, _stehen_ und _sitzen_.)
+
+### Verben der Zustandsänderung
+
+* aufwachen, einschlafen, sterben, erkranken, gesunden, verblühen, verwelken gefrieren, tauen, sterben, zerfallen
+
+### Übung
+
+TODO
+
+Setze in die folgenden Sätze entweder _haben_ oder _sein_ ein.
+
+(Insert either _haben_ or _sein_ in the following phrases.)
+
+(将 _haben_, _sein_ 的其中之一填入下列短句中。)
+
+# Fälle
+
+## Nominativ (1. Fall)
+
+### Fragewörter
+
+Antworten auf die folgenden Fragewörter erfordern den Nominativ:
+
+* Wer
+* Was
+
+### Präpositionen
+
+(keine)
+
+## Genetiv (2. Fall)
+
+### Fragewörter
+
+Antworten auf die folgenden Fragewörter erfordern den Genitiv:
+
+* Wessen
+* Weswegen
+
+### Präpositionen
+
+aufgrund, auf Grund, wegen, trotz, ungeachtet, anstelle, an Stelle, statt, beiderseits, diesseits, jenseits, abseits, entlang, oberhalb, unterhalb, außerhalb, innerhalb, längs, seitlich, links, rechts, nördlich, östlich, südlich, westlich, unweit, weitab, während, anlässlich, angesichts, infolge, abzüglich, zuzüglich, anhand, aufseiten, auf Seiten, mithilfe, mit Hilfe, dank, zugunsten, zu Gunsten, zuungunsten, zu Ungunsten, zulasten, zu Lasten, um ... willen
+
+### Beispielsätze
+
+1. _Aufgrund_ des Unfalls war der Bahnverkehr gestört.
+2. _Ungeachtet_ der Warnungen von Umweltschützern bauten sie einen Staudamm.
+3. _Anstelle_ eines Zaunes errichteten sie eine Mauer.
+4. _Beiderseits_ des Flusses leben Menschen.
+5. _Diesseits_ des Gebirges erstreckt sich eine endlose Wüste.
+6. _Jenseits_ des Gebirges liegen grüne Täler.
+7. _Abseits_ der großen Städte ist die Bevölkerungsdichte gering.
+8. Das Dorf liegt _abseits_ der Straßen. Es ist nur über schmale Trampelpfade zu erreichen.
+9. Jeden Tag versammeln sich _entlang_ des Flusses viele Tiere.
+10. Sowohl _oberhalb_ als auch _unterhalb_ des Waldbodens leben viele Tiere.
+11. _Außerhalb_ des markierten Bereichs darf man nicht stehen.
+12. _Innerhalb_ der Städte ist es wärmer.
+13. Der Baumstamm liegt _längs_ des Flusses.
+14. Die Hundehütte steht _seitlich_ des Hauses.
+15. _Während_ der Vorführung des Films musste er mehrmals auf die Toilette gehen.
+16. _Anlässlich_ des 20-jährigen Bestehens der Firma wird ein Fest veranstaltet.
+17. _In Folge_[^mehrteiligeAdverbien] der Baumaßnahmen zogen viele Menschen in die Stadt.
+18. Die Miete _abzüglich_ der Nebenkosten beträgt 200\euro. _Zuzüglich_ der Nebenkosten beträgt sie 300\euro.
+19. _Anhand_ der neuen Statistik argumentierte der Minister sehr überzeugend.
+20. _Auf Seiten_ der Opposition wurde dieser Vorschlag stark kritisiert.
+21. _Mit Hilfe_ der neuen Straße könnte Stau verhindert werden.
+22. _Dank_ der neuen Straße gibt es wenig Stau.
+23. Die Wahl verlief _zu Gunsten_ von Herr Zhang.
+24. Die höheren Ausgaben im Bereich der Infrastruktur gehen _zu Lasten_ der Invesitionen im Bereich der Bildung.
+25. _Um_ Himmels _Willen_, tu das nicht!
+26. _Um_ Gottes _Willen_, das wäre zu viel.
+
+[^mehrteiligeAdverbien]: : Laut §39 des Dudens gilt: _"Mehrteilige Adverbien, Konjunktionen, Präpositionen und Pronomen schreibt man zusammen, wenn die Wortart, die Wortform oder die Bedeutung der einzelnen Bestandteile nicht mehr deutlich erkennbar ist."_ Meinem Ermessen nach ist die Bedeutung bei "infolge" oder "in Folge" sehr wohl erkennbar, denn "in der Folge von etwas" und "als Folge dessen" sind ohne Weiteres von jedem Muttersprachler zu verstehen. Des Weitern ist, anstelle des Dudens, seit 1996 die amtliche Rechtschreibregelung maßgeblich für die deutsche Rechtschreibung. In dieser (Ausgabe Feb. 2006) befindet sich der zitierte Paragraph ebenso.
+
+## Dativ (3. Fall)
+
+### Fragewörter
+
+Antworten auf die folgenden Fragewörter erfordern den Dativ:
+
+* Wem
+* Womit
+
+### Präpositionen
+
+aus, aus ... heraus, außer, bei, zu, bis zu, entgegen, entsprechend, gemäß, getreu, gegenüber, nahe, mit, nach, samt, mitsamt, seit, von, von ... aus, ... zufolge, ... zuliebe
+
+#### Beispielsätze
+
+1. Er kam aus der Kaufhalle _heraus_ und ging nach Hause.
+2. Aus der Not _heraus_ Wasser zu finden, wurden die Menschen erfinderisch und erfanden den Brunnen.
+3. Wir fahren heute _bis zu_ der Haltestelle, zu der wir auch gestern gefahren sind.
+4. _Entgegen_ der Erwartungen gab es keinen Sturm.
+5. Die Forscher maßen, der Theorie von Einstein _entsprechend_, Gravitationswellen.
+6. _Gemäß_ seinem Wunsch gingen sie zu dem Konzert.
+7. Den Regeln _gemäß_ darf man auf dem Bahnsteig nicht rauchen.
+8. Dem Plan _getreu_ kletterten sie auf das Dach des gegenüberliegenden Hauses.
+9. _Gegenüber_ der Kaufhalle gibt es eine Bibliothek.
+10. _Mit_ dem Stift kann man nicht mehr schreiben.
+11. Sie ist _mitsamt_ ihrem Rucksack ins Wasser gefallen.
+12. Die Brücke ist _mitsamt_ dem LKW in die Tiefe gestürzt.
+13. Ihrer Aussage _zufolge_ waren Sie um 15:00 noch nicht Zuhause.
+14. Seinen Eltern _zuliebe_ kam er schon um 20:00 nach Hause.
+
+## Akkusativ (4. Fall)
+
+### Fragewörter
+
+Antworten auf die folgenden Fragewörter erfordern den Akkusativ:
+
+* Wen
+* Was
+
+### Präpositionen
+
+an, auf, hinter, in, neben, über, unter, vor, zwischen, um, um ... herum, durch, ... entlang, für, gegen, ohne
+
+#### Beispielsätze
+
+1. _An_ der Schule gibt es viele Lehrer.
+2. _Auf_ dem Dach sitzt eine Taube.
+3. Ein Kind versteckte sich _hinter_ dem Baum.
+4. _In_ der Universität lernte ich wissenschaftliches Arbeiten.
+5. Stell die Vase _neben_ den Blumentopf.
+6. Er hat das Auto _neben_ dem Straßenschild geparkt.
+7. Ich muss _über_ deinen Vorschlag nachdenken.
+8. _Unter_ diesen Umständen muss ich Ihr Angebot ablehnen.
+9. Sie treffen sich jeden Tag _vor_ dem Hörsaal.
+10. _Zwischen_ den Häusern haben die Bewohner Wäscheleinen gespannt.
+11. Sie löschten das Feuer _um_ den Schaden zu begrenzen.
+12. Er rannte _um_ den Tisch _herum_.
+13. Wir fahren _gerade_ durch den Tunnel.
+14. Ihr geht immer an der Mauer _entlang_ und dann nach rechts.
+15. Sie sammeln noch Gegenstände für den Trödelmarkt.
+16. Man kann sich _gegen_ den Virus impfen lassen.
+17. Er kam _ohne_ den Einkauf nach Hause.
+
+# Reflexive Verben
+
+1. treffen / sich treffen
+	a) Sie spannt den Bogen und lässt den Pfeil von der Sehne schnellen. Sie \mediumgap die Zielscheibe genau in der Mitte.
+
+		(She draws the bow and lets loose the arrow. She hits the target right in the center.)
+
+	b) Sie haben sich verabredet, sie wollen \mediumgap.
+
+		(They made an appointment, they want to meet.)
+
+	c) Am Samstag wollen sie \mediumgap.
+
+		(At Saturday they want to meet.)
+
+	d) Heute haben sie schlecht gespielt. Sie haben das gegnerische Tor nicht ein einziges Mal \mediumgap. (Es geht um Fußball.)
+
+		(Today they played badly. They didn't hit the other team's goal once. (It's about soccer.))
+
+2. sehen / sich sehen
+	a) Wann werdet ihr \mediumgap ?
+
+		(When will you see each other?)
+
+	b) Er kann \mediumgap, dass der Zug in den Bahnhof einfährt.
+
+		(He can see, that the train arrives at the train station.)
+
+	c) \mediumgap nun zu Ihrer rechten. Dort sehen sie das Brandenburger Tor.
+
+		(Now look to your right side. There you'll see the Brandenburger Gate.)
+
+	d) Sie fuhren mit dem Auto in eine Sackgasse und mussten erst \mediumgap um wieder auf die Hauptstraße zu gelangen.
+
+		(They drove into an impasse with the car and had to turn, in order to get back on the main road.)
+
+	e) Eines Tages werden wir \mediumgap.
+
+		(One day we will see each other again.)
+
+	f) In der Menschenmenge war es nicht möglich, dass sie \mediumgap.
+
+		(In the crowd it was not possible for them to see each other.)
+
+	g) Bei gutem Wetter kann man vom Fernsehturm aus ganz Berlin \mediumgap.
+
+		(Under good weather conditions, one can see all of Berlin form the TV tower.)
+
+3. unterhalten / sich unterhalten
+	a) Die Lehrerin sagt zu ihren Schülern: Wir müssen \mediumgap.
+
+		(The teacher tells her students: "We have to talk.")
+
+	b) In einer Fabrik müssen viele Maschinen \mediumgap werden.
+
+		(In a factory many machines have to be maintained.)
+
+	c) In den Kinos werden viele Menschen \mediumgap.
+
+4. verlaufen / sich verlaufen
+	a) Wir erkundeten die Stadt aber schon nach einer Stunde hatten wir \mediumgap .
+
+		(We explored the city, but after only one hour we were lost.)
+
+	b) Der Käse auf der Pizza sollte ordentlich \mediumgap, bevor man die Pizza aus dem Ofen nimmt.
+
+		(The cheese on the pizza should melt properly, before one takes the pizza out of the oven.)
+
+	c) Auf dem neuen großen Flughafen ist es einfach \mediumgap.
+
+		(It's easy to lose your way at the new big airport.)
+
+	d) Auf einer Landkarte kann man erkennen, wie die Grenzen Chinas \mediumgap.
+
+		(On a map one can see, where the borders of China are.)
+
+5. vergeben / sich vergeben
+	a) In der letzten Vorlesung vor Weihnachten verteilte der Professor noch Plätzchen (Kekse zur Weihnachtszeit). Da ich zu spät kam, waren jedoch schon alle Plätzchen \mediumgap, als ich ankam.
+
+		(In the last lecture before Christmas the professor still distributed cookies. Because I was late, the cookies were already entirely distributed.)
+
+	b) Sie haben sich gestritten, aber schon am nächsten Tag haben sie \mediumgap.
+
+		(They had an argument, but the next day already they forgave each other.)
+
+	c) Er liebte sie sehr, jedoch war sie schon \mediumgap.
+
+		(He loved her dearly, but she was already with someone else.)
+
+6. drücken / sich drücken (umarmen) / sich um etwas drücken
+	a) Um den Computer auszuschalten, musst du diesen Knopf \mediumgap.
+
+		(To turn off the computer, you have to press this button.)
+
+	b) Als sie sich verabschiedeten sagte sie zu ihrem Kind: „Komm, lass \mediumgap.“
+
+		(When they said goodbye, she told her child: "Let me give you a hug.")
+
+	c) Am Mittwoch muss er einen Vortrag halten. Er holte sich eine Krankschreibung vom Arzt, um \mediumgap. (Hinweis: Er möchte den Vortrag nicht halten. Der Satz soll "vor dem Vortrag" enthalten und den Zweck der Krankschreibung erklären.)
+
+		(On Wednesday he has to give a talk. He got himself a sick note from the doctor, in order to not have to give the talk. Hint: He doesn't want to give the talk. The phrase shall contain "vor dem Vortrag" and explain the purpose of the sick note.)
+
+7. aufbauen / sich aufbauen
+	a) Nach dem schweren Erdbeben mussten die Menschen viele Gebäude wieder \mediumgap.
+
+		(After the heavy earthquake the people had to rebuild many buildings.)
+
+	b) Dieser Erfolg war wichtig um \mediumgap. (Bedeutung: motivieren)
+
+		(This success was important to motivate him.)
+
+8. ausmalen / sich etwas ausmalen
+	a) Man kann \mediumgap wie es um die Zukunft bestellt ist.
+
+		(One can imagine, what the future looks like.)
+
+	b) Im Kunstunterricht in der Grundschule sollten die Kinder heute etwas \mediumgap.
+
+		(In art class in primary school, the children were told to paint in something today.)
+
+9. hüten / sich hüten
+	a) Man sollte \mediumgap voreilige Schlussfolgerungen zu ziehen.
+
+		(One should beware of jumping to conclusions.)
+
+	b) Sie \mediumgap die geheimen Schriften wie einen Schatz.
+
+		(They keep the secret scripts like a treasure.)
+
+	c) \mediumgap vor den Hunden!
+
+		(Beware of the dogs!)
+
+10. übergeben / sich übergeben
+	a) Die Ware wurde schon am Donnerstag an DHL \mediumgap.
+
+		(On Thursday the good was delivered to DHL already.)
+
+	b) Sie hatte zu viel gegessen und musste \mediumgap.
+
+		(She ate too much and had to vomit.)
+
+11. verabschieden (ein Gesetz z.B.) / sich verabschieden
+	a) \mediumgap fiel ihnen schwer.
+
+		(Parting was difficult for them.)
+
+	b) Von Ihrem Geld können Sie \mediumgap!
+
+		(You can say good bye to your money.)
+
+	c) Der Bundestag hat gestern ein neues Gesetz \mediumgap.
+
+		(Yesterday the Bundestag established a new law.)
+
+12. umziehen / sich umziehen
+	a) Sie sind von Hamburg nach Berlin \mediumgap.
+
+		(They moved from Hamburg to Berlin.)
+
+	b) Nach dem Sport soll man \mediumgap.
+
+		(After doing sports one should change clothes.)
+
+	c) Sie wollen am Sonntag \mediumgap.
+
+		(They want to relocate on Sunday.)
+
+	d) Als er zur Arbeit kam musste er \mediumgap.
+
+		(When he arrived at work, he had to change clothes.)
+
+13. einstellen / sich auf etwas einstellen
+	a) In der Nacht von gestern auf heute wurden die Kampfeshandlungen \mediumgap.
+
+		(Yesterday night they stopped the hostilities.)
+
+	b) Du kannst die Bildschirmauflösung \mediumgap.
+
+		(You can set the screen resolution.)
+
+	c) Du kannst \mediumgap, dass der Winter kalt wird. (Hinweis: Der Satz enthält "darauf".)
+
+		(You can prepare for a cold winter. (Hint: The phrase contains "darauf".))
+
+	d) Auf die neuen Umstände mussten sie \mediumgap.
+
+		(They had to adapt to the new circumstances.)
+
+	e) In den Optionen musst du die Schriftgröße \mediumgap.
+
+		(You have to set the font size in the settings.)
+
+14. sich verlassen (auf etwas oder jemanden) / verlassen
+	a) Darauf kannst du \mediumgap.
+
+		(You can take it to the bank. / You bet! / You can rely on that.)
+
+	b) Als wir das Haus \mediumgap, fiel uns auf, dass wir etwas vergessen hatten.
+
+		(When we left the house, we noticed, that we had forgotten something.)
+
+	c) Das Unternehmen \mediumgap vollkommen auf die Mitarbeiter.
+
+		(The company relies entirely on its employees.)
+
+	d) Am Donnerstag muss er sie \mediumgap.
+
+		(On Thursday he had to leave her.)
+
+	e) Auf die Pünktlichkeit des Busses kann ich \mediumgap.
+
+		(I can rely on the punctuality of the bus.)
+
+15. vertiefen / sich vertiefen
+	a) Um den Mordfall aufzuklären, musste Sherlock Holmes \mediumgap. (*Hinweis: Enthält: "in" und "Dokumente"*)
+
+		(To solve the murder case, Sherlock Holmes had to delve into documents.)
+
+	b) Er \mediumgap in die vor ihm liegende Hausarbeit.
+
+		(He delved into the homework, lying before him.)
+
+	c) Wir müssen den Vorlesungsstoff \mediumgap.
+
+		(We have to deepen the lecture material.)
+
+	d) In dieses Buch habe ich \mediumgap.
+
+		(I've delved into this book.)
+
+16. vorstellen / sich etwas vorstellen
+	a) Am ersten Schultag sollten \mediumgap. (Hinweis: Der Satz enthält „alle Kinder“)
+
+		(On the first day of school the children were supposed to introduce themselves.)
+
+	b) Es ist schwierig sich das \mediumgap, aber es ist möglich.
+
+		(It's difficult to imagine that, but it's possible.)
+
+	c) Es klingt mir sehr unwahrscheinlich. Ich kann mir nicht \mediumgap, dass das funktioniert.
+
+		(It sounds very unlikely to me. I can't imagine that to work.)
+
+	d) Nachdem er den Raum betrat und seine Tasche abgestellt hatte, \mediumgap.
+
+		(After he entered the and put down his bag, he introduced himself.)
+
+	e) Kannst du dir ein Schachbrett \mediumgap?
+
+		(Can you imagine a chess board?)
+
+17. vorkommen / sich vorkommen
+	a) Wie oft ist es schon \mediumgap, dass es keinen Schnee zu Weihnachten gab?
+
+		(How often did it happen, that there was no snow on Christmas?)
+
+	b) Hier \mediumgap wie im Kindergarten!
+
+		(I feel like I am in a kindergarten here!)
+
+	c) In Anbetracht der gewaltigen Gebirgslandschaft vor einem \mediumgap. (Hinweis: verwende ein Adjektiv wie zum Beispiel: „unbedeutend“ oder „klein“)
+
+		(Considering the huge mountainscape in front, one can feel insignificant.)
+
+	d) Es kann schon \mediumgap, dass er Überstunden machen muss.
+
+		(It can happen, that one has to do overtime.)
+
+18. lieben / sich lieben / sich verlieben
+	a) Die Leute \mediumgap Pandas!
+
+		(The people love pandas!)
+
+	b) Sie sind schon viele Jahre verheiratet und \mediumgap noch immer.
+
+		(They're married for many years now and still love each other.)
+
+	c) Ihre Mutter sagte ihr immer: Irgendwann wirst du \mediumgap.
+
+		(Her mother always said: "Eventually you'll fall in love.")
+
+19. erhöhen / sich erhöhen
+	a) Die deutsche Bahn musste die Löhne der Lokführer \mediumgap.
+
+		(German Railways had to increase the sallary of their train drivers.)
+
+	b) Die Arbeitslosenquote des nächsten Jahres könnte \mediumgap.
+
+		(The unemployment rate of the next year could increase.)
+
+20. vorbereiten / sich vorbereiten
+	a) Gemeinsam werden wir das Treffen \mediumgap.
+
+		(Together we will prepare the meeting.)
+
+	b) Auf diese Prüfung muss ich \mediumgap.
+
+		(I have to prepare for this exam.)
+
+# Nützliches Sätze
+
+i. Ist dieser Satz korrekt?
+
+	(Is this phrase correct?)
+
+ii. Kannst du es noch einmal wiederholen?
+
+	(Can you repeat that one more time?)
+
+iii. Das habe ich nicht verstanden.
+
+	(I did not understand that.)
+
+iv. Kannst du etwas langsamer sprechen?
+
+	(Can you speak a little bit slower?)
+
+v. Wie schreibt man ... ?
+
+	(How do you write ...?)
+
+vi. Wie buchstabiert man ... ?
+
+	(How do you spell ...?)
+
+vii. Wie spricht man ... aus?
+
+	(How do you pronounce ... ?)
+
+viii. Wie sagt man ... auf Deutsch?
+
+	(How do you say ... in German?)
+
+ix. Was bedeutet ... ?
+
+	(What is the meaning of ... ?)
+
+x. Kannst du das genauer erklären?
+
+	(Can you explain that in more detail?)
+
+xi. Kannst du meinen Text korrigieren?
+
+	(Can you revise my text?)
+
+xii. Lass mich deinen Text lesen.
+
+	(Let me read your text.)
+
+xiii. Welcher Satz kannst du nicht übersetzen?
+
+	(Which phrase can you not translate?)
+
+xiv. Bei welchem Satz brauchst du Hilfe?
+
+	(With which phrase do you need help?)
+
+xv. Kann ich dir helfen?
+
+	(Can I help you?)
+
+xvi. Lass mich dir helen.
+
+	(Let me help you.)
+
+xvii. Dein Satz ist fast richtig.
+
+	(Your phrase is almost correct.)
+
+xviii. Dein Satz ist nicht ganz richtig.
+
+	(Your phrase is not entirely correct.)
+
+xix. In deinem Satz gibt es einen Fehler.
+
+	(There is a mistake in your phrase.)
+
+xx. Dein Satz ist richtig.
+
+	(You phrase is correct.)
+
+xxi. Das hast du gut gemacht!
+
+	(Well done!)
+
+xxii. Du solltest ... noch einmal üben.
+
+	(You should practice ... again.)
+
+xxiii. Ich weiß nicht worum es geht.
+
+# Präpositionen
+
+à, ab, abseits, abzüglich, als, an, anfangs, angelegentlich, angesichts, anhand, anlässlich, anstatt, anstelle, auf, auf Grund, aus, ausgenommen, ausschließlich, außer, außerhalb, bar, behufs, bei, betreffs, bezüglich, binnen, bis, bis an, bis auf, bis in, bis nach, bis vor, bis zu, dank, diesseits, durch, einbezüglich, eingedenk, einschließlich, entgegen, entlang, entsprechend, exklusive, fern, fernab, frei, für, gegen, gegenüber, gelegentlich, gemäß, getreu, gleich, halber, hinsichtlich, hinter, in, In punkto, In Sachen, infolge, inklusive, inmitten, innerhalb, je, jenseits, kontra, kraft, lang, längs, laut, links, mangels, minus, mit, mitsamt, mittels, nach, nächst, nah, namens, neben, nebst, nördlich, nordöstlich, nordwestlich, ob, oberhalb, ohne, östlich, per, plus, pro, quer, rechts, rücksichtlich, samt, seit, seit nach, seit über, seit vor, seitens, seitlich, statt, südlich, südöstlich, südwestlich, trotz, über, um, um … willen, unfern, ungeachtet, unter, unterhalb, unweit, vermittels, vermöge, vis à vis, voll, von, von … an, von … wegen, von Seiten, vor, vorbehaltlich, während, wegen, wider, zeit, zu, zufolge, zugunsten, zuliebe, zusätzlich, zuungunsten, zuzuglich, zwecks, zwischen
+
+Deutsch - Präposition + Artikel: am, ans, im, ins, vom, zum, zur
+
+# Wissen und Kennen
+
+Setze entweder _kennen_ oder _wissen_ in die folgenden Sätze ein.
+
+Insert either _kennen_ or _wissen_ into the following phrases.
+
+将 _kennen_, _wissen_ 的其中之一填入下列短句中。
+
+1. \shortgap du wann das nächste Chinesisch Meetup ist?
+
+	(Do you know when the next Chinese meetup is?)
+
+2. Es ist gut zu \shortgap, dass es dir gut geht.
+
+	(It's good to know you're well.)
+
+3. Sie \shortgap viele Leute in Berlin.
+
+	(She knows many people in Berlin.)
+
+4. Wie viel \shortgap du über die Geschichte Chinas?
+
+	(How much do you know about the history of China?)
+
+5. Er \shortgap viele chinesische Schriftzeichen.
+
+	(He knows many Chinese characters.)
+
+6. Man \shortgap noch nicht wie das Resultat der Wahlen lautet.
+
+	(TODO)
+
+7. Ich \shortgap nun was wir tun können.
+
+	()
+
+8. Sie \shortgap wie man Jiaozi macht.
+
+	()
+
+9. Wir haben den Film neulich gesehen. Wir \shortgap die Handlung des Films.
+
+	()
+
+10. Ich \shortgap mich in Berlin gut aus.
+
+	()
+
+11. \shortgap er schon von der Überraschung?
+
+	()
+
+12. Wer \shortgap schon was morgen passiert?
+
+	()
+
+13. Ich hatte zwei Jahre bei diesem Professor Vorlesungen. Ich \shortgap ihn.
+
+	()
+
+14. \shortgap  du den Weg zur nächsten U-Bahn-Station?
+
+	()
+
+15. \shortgap Sie wie ich von hier zur Volksbar komme?
+
+	()
+
+16. Man muss sich nur zu helfen \shortgap
+
+	()
+
+17. Ich frage einen Freund. Er \shortgap ein gutes authentisches Restaurant.
+
+	()
+
+18. Ich \shortgap nicht wie viel das kostet.
+
+	()
+
+19. \shortgap du wie spät es ist?
+
+	()
+
+20. Wenn man die Gegend \shortgap, dann bemerkt man die kleinen Veränderungen.
+
+	()
+
+
+# Schon und Noch
+
+Setze entweder _schon_ oder _noch_ in die folgenden Sätze ein. In manche Sätze kann man sowohl _schon_ als auch _noch_ einsetzen. Nur die Bedeutung ändert sich.
+
+Insert either _schon_ or _noch_ into the following phrases. In some phrases one may insert _schon_ as well as _noch_. Only the meaning changes.
+
+将 _schon_, _noch_ 的其中之一填入下列短句中。<!--TODO: vollstaendig uebersetzen!-->
+
+1. Kannst du dich \shortgap an letztes Jahr erinnern?
+2. Hast du den Film \shortgap nicht gesehen?
+3. Als er den Gesichtsausdruck seines Freundes sah, wusste er \shortgap was geschehen war.
+4. \shortgap nie haben die Forscher etwas so bedeutendes entdeckt.
+5. Das Schweigen hält \shortgap an.
+6. Ich habe die Hausaufgaben \shortgap gelöst.
+7. Es ist \shortgap kein Meister vom Himmel gefallen.[^MeisterVomHimmel]
+8. Er laß \shortgap eine Seite des Buches, dann kam der Zug.
+9. Die Menschen haben immer \shortgap nichts aus ihren Fehlern gelernt.
+10. Ich bin \shortgap um 6 Uhr augestanden.
+11. \shortgap hielten die alten Burgmauern der Witterung stand.
+12. Gestern war ich \shortgap bis 0 Uhr wach.
+13. Am ersten Tag haben wir \shortgap 10 Sehenswürdigkeiten Roms besichtigt.
+14. Die Forschung ist \shortgap nicht so weit.
+15. Warst du \shortgap einmal in China?
+16. Warst du \shortgap nie in China?
+17. Es gibt \shortgap viele Orte, die ich nicht besucht habe.
+18. Ich war \shortgap an vielen Orten, an denen es kaum Infrastruktur gab.
+19. Weißt du \shortgap was du später einmal werden möchtest?
+20. Als er 7 Jahre alt war, wollte er \shortgap Müllauto-Fahrer werden.
+ 
+[^MeisterVomHimmel]: : Bedeutung: Man muss Dinge erst üben, bevor man sie gut kann. Es ist normal zu Beginn Fehler zu machen oder nicht perfekte Resultate zu erzielen.
+
+# Wenn und Als
+
+## Grammatik
+
+_Wenn_ wird in folgenden Situationen verwendet:
+
+* Beschreibung von Ungewissem[^WennOderFalls]
+* Beschreibung von regelmäßigen Vorgängen
+* Beschreibung von zukünftigen Ereignissen
+
+[^WennOderFalls]: : In dieser Situation ist _falls_ die bessere Wahl, umgangssprachlich wird jedoch auch sehr oft _wenn_ verwendet, um eine von der Zeit unabhängige Bedingung zu beschreiben. Zum Beispiel: _"Wenn er dich nicht bezahlt hat, solltest du kündigen."_ und im Vergleich dazu: _"Falls er dich nicht bezahlt hat, solltest du kündigen."_ Im Englischen ist der Unterschied zwischen _when_ und _if_ deutlicher. Das Wort _when_ wird nur verwendet, um eine Zeit zu beschreiben, während _if_ nur verwendet wird, um Situationen zu unterscheiden.
+
+_Als_ wird in folgenden Situationen verwendet:
+
+* Beschreibung von Ereignissen in der Vergangenheit (außer regelmäßiger Vorgang)
+
+\newpage
+
+## Übung
+
+Setze entweder _wenn_ oder _als_ in die folgenden Sätze ein.
+
+Insert either _wenn_ or _als_ into the following phrases.
+
+1. Denke daran dein Essen mitzunehmen \shortgap du in die Schule gehst.
+2. \shortgap ich noch klein war, gingen wir immer in den Wald spielen.
+3. \shortgap ich nach Deutschland kam, suchte ich gleichen nach einen Sprachtandem-Partner.
+4. \shortgap ich ein einkaufen gehe, nehme ich einen Rucksack mit.
+5. Wollen wir uns treffen, \shortgap du Zeit hast?
+6. Wir müssen aussteigen, \shortgap der Zug am Hauptbahnhof hält.
+7. \shortgap zum Essen gerufen wird, ist die ganze Familie schnell am Tisch.
+8. Gestern, \shortgap ich Hausaufgaben erledigte, bemerkte ich einen Fehler.
+9. \shortgap wir neulich Jiaozi aßen, ist mir eine Idee gekommen.
+10. Er führte 3 zu 0, \shortgap er den Aufschlag bekam.
+11. Was war dein Plan, \shortgap du diesen Schachzug ausführtest?
+12. Immer \shortgap die Kinder gute Noten hatten, durften sie sich Eis am Eiswagen kaufen.
+13. \shortgap sie anfing zu rennen schlossen sich die Türen des Zuges schon.
+14. \shortgap die Sonne untergeht, hat der Himmel eine wunderschöne Farbe.
+15. Wir fuhren mit dem Fahrrad nach Hause, \shortgap die Sonne unterging.
+16. Die Kinder werden müde sein, \shortgap sie nach Hause kommen.
+17. Sein Mobiltelefon klingelte genau dann, \shortgap er auf Toilette war.
+18. \shortgap man Strom sparen will, kann man den Stromsparmodus nutzen.
+19. \shortgap du morgen nicht erscheinst, dann rufe ich dich an.
+20. \shortgap sie in der Schule saßen erinnerte sie sich daran, dass ihr Vater gesagt hatte, sie solle sich melden, \shortgap sie die Antwort auf die Fragen der Lehrer wusste.
+
+# Vergleiche mit Wie und Als
+
+## Grammatik
+
+TODO
+
+## Übung
+
+TODO
+
+# Relativsätze
+
+## Grammatik
+
+<!-- \begin{tabular}{c|c|c|c|c}
+	\hline
+	 & \multicolumn{3}{|c|}{Singular} & \multirow{2}{2.8em}{Plural} \\
+	\null & Maskulin & Feminin & Neutral\\
+	\hline
+	\hline
+	Nominativ & der & die & das & die\\
+	\hline
+	Genitiv	& dessen & deren & dessen & deren\\
+	\hline
+	Dativ & dem & der & dem & denen\\
+	\hline
+	Akkusativ & den & die & das & die\\
+	\hline
+\end{tabular} -->
+
+<!-- \begin{tabular}{c|c|c|c|c}
+	\hline
+	 & \multicolumn{3}{|c|}{Singular} & Plural \\
+	\null & Maskulin & Feminin & Neutral & (alle)\\
+	\hline
+	\hline
+	Nominativ & der & die & das & die\\
+	\hline
+	Genitiv	& dessen & deren & dessen & deren\\
+	\hline
+	Dativ & dem & der & dem & denen\\
+	\hline
+	Akkusativ & den & die & das & die\\
+	\hline
+\end{tabular} -->
+
+<!-- \begin{table}[H]
+	\centering
+	\ra{1.3}
+	\begin{tabular}{ccccc}
+		\toprule
+		& \multicolumn{3}{c}{Singular} & Plural\\
+		\cmidrule{2-4}
+		\null & Maskulin & Feminin & Neutral & (alle)\\
+		\midrule
+		Nominativ & der & die & das & die\\
+		Genitiv	& dessen & deren & dessen & deren\\
+		Dativ & dem & der & dem & denen\\
+		Akkusativ & den & die & das & die\\
+		\bottomrule
+	\end{tabular}
+	\caption{Relativpronomen}
+\end{table} -->
+
+<!-- \begin{table}[H]
+	\centering
+	\ra{1.3}
+	\begin{tabular}{c|ccc|c}
+		& \multicolumn{3}{|c|}{Singular} & Plural\\
+		\null & Maskulin & Feminin & Neutral & (alle)\\
+		\midrule
+		Nominativ & der & die & das & die\\
+		Genitiv	& dessen & deren & dessen & deren\\
+		Dativ & dem & der & dem & denen\\
+		Akkusativ & den & die & das & die
+	\end{tabular}
+	\caption{Relativpronomen (der, die, das)}
+\end{table}
+
+\begin{table}[H]
+	\centering
+	\ra{1.3}
+	\begin{tabular}{c|ccc|c}
+		& \multicolumn{3}{|c|}{Singular} & Plural\\
+		\null & Maskulin & Feminin & Neutral & (alle)\\
+		\midrule
+		Nominativ & welcher & welche & welches & welche\\
+		Genitiv	& --- & --- & --- & ---\\
+		Dativ & welchem & welcher & welchem & welchen\\
+		Akkusativ & welchen & welche & welches & welche
+	\end{tabular}
+	\caption{Relativpronomen (welcher, welche, welches)}
+\end{table}
+
+\begin{table} [H]
+	\centering
+	\begin{tabular}{[r|ccc|c]}
+		\hline
+		& \multicolumn{3}{|c|}{Singular} & Plural\\
+		\null & Maskulin & Feminin & Neutral & (alle)\\
+		\noalign{\hrule height 1pt}
+		Nominativ & welcher & welche & welches & welche\\
+		Genitiv	& --- & --- & --- & ---\\
+		Dativ & welchem & welcher & welchem & welchen\\
+		Akkusativ & welchen & welche & welches & welche\\
+		\hline
+	\end{tabular}
+	\caption{Relativpronomen (welcher, welche, welches)}
+	\label{Relativpronomen (welcher, welche, welches)}
+\end{table} -->
+
+\begin{tabu}[H]{c|[1.1pt]ccc|[1.1pt]c}
+	& \multicolumn{3}{c|[1.1pt]}{Singular} & Plural\\
+	& Maskulin & Feminin & Neutral & (alle)\\\tabucline[1.1pt]{-}
+	Nominativ & der & die & das & die\\
+	Genitiv	& dessen & deren & dessen & deren\\
+	Dativ & dem & der & dem & denen\\
+	Akkusativ & den & die & das & die
+\end{tabu}
+
+\begin{tabu}[H]{c|[1.1pt]ccc|[1.1pt]c}
+	& \multicolumn{3}{c|[1.1pt]}{Singular} & Plural\\
+	& Maskulin & Feminin & Neutral & (alle)\\\tabucline[1.1pt]{-}
+	Nominativ & welcher & welche & welches & welche\\
+	Genitiv	& --- & --- & --- & ---\\
+	Dativ & welchem & welcher & welchem & welchen\\
+	Akkusativ & welchen & welche & welches & welche
+\end{tabu}
+
+<!-- from the second to the fourth cell draw a centered middle rule -->
+
+## Übungsbeispiele
+
+1. Die Bücher, \shortgap sie las, sind Philosophiebücher.
+2. Die Webseite, \shortgap Autor verhaftet wurde, wurde vom Netz genommen.
+3. Es gibt viele Orte, \shortgap man besuchen sollte.
+4. Das Geld, \shortgap seine Eltern ihm gaben, verwendete er, um sich ein Eis zu kaufen.
+5. Der Angeklagte gestand, dass er das Auto \shortgap Klägers beschädigt hatte.
+6. Die Natur, \shortgap oft so unachtsam zerstört wird, ist die Lebensgrundlage für viele Lebewesen.
+7. Die Nachrichten, \shortgap gestern im Fernseher liefen, waren erschreckend.
+8. Läufer, \shortgap die Strecke schon kennen, sind gegenüber anderen (Läufern) im Vorteil.
+9. Man kann sich immer neue Fragen ausdenken, \shortgap Antwort der Wissenschaft noch nicht bekannt sind.
+10. Am meisten wundert mich, dass die Leute, \shortgap es eigentlich besser wissen müssten, es auch nicht besser machen.
+11. Das widerrechtlich geparkte Fahrzeug, \shortgap Besitzer nicht gefunden werden konnte, wurde abgeschleppt.
+12. Die Musik, \shortgap ihr gefällt hat eine schöne Melodie.
+13. Unsere Wanderungen, auf \shortgap wir sehr viele Fotos machten, sind mir noch gut in Erinnerung.
+14. Die Forscher, die am CERN in der Schweiz arbeiten, sind Spezialisten auf ihren (jeweiligen) (Forschungs-)Gebieten.
+15. Der Lehrer hat Hausaufgaben aufgegeben, \shortgap wir über das Wochenende erledigen sollen.
+16. Die Schüler kamen nicht rechtzeitig zum Unterricht. Sie mussten die Inhalte, \shortgap sie verpasst hatten Zuhause selbst erarbeiten.
+17. Das Wasser, \shortgap im Ganges fließt, ist schon lange nicht mehr sauber.
+18. Der Flieger, \shortgap mich um 15:00 nach China bringen sollte, hat Verspätung.
+19. Auf einer Reise ist es immer gut, eine Reiseapotheke mitzunehmen, \shortgap auf die Zielgegend abgestimmt ist.
+20. Es ist die UV-Strahlung, \shortgap der Haut schadet.
+
+# Infinitiv mit zu
+
+1. Im Unterricht mit dem Handy _zu spielen_ ist nicht gestattet.
+2. Um aus dem Fenster _zu sehen_, stieg sie auf einen Stuhl.
+3. Wir versuchen Ihr Anliegen bis Donnerstag _zu bearbeiten_.
+4. Später einmal Feuerwehrmann _zu sein_, das war sein großer Traum.
+5. Er konnte es nicht anders, als vom frisch gebackenen Kuchen _zu naschen_.
+6. Sie machten es zu einer Gewohnheit abends die Nachrichten _zu schauen_.
+
+# Konjunktiv
+
+TODO
+
+# TestDaF Vokabular
+
+TODO: mehr Inhalt
+
+## Ausdruck der eigenen Meinung
+
+1. Ich bin der Meining, dass ..... .
+	
+	a) Ich bin der Meinung, dass wir ruhig bis um 23:00 hier bleiben können.
+	a) ... daher bin ich der Meinung, dass Professor Maier Recht hat.
+	a) Ich bin der Meinung, dass man das Problem nur durch eine bessere Aufklärung der Menschen lösen kann.
+	a) Sollten Sie der Meinung sein, dass wir uns das gefallen lassen, dann irren Sie sich gewaltig.
+	a) Einige Leute sind der Meinung, dass die Menschen zu sehr vom Internet abhängig sind.
+
+2. Meine Meinung ist, dass ..... .
+
+	a) Meine Meinung ist, dass man das Problem nicht ignorieren darf und jetzt handeln muss.
+	a) Meine Meinung ist, dass wir mehr in die Bildung investieren müssen.
+	a) Die Meinung von Doktorin Müller ist, dass man mehr Stadtführungen für Touristen organisieren sollte, um die Tourismusbranche zu stärken.
+	a) Seine Meinung ist, dass man nicht aufhören darf zu lernen.
+	a) Eine weit verbreitete Meinung ist, dass Unternehmen eigene Kindergärten betreiben sollten.
+
+3. Meiner Meinung nach ..... .
+
+	a) Meiner Meinung nach sind das nur Ausreden.
+	a) Meiner Meinung nach sollte man das verbieten.
+	a) Meiner Meinung nach schauen die Leute zu viel fern.
+	a) Seiner Meinung nach ist es nicht richtig, dass Unternehmen so viele unbenötigte Produkte auf den Markt bringen.
+
+4. Meiner Ansicht nach ..... .
+
+	a) Meiner Ansicht nach ist das zu kurz gedacht.
+	a) Meiner Ansicht nach sollte die Integrationspolitik geändert werden.
+	a) Meiner Ansicht nach ist die Regelung bezüglich ... nicht gerecht.
+
+5. Ich denke, dass ..... .
+
+	a) Ich denke, dass der Ausbau der Breitbandanbindung zu lange dauert.
+	a) Ich denke, dass man mehr in erneuerbare Energien investieren sollte.
+	a) Sie denken, dass sie sich in Deutschland gegen eine große Konkurrenz durchsetzen können.
+
+6. Aus meiner Sicht ..... .
+	
+	a) Aus meiner Sicht ist es wichtig die Sprache eines Landes zu erlernen, um in dessen Kultur eintauchen zu können.
+	a) Aus meiner Sicht muss ein anderer Weg gegangen werden als bisher.
+	a) Aus meiner Sicht sind wir auf gutem Weg um das Ziel zu erreichen.
+
+7. Meine Sicht auf ..... ist ..... .
+
+	a) Meine Sicht auf den Sachverhalt ist eine andere.
+	a) Meine Sicht der Dinge unterscheidet sich von der des Autors.
+	a) Meine Sicht auf das Problem ist, dass man zunächst die Ursache des Problems beheben muss.
+
+8. Ich bin (davon) überzeugt, dass ..... .
+
+	a) Ich bin überzeugt, dass eine Lösung (des Problems) gefunden werden kann, wenn alle zusammenarbeiten.
+	a) Ich bin davon überzeugt, dass man Schülern ausreichend Freizeit einräumen muss, damit sie eigene Interessengebiete entdecken können.
+
+9. Ich bin der Überzeugung, dass ..... .
+
+	a) Ich bin der Überzeugung, dass es möglich ist, mehr Bücher im Deutschunterricht zu lesen. Es müssen nur interessante Bücher ausgewählt werden.
+	a) Ich bin der Überzeugung, dass wir der Aufgabe gewachsen sind.
+
+10. Mein Standpunkt ist, dass ..... .
+11. Ich vertrete den Standpunkt, dass ..... .
+12. Meiner Einschätzung nach ..... .
+13. Ich finde ..... .
+14. Ich erachte ..... als ..... .
+
+	a) Ich erachte die ergiffenen Maßnahmen als unzulänglich.
+	a) Ich erachte es als ein erstrebenswertes Ziel, die Menschen früher im Umgang mit Computern zu schulen.
+	a) Ich erachte dies als eine unbewiesene Aussage.
+
+15. Ich glaube ..... .
+16. Ich halte ..... für ..... .
+
+## Beschreiben eines Diagramms
+
+### Beschreibung des Diagrammtyps
+
+* In der Abbildung sieht man ...
+	* ... ein Balkendiagramm.
+
+		\begin{figure}[H]
+		\includegraphics[width=0.5\textwidth, height=!]{graphics/bar_chart.pdf}
+		\centering
+		\caption{Balkendiagramm}
+		\end{figure}
+
+	* ... ein Säulendiagramm.
+	
+		\begin{figure}[H]
+		\includegraphics[width=0.5\textwidth, height=!]{graphics/column_chart.pdf}
+		\centering
+		\caption{Säulendiagramm}
+		\end{figure}
+
+	* ... ein Kreisdiagramm.
+
+		\begin{figure}[H]
+		\includegraphics[width=0.5\textwidth, height=!]{graphics/pie_chart.pdf}
+		\centering
+		\caption{Kreisdiagramm}
+		\end{figure}
+
+	* ... ein Kuchendiagramm.
+
+		\begin{figure}[H]
+		\includegraphics[width=0.5\textwidth, height=!]{graphics/pie_chart.pdf}
+		\centering
+		\caption{Kuchendiagramm}
+		\end{figure}
+
+	* ... ein Liniendiagramm.
+
+		\begin{figure}[H]
+		\includegraphics[width=0.5\textwidth, height=!]{graphics/line_chart.pdf}
+		\centering
+		\caption{Liniendiagramm}
+		\end{figure}
+
+	* ... ein Kurvendiagramm.
+
+		\begin{figure}[H]
+		\includegraphics[width=0.5\textwidth, height=!]{graphics/line_chart.pdf}
+		\centering
+		\caption{Kurvendiagramm}
+		\end{figure}
+
+	* ... ein Streudiagramm.
+
+		\begin{figure}[H]
+		\includegraphics[width=0.5\textwidth, height=!]{graphics/scatter_plot.pdf}
+		\centering
+		\caption{Streudiagramm}
+		\end{figure}
+
+	* ... ein polares Streudiagramm
+
+		\begin{figure}[H]
+		\includegraphics[width=0.5\textwidth, height=!]{graphics/polar_scatter_plot.pdf}
+		\centering
+		\caption{Polar-Streudiagramm}
+		\end{figure}
+
+	* ... eine Mindmap. / eine Gedankenkarte.
+
+		\begin{figure}[H]
+		\includegraphics[width=0.5\textwidth, height=!]{graphics/Food.pdf}
+		\centering
+		\caption{Mindmap, Gedankenkarte}
+		\end{figure}
+
+	* ... einen Stammbaum.
+
+		\begin{figure}[H]
+		\includegraphics[width=0.7\textwidth, height=!]{graphics/GenealogyTree.pdf}
+		\centering
+		\caption{Stammbaum}
+		\end{figure}
+
+### Allgemeine Beschreibung
+
+* In dem Diagramm wird die Bevölkerungszahl Deutschlands in den Jahren 1945 bis 2010 dargestellt.
+
+
+* Das Diagramm hat zwei Achsen.
+* Auf der x-Achse kann man die Jahreszahlen ablesen.
+* Auf der y-Achse kann man die Bevölkerungszahlen sehen.
+
+
+* Man kann erkennen, dass ... .
+* Man kann erkennen, dass in den Jahren ... die Bevölkerungszahl stark angestiegen ist.
+* Im Jahr ... war die Bevölkerungszahl am höchsten.
+* Im Jahr ... war die Bevölkerungszahl am niedrigsten.
+
+### Erklärung der Gründe
+
+* Das lässt sich wahrscheinlich darauf zurückführen, dass _\[Ursache\]_ .
+* Wahrscheinlich ist _\[Grund\]_ die Ursache dafür.
+* Wahrscheinlich ist _\[Grund\]_ die Ursache für diese Entwicklung.
+* Die hohen Bevölkerungszahlen in den Jahren _\[Jahreszahlen\]_ sind durch _\[Ursache\]_ entstanden / zustande gekommen.
+* Im Jahr ... war die Bevölkerungszahl am niedrigsten, weil _\[Begründung\]_ .
+* Die Geburtenrate hat in den Jahren _\[Jahreszahlen\]_ stark abgenommen, da _\[Begründung\]_ .
+
+### Schlussfolgerung
+
+* Das Diagramm deutet auf eine Diskrepanz zwischen der _A_ und der _B_ hin.
+* Aus der Statistik kann man schließen, dass ein Mangel an ... besteht.
+* In Zukunft sollte ....
+* Man muss ..., sonst wird ....
+* Die Konsequenzen sind noch nicht absehbar.
+* Insgesamt lässt sich eine positive Entwicklung erkennen, die jedoch durch weitere Maßnahmen noch unterstützt werden sollte.
+
+
+<!--
+
+The current font size is \showfontsize
+
+Tabelle
+
+| header 1 | header 2 | header 3 |
+|:---------|:---------|:---------|
+| a        | b        | c        |
+
+Table: This is a test table.
+
+
+-------------------------------------------------------------
+ Centered   Default           Right Left
+  Header    Aligned         Aligned Aligned
+----------- ------- --------------- -------------------------
+   First    row                12.0 Example of a row that
+                                    spans multiple lines.
+
+  Second    row                 5.0 Here's another one. Note
+                                    the blank line between
+                                    rows.
+-------------------------------------------------------------
+
+Table: Here's the caption. It, too, may span
+multiple lines.
+
+
+
++---------------+---------------+--------------------+
+| Fruit         | Price         | Advantages         |
++===============+===============+====================+
+| Bananas       | $1.34         | - built-in wrapper |
+|               |               | - bright color     |
++---------------+---------------+--------------------+
+| Oranges       | $2.10         | - cures scurvy     |
+|               |               | - tasty            |
++---------------+---------------+--------------------+
+
+
+\begin{tabular}{ |p{3cm}||p{3cm}|p{3cm}|p{3cm}|  }
+ \hline
+ \multicolumn{4}{|c|}{Country List} \\
+ \hline
+ Country Name     or Area Name& ISO ALPHA 2 Code &ISO ALPHA 3 Code&ISO numeric Code\\
+ \hline
+ Afghanistan   & AF    &AFG&   004\\
+ Aland Islands&   AX  & ALA   &248\\
+ Albania &AL & ALB&  008\\
+ Algeria    &DZ & DZA&  012\\
+ American Samoa&   AS  & ASM&016\\
+ Andorra& AD  & AND   &020\\
+ Angola& AO  & AGO&024\\
+ \hline
+\end{tabular}
+
+-->
+
+
