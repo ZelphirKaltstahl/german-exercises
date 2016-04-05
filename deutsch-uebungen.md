@@ -1,6 +1,10 @@
 % Deutsch Übungen
 % 样小龙
 
+
+<!-- TODO: alle tabu tabellen mit longtabu tabellen ersetzen und ihnen eine caption geben, die unterhalb der tabelle ist -->
+<!-- TODO: Chinesische Uebersetzungen -->
+
 # Hinweise (Eng. Note)
 
 ## Rechtschreibung
@@ -68,6 +72,139 @@ Since this way of writing is not known to everyone and some people have trouble 
 
 TODO
 
+
+# Nützliche Wörter
+
+* und (和，跟)
+* oder (还是，或者，．．．)
+* aber (不过，但是，．．．)
+* trotzdem
+* obwohl (尽管)
+* dennoch
+* jedoch
+* noch (还)
+* schon (已经)
+* außerdem
+* weiterhin
+* des Weiteren
+
+# Sprichwörter
+
+1. Es ist noch kein Meister vom Himmel gefallen.
+2. ...
+
+TODO
+
+# Nützliches Sätze
+
+<!-- TODO: Einleitung? -->
+
+i. Ist dieser Satz korrekt?
+
+	(Is this phrase correct?)
+
+ii. Kannst du es noch einmal wiederholen?
+
+	(Can you repeat that one more time?)
+
+iii. Das habe ich nicht verstanden.
+
+	(I did not understand that.)
+
+iv. Kannst du etwas langsamer sprechen?
+
+	(Can you speak a little bit slower?)
+
+v. Wie schreibt man ... ?
+
+	(How do you write ...?)
+
+vi. Wie buchstabiert man ... ?
+
+	(How do you spell ...?)
+
+vii. Wie spricht man ... aus?
+
+	(How do you pronounce ... ?)
+
+viii. Wie sagt man ... auf Deutsch?
+
+	(How do you say ... in German?)
+
+ix. Was bedeutet ... ?
+
+	(What is the meaning of ... ?)
+
+x. Kannst du das genauer erklären?
+
+	(Can you explain that in more detail?)
+
+xi. Kannst du meinen Text korrigieren?
+
+	(Can you revise my text?)
+
+xii. Lass mich deinen Text lesen.
+
+	(Let me read your text.)
+
+xiii. Welcher Satz kannst du nicht übersetzen?
+
+	(Which phrase can you not translate?)
+
+xiv. Bei welchem Satz brauchst du Hilfe?
+
+	(With which phrase do you need help?)
+
+xv. Kann ich dir helfen?
+
+	(Can I help you?)
+
+xvi. Lass mich dir helen.
+
+	(Let me help you.)
+
+xvii. Dein Satz ist fast richtig.
+
+	(Your phrase is almost correct.)
+
+xviii. Dein Satz ist nicht ganz richtig.
+
+	(Your phrase is not entirely correct.)
+
+xix. In deinem Satz gibt es einen Fehler.
+
+	(There is a mistake in your phrase.)
+
+xx. Dein Satz ist richtig.
+
+	(You phrase is correct.)
+
+xxi. Das hast du gut gemacht!
+
+	(Well done!)
+
+xxii. Du solltest ... noch einmal üben.
+
+	(You should practice ... again.)
+
+xxiii. Ich weiß nicht worum es geht.
+
+# Ideen für Übungen
+
+* Versuche einen Tagebucheintrag zu schreiben. Frage einen Muttersprachler oder eine Muttersprachlerin, ob er oder sie dir dabei helfen kann. Versuche dabei so viel wie möglich selbst zu schreiben. Weißt du nicht wie man ein Wort schreibt oder wie du einen Satz formulieren kannst, dann frage einfach nach.
+
+	Try to write a diary entry. Ask a native speaker, if they can help you. Try to write as much as you can yourself. If you don't know a word or how to put a phrase, ask a native speaker.
+
+	TODO: 汉语
+
+* Lasse dir von einem Muttersprachler oder einer Muttersprachlerin etwas vorlesen.
+
+* Höre dir ein Hörbuch an.
+
+* Höre Radio in der Fremdsprache.
+
+* Gehe zu einem Sprachtreffen um mit Leuten sprechen zu üben.
+
 # Übersetzen
 
 TODO
@@ -98,9 +235,9 @@ TODO
 
 # Wortreihenfolge
 
-Verbinde die Wörter jeweils zu ganzen Sätzen. Unterschiedliche Lösungen können jeweils richtig sein.
+**Aufgabe**: Verbinde die Wörter jeweils zu ganzen Sätzen. Unterschiedliche Lösungen können jeweils richtig sein.
 
-(Form a whole phrase with each group of words. Various solutions can be correct for each group of words.)
+**Assignment**: Form a whole phrase with each group of words. Various solutions can be correct for each group of words.
 
 1. können, wichtig, ist, einsetzen, Beruf, in, Fähigkeit, Universität, erlernte, im, der, zu, .
 2. bin, professionelle, noch, ich, Komponistin, keine, .
@@ -153,28 +290,6 @@ _In nouns, which consist of more than one word, so called compund nouns, the def
 
 TODO
 
-# Nützliche Wörter
-
-* und (和，跟)
-* oder (还是，或者，．．．)
-* aber (不过，但是，．．．)
-* trotzdem
-* obwohl (尽管)
-* dennoch
-* jedoch
-* noch (还)
-* schon (已经)
-* außerdem
-* weiterhin
-* des Weiteren
-
-# Sprichwörter
-
-1. Es ist noch kein Meister vom Himmel gefallen.
-2. ...
-
-TODO
-
 # Unterscheidung von das und dass
 
 ## Erklärung
@@ -183,11 +298,13 @@ Es handelt sich um 2 grundsätzlich verschiedene Wörter. _das_ ist ein Artikel 
 
 ## Übungsaufgaben
 
-Setze in die folgenden Sätze jeweils _das_ oder _dass_[^dass_alte_rechtschreibung] richtig ein.
+**Aufgabe**: Setze in die folgenden Sätze jeweils _das_ oder _dass_[^dass_alte_rechtschreibung] richtig ein.
+
+**Assignment**: (Insert _das_ or _dass_[^dass_old_spelling] correctly in each of the following phrases.)
+
+**功课**: 将 _das_, _dass_ 的其中之一填入下列短句中。
 
 [^dass_alte_rechtschreibung]: : Nach alter Rechtschreibung wurde dieses _dass_ mit _ß_ geschrieben (_daß_). Immer noch schreiben viele Menschen mit _ß_ anstatt doppeltem _s_.
-
-(Insert _das_ or _dass_[^dass_old_spelling] correctly in each of the following phrases.)
 
 [^dass_old_spelling]: : According to old spelling, _dass_ was written with _ß_ instead (_daß_). Still many people use _daß_ instead of _dass_.
 
@@ -201,11 +318,11 @@ Setze in die folgenden Sätze jeweils _das_ oder _dass_[^dass_alte_rechtschreibu
 
 ## Aufgabe 1
 
-Setze in die folgenden Sätze entweder _haben_, _sein_ oder _werden_ ein.
+**Aufgabe**: Setze in die folgenden Sätze entweder _haben_, _sein_ oder _werden_ ein.
 
-(Insert either _haben_, _sein_ or _werden_ into the following phrases.)
+**Assignment**: Insert either _haben_, _sein_ or _werden_ into the following phrases.
 
-(TODO: 中文)
+**功课**: 将 _haben_, _sein_, _werden_ 的其中之一填入下列短句中。
 
 1. Gestern \shortgap wir in der Bahn kontrolliert worden.
 
@@ -251,29 +368,33 @@ Setze in die folgenden Sätze entweder _haben_, _sein_ oder _werden_ ein.
 
 ## Aufgabe 2
 
-Setze eines der folgenden Verben in die folgenden Sätze ein: haben, sein, geben
+**Aufgabe**: Setze entweder _haben_, _sein_ oder _werden_ in die folgenden Sätze ein.
 
-(Insert one of the following verbs into the phrases: haben, sein, geben)
+**Assignment**: Insert either _haben_, _sein_ or _werden_ into the following phrases.
+
+**功课**: 将 _haben_, _sein_, _werden_ 的其中之一填入下列短句中。
 
 1. Es \shortgap sehr viele Menschen in Berlin.
 
 	(There are many people in Berlin.)
 
+	(在柏林有很多人。)
+
 2. Gestern \shortgap es geregnet.
 
 	(Yesterday it was raining.)
 
-3. Gestern \shortgap es Regen.
+	(昨天下雨。)
 
-	(Yesterday there was rain.)
+3. Am Montag \shortgap ich Eis gegessen.
 
-4. Am Montag \shortgap ich Eis gegessen.
+	(On Monday I've eaten ice cream.)
 
-	(On Monday I've been eating ice cream.)
+	(周一我吃过冰淇淋。)
 
-5. Es \shortgap immer noch Menschen die kein Englisch sprechen können.
+<!-- ??? Was war mit diesem Satz gemeint? Keines der Verben passt. 4. Es \shortgap immer noch Menschen die kein Englisch sprechen können.
 
-	(There are still many people, who can't speak English.)
+	(There are still many people, who can't speak English.) -->
 
 # Verwendung von _haben_ oder _sein_ im Perfekt
 
@@ -283,9 +404,11 @@ Setze eines der folgenden Verben in die folgenden Sätze ein: haben, sein, geben
 
 * reflexive Verben
 * transitive Verben (erfordern 2 Argumente)
-* intransitive Verben die keine Ortsänderung des Subjekts ausdrücken
+* intransitive Verben[^intransitives_verb] die keine Ortsänderung des Subjekts ausdrücken
 * intransitive Verben die keine Zustandsänderung des Subjekts ausdrücken
 * haben, anfangen, beginnen, zunehmen, erhöhen, abnehmen, verringern, aufhören
+
+[^intransitives_verb]: : Ein intransitives Verb ist ein Verb, dass nur ein Argument benötigt.
 
 ### Sein
 
@@ -358,17 +481,17 @@ schwimmen, tauchen, sinken, watscheln, flattern, schleichen, traben, galoppieren
 
 ### Verben der Zustandsänderung
 
-* aufwachen, einschlafen, sterben, erkranken, gesunden, verblühen, verwelken gefrieren, tauen, sterben, zerfallen
+* aufwachen, einschlafen, sterben, erkranken, gesunden, verblühen, verwelken gefrieren, tauen, sterben, zerfallen, ertrinken, ersticken
 
 ### Übung
 
 TODO
 
-Setze in die folgenden Sätze entweder _haben_ oder _sein_ ein.
+**Aufgabe**: Setze in die folgenden Sätze entweder _haben_ oder _sein_ ein.
 
-(Insert either _haben_ or _sein_ in the following phrases.)
+**Assignment**: Insert either _haben_ or _sein_ in the following phrases.
 
-(将 _haben_, _sein_ 的其中之一填入下列短句中。)
+**功课**: 将 _haben_, _sein_ 的其中之一填入下列短句中。
 
 # Fälle
 
@@ -493,6 +616,8 @@ an, auf, hinter, in, neben, über, unter, vor, zwischen, um, um ... herum, durch
 17. Er kam _ohne_ den Einkauf nach Hause.
 
 # Reflexive Verben
+
+<!-- TODO: Aufgabenstellung ergaenzen -->
 
 1. treffen / sich treffen
 	a) Sie spannt den Bogen und lässt den Pfeil von der Sehne schnellen. Sie \mediumgap die Zielscheibe genau in der Mitte.
@@ -792,98 +917,6 @@ an, auf, hinter, in, neben, über, unter, vor, zwischen, um, um ... herum, durch
 
 		(I have to prepare for this exam.)
 
-# Nützliches Sätze
-
-i. Ist dieser Satz korrekt?
-
-	(Is this phrase correct?)
-
-ii. Kannst du es noch einmal wiederholen?
-
-	(Can you repeat that one more time?)
-
-iii. Das habe ich nicht verstanden.
-
-	(I did not understand that.)
-
-iv. Kannst du etwas langsamer sprechen?
-
-	(Can you speak a little bit slower?)
-
-v. Wie schreibt man ... ?
-
-	(How do you write ...?)
-
-vi. Wie buchstabiert man ... ?
-
-	(How do you spell ...?)
-
-vii. Wie spricht man ... aus?
-
-	(How do you pronounce ... ?)
-
-viii. Wie sagt man ... auf Deutsch?
-
-	(How do you say ... in German?)
-
-ix. Was bedeutet ... ?
-
-	(What is the meaning of ... ?)
-
-x. Kannst du das genauer erklären?
-
-	(Can you explain that in more detail?)
-
-xi. Kannst du meinen Text korrigieren?
-
-	(Can you revise my text?)
-
-xii. Lass mich deinen Text lesen.
-
-	(Let me read your text.)
-
-xiii. Welcher Satz kannst du nicht übersetzen?
-
-	(Which phrase can you not translate?)
-
-xiv. Bei welchem Satz brauchst du Hilfe?
-
-	(With which phrase do you need help?)
-
-xv. Kann ich dir helfen?
-
-	(Can I help you?)
-
-xvi. Lass mich dir helen.
-
-	(Let me help you.)
-
-xvii. Dein Satz ist fast richtig.
-
-	(Your phrase is almost correct.)
-
-xviii. Dein Satz ist nicht ganz richtig.
-
-	(Your phrase is not entirely correct.)
-
-xix. In deinem Satz gibt es einen Fehler.
-
-	(There is a mistake in your phrase.)
-
-xx. Dein Satz ist richtig.
-
-	(You phrase is correct.)
-
-xxi. Das hast du gut gemacht!
-
-	(Well done!)
-
-xxii. Du solltest ... noch einmal üben.
-
-	(You should practice ... again.)
-
-xxiii. Ich weiß nicht worum es geht.
-
 # Präpositionen
 
 à, ab, abseits, abzüglich, als, an, anfangs, angelegentlich, angesichts, anhand, anlässlich, anstatt, anstelle, auf, auf Grund, aus, ausgenommen, ausschließlich, außer, außerhalb, bar, behufs, bei, betreffs, bezüglich, binnen, bis, bis an, bis auf, bis in, bis nach, bis vor, bis zu, dank, diesseits, durch, einbezüglich, eingedenk, einschließlich, entgegen, entlang, entsprechend, exklusive, fern, fernab, frei, für, gegen, gegenüber, gelegentlich, gemäß, getreu, gleich, halber, hinsichtlich, hinter, in, In punkto, In Sachen, infolge, inklusive, inmitten, innerhalb, je, jenseits, kontra, kraft, lang, längs, laut, links, mangels, minus, mit, mitsamt, mittels, nach, nächst, nah, namens, neben, nebst, nördlich, nordöstlich, nordwestlich, ob, oberhalb, ohne, östlich, per, plus, pro, quer, rechts, rücksichtlich, samt, seit, seit nach, seit über, seit vor, seitens, seitlich, statt, südlich, südöstlich, südwestlich, trotz, über, um, um … willen, unfern, ungeachtet, unter, unterhalb, unweit, vermittels, vermöge, vis à vis, voll, von, von … an, von … wegen, von Seiten, vor, vorbehaltlich, während, wegen, wider, zeit, zu, zufolge, zugunsten, zuliebe, zusätzlich, zuungunsten, zuzuglich, zwecks, zwischen
@@ -892,11 +925,11 @@ Deutsch - Präposition + Artikel: am, ans, im, ins, vom, zum, zur
 
 # Wissen und Kennen
 
-Setze entweder _kennen_ oder _wissen_ in die folgenden Sätze ein.
+**Aufgabe**: Setze entweder _kennen_ oder _wissen_ in die folgenden Sätze ein.
 
-Insert either _kennen_ or _wissen_ into the following phrases.
+**Assignment**: Insert either _kennen_ or _wissen_ into the following phrases.
 
-将 _kennen_, _wissen_ 的其中之一填入下列短句中。
+**功课**: 将 _kennen_, _wissen_ 的其中之一填入下列短句中。
 
 1. \shortgap du wann das nächste Chinesisch Meetup ist?
 
@@ -981,11 +1014,11 @@ Insert either _kennen_ or _wissen_ into the following phrases.
 
 # Schon und Noch
 
-Setze entweder _schon_ oder _noch_ in die folgenden Sätze ein. In manche Sätze kann man sowohl _schon_ als auch _noch_ einsetzen. Nur die Bedeutung ändert sich.
+**Aufgabe**: Setze entweder _schon_ oder _noch_ in die folgenden Sätze ein. In manche Sätze kann man sowohl _schon_ als auch _noch_ einsetzen. Nur die Bedeutung ändert sich.
 
-Insert either _schon_ or _noch_ into the following phrases. In some phrases one may insert _schon_ as well as _noch_. Only the meaning changes.
+**Assignment**: Insert either _schon_ or _noch_ into the following phrases. In some phrases one may insert _schon_ as well as _noch_. Only the meaning changes.
 
-将 _schon_, _noch_ 的其中之一填入下列短句中。<!--TODO: vollstaendig uebersetzen!-->
+**功课**: 将 _schon_, _noch_ 的其中之一填入下列短句中。<!--TODO: vollstaendig uebersetzen!-->
 
 1. Kannst du dich \shortgap an letztes Jahr erinnern?
 2. Hast du den Film \shortgap nicht gesehen?
@@ -1034,8 +1067,16 @@ Setze entweder _wenn_ oder _als_ in die folgenden Sätze ein.
 
 Insert either _wenn_ or _als_ into the following phrases.
 
+将 _wenn_, _als_ 的其中之一填入下列短句中。
+
 1. Denke daran dein Essen mitzunehmen \shortgap du in die Schule gehst.
+
+	(Remember to take your lunch with you, when you go to school.)
+
 2. \shortgap ich noch klein war, gingen wir immer in den Wald spielen.
+
+<!-- TODO: Vollstaendig uebersetzen -->
+
 3. \shortgap ich nach Deutschland kam, suchte ich gleichen nach einen Sprachtandem-Partner.
 4. \shortgap ich ein einkaufen gehe, nehme ich einen Rucksack mit.
 5. Wollen wir uns treffen, \shortgap du Zeit hast?
