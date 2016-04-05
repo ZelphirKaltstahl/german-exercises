@@ -421,7 +421,7 @@ The two words _das_ and _dass_ are completely different in their usage. _Das_ is
 
 	(There are still many people, who can't speak English.) -->
 
-# Verwendung von _haben_ oder _sein_ im Perfekt
+# Verwendung von haben oder sein im Perfekt
 
 ## Grammatik
 
