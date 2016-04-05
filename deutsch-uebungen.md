@@ -197,13 +197,21 @@ xxiii. Ich weiß nicht worum es geht.
 
 	TODO: 汉语
 
-* Lasse dir von einem Muttersprachler oder einer Muttersprachlerin etwas vorlesen.
+* Lasse dir von einem Muttersprachler oder einer Muttersprachlerin etwas vorlesen und versuche ohne den Text zu sehen so viel wie möglich zu verstehen. Falls du nichts verstehst, könnt ihr ein Lesetempo finden, das angemessen ist.
 
-* Höre dir ein Hörbuch an.
+	Let a native speaker read something to you and try to understand as much as possible, not looking at the text. In case you don't understand anything, you can find an appropriate speed of reading.
+
+* Höre dir ein interessantes Hörbuch an.
+
+	Listen to an interesting audio book.
 
 * Höre Radio in der Fremdsprache.
 
+	Listen to radion in the foreign language.
+
 * Gehe zu einem Sprachtreffen um mit Leuten sprechen zu üben.
+
+	Visit a language meeting, to practice speaking the language with people.
 
 # Übersetzen
 
