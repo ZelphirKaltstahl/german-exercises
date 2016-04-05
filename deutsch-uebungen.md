@@ -570,7 +570,9 @@ The two words _das_ and _dass_ are completely different in their usage. _Das_ is
 gehen, kommen, schlendern, spazieren, stolzieren, marschieren, stapfen, wandern, wandeln, laufen, rennen, eilen, hetzen, jagen, fliehen, flüchten, fahren, reisen, fliegen, reiten, segeln, rudern rasen, rollen, brettern, dampfen, düsen, flitzen, sausen, klettern, steigen, klimmen, kraxeln, springen, hüpfen, hopsen, fallen, stürzen, stolpern, traucheln, eiern, kippen, aufwachen, aufstehen, auftauen, schlüpfen, ausbrechen, einbrechen, entweichen, entkommen
 schwimmen, tauchen, sinken, watscheln, flattern, schleichen, traben, galoppieren, hoppeln, tapsen, gleiten, rutschen, robben, kriechen, stampfen, trampeln, ...
 
-(Anmerkung: Verben, die das nicht Vorhandensein einer Ortsänderung ausdrücken zählen nicht zu den Verben der Ortsänderung und erfordern das Hilfsverb _haben_. Umgangssprachlich werden sie jedoch vor allem im Süden Deutschlands mit dem Hilfsverb _sein_ verwendet. Einige Beispiele sind _liegen_, _stehen_ und _sitzen_.)
+**Anmerkung**: Verben, die das nicht Vorhandensein einer Ortsänderung ausdrücken zählen nicht zu den Verben der Ortsänderung und erfordern das Hilfsverb _haben_. Umgangssprachlich werden sie jedoch vor allem im Süden Deutschlands mit dem Hilfsverb _sein_ verwendet. Einige Beispiele sind _liegen_, _stehen_ und _sitzen_.
+
+**English**: Some verbs, which express the non-existence of movement of the subject, don't count as verbs of movement and require the auxiliary verb _haben_. Colloquially they are used with _sein_ primarily in the south of Germany. Some examples are _liegen_, _stehen_ and _sitzen_.
 
 ### Verben der Zustandsänderung
 
