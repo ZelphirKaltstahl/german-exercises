@@ -433,7 +433,7 @@ The two words _das_ and _dass_ are completely different in their usage. _Das_ is
 * intransitive Verben die keine Zustandsänderung des Subjekts ausdrücken
 * haben, anfangen, beginnen, zunehmen, erhöhen, abnehmen, verringern, aufhören
 
-[^intransitives_verb]: : Ein intransitives Verb ist ein Verb, dass nur ein Argument benötigt.
+[^intransitives_verb]: : Ein intransitives Verb ist ein Verb, dass kein Akkusativobjekt benötigt.
 
 ### Sein
 
