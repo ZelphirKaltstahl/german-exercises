@@ -282,6 +282,7 @@ Table: Geschlecht von Nomen anhand von Endungen
 	das (neuter) & -chen, -lein, -tel, -tum, -nis, -em, -in, -um, -ma, -ment
 \end{tabu} -->
 
+<!-- Example table! -->
 \begin{longtabu} to \linewidth [H] {X[0.2]|[1.1pt]X[0.8]}
 	\rowfont[c]{\bfseries}Artikel & Vorkommen / Endungen\\\tabucline[1.1pt]{-}
 	die (weiblich) & Plural (außer bei Genitiv und Akkusativ), -ung, -ion, -heit, -schaft, -ei, -in, -tät, -enz, -ie, -ik, -sis, -ur\\
@@ -304,6 +305,8 @@ TODO
 
 Es handelt sich um 2 grundsätzlich verschiedene Wörter. _das_ ist ein Artikel und _dass_ ist eine so genannte Konjunktion. _das_ bezieht sich immer auf eine Sache, wohingegen _dass_ die Beschreibung eines Sachverhalt einleitet.
 
+The two words _das_ and _dass_ are completely different in their usage. _Das_ is an article and _dass_ is a so called conjunction. _Das_ always relates to a thing, while _dass_ always introduces the describtion of a situation.
+
 ## Übungsaufgaben
 
 **Aufgabe**: Setze in die folgenden Sätze jeweils _das_ oder _dass_[^dass_alte_rechtschreibung] richtig ein.
@@ -317,10 +320,24 @@ Es handelt sich um 2 grundsätzlich verschiedene Wörter. _das_ ist ein Artikel 
 [^dass_old_spelling]: : According to old spelling, _dass_ was written with _ß_ instead (_daß_). Still many people use _daß_ instead of _dass_.
 
 1. Es überraschte mich, \shortgap niemand ans Telefon ging.
+
+	(It surprised me, that no one answered the phone.)
+
 2. Die Universität, die \shortgap Zertifikat ausstellt, ist in Berlin.
+
+	(The university, which issued the certificate, is in Berlin.)
+
 3. Das Chinesisch-Treffen, \shortgap ich besuche ist in der Nähe vom Alexanderplatz.
+
+	(The Chinese meeting, which I visit, is near Alexanderplatz.)
+
 4. Nach einer Stunde des Wartens sahen wir ein, \shortgap das weiteres Warten sinnlos gewesen wäre.
+
+	(After waiting one hour we realized, that further waiting wouldn't serve us.)
+
 5. Man konnte nicht vorhersehen, \shortgap \shortgap (2 Wörter, 2 words) Wetter so schlecht sein würde.
+
+	(One couldn't foresee, that the weather would be this bad.)
 
 # Hilfsverben
 
