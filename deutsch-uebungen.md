@@ -663,19 +663,61 @@ aus, aus ... heraus, außer, bei, zu, bis zu, entgegen, entsprechend, gemäß, g
 #### Beispielsätze
 
 1. Er kam aus der Kaufhalle _heraus_ und ging nach Hause.
+
+	**English**: He exited the supermarket and went home.
+
 2. Aus der Not _heraus_ Wasser zu finden, wurden die Menschen erfinderisch und erfanden den Brunnen.
+
+	**English**: Acting from necessity, humans became inventive and invented the well.
+
 3. Wir fahren heute _bis zu_ der Haltestelle, zu der wir auch gestern gefahren sind.
+
+	**English**: Today we drive up to the stop, to which we drove yesterday.
+
 4. _Entgegen_ der Erwartungen gab es keinen Sturm.
+
+	**English**: Contrary to the expectations there was no storm.
+
 5. Die Forscher maßen, der Theorie von Einstein _entsprechend_, Gravitationswellen.
+
+	**English**: Scientists measured gravitational waves, correspondingly to Einstein's theory.
+
 6. _Gemäß_ seinem Wunsch gingen sie zu dem Konzert.
+
+	**English**: In compliance with his wish, they went to the concert.
+
 7. Den Regeln _gemäß_ darf man auf dem Bahnsteig nicht rauchen.
+
+	**English**: In compliance with the rules, one is not allowed to smoke on the platform.
+
 8. Dem Plan _getreu_ kletterten sie auf das Dach des gegenüberliegenden Hauses.
+
+	**English**: In accordance with the plan, they climbed to the roof of the opposing house.
+
 9. _Gegenüber_ der Kaufhalle gibt es eine Bibliothek.
+
+	**English**: There is a library, Opposing the supermarket.
+
 10. _Mit_ dem Stift kann man nicht mehr schreiben.
+
+	**English**: With that pen one can't write anymore.
+
 11. Sie ist _mitsamt_ ihrem Rucksack ins Wasser gefallen.
+
+	**English**: She fell into the water, along with her backpack.
+
 12. Die Brücke ist _mitsamt_ dem LKW in die Tiefe gestürzt.
+
+	**English**: The bridge plunged into the depth along with the truck.
+
 13. Ihrer Aussage _zufolge_ waren Sie um 15:00 noch nicht Zuhause.
+
+	**English**: TODO
+
 14. Seinen Eltern _zuliebe_ kam er schon um 20:00 nach Hause.
+
+	**English**: TODO
+
 
 ## Akkusativ (4. Fall)
 
