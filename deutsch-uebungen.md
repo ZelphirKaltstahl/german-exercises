@@ -313,7 +313,7 @@ The two words _das_ and _dass_ are completely different in their usage. _Das_ is
 
 **Assignment**: (Insert _das_ or _dass_[^dass_old_spelling] correctly in each of the following phrases.)
 
-**功课**: 将 _das_, _dass_ 的其中之一填入下列短句中。
+**任务**: 将 _das_, _dass_ 的其中之一填入下列短句中。
 
 [^dass_alte_rechtschreibung]: : Nach alter Rechtschreibung wurde dieses _dass_ mit _ß_ geschrieben (_daß_). Immer noch schreiben viele Menschen mit _ß_ anstatt doppeltem _s_.
 
@@ -347,7 +347,7 @@ The two words _das_ and _dass_ are completely different in their usage. _Das_ is
 
 **Assignment**: Insert either _haben_, _sein_ or _werden_ into the following phrases.
 
-**功课**: 将 _haben_, _sein_, _werden_ 的其中之一填入下列短句中。
+**任务**: 将 _haben_, _sein_, _werden_ 的其中之一填入下列短句中。
 
 1. Gestern \shortgap wir in der Bahn kontrolliert worden.
 
@@ -365,7 +365,7 @@ The two words _das_ and _dass_ are completely different in their usage. _Das_ is
 
 	**English**: The homework is already done.
 
-	**功课**: 作业结束了。
+	**任务**: 作业结束了。
 
 5. In der Kaufhalle \shortgap viele Menschen.
 
@@ -397,7 +397,7 @@ The two words _das_ and _dass_ are completely different in their usage. _Das_ is
 
 **Assignment**: Insert either _haben_, _sein_ or _werden_ into the following phrases.
 
-**功课**: 将 _haben_, _sein_, _werden_ 的其中之一填入下列短句中。
+**任务**: 将 _haben_, _sein_, _werden_ 的其中之一填入下列短句中。
 
 1. Es \shortgap sehr viele Menschen in Berlin.
 
@@ -586,7 +586,7 @@ TODO
 
 **Assignment**: Insert either _haben_ or _sein_ in the following phrases.
 
-**功课**: 将 _haben_, _sein_ 的其中之一填入下列短句中。
+**任务**: 将 _haben_, _sein_ 的其中之一填入下列短句中。
 
 # Fälle
 
@@ -1024,7 +1024,7 @@ Deutsch - Präposition + Artikel: am, ans, im, ins, vom, zum, zur
 
 **Assignment**: Insert either _kennen_ or _wissen_ into the following phrases.
 
-**功课**: 将 _kennen_, _wissen_ 的其中之一填入下列短句中。
+**任务**: 将 _kennen_, _wissen_ 的其中之一填入下列短句中。
 
 1. \shortgap du wann das nächste Chinesisch Meetup ist?
 
@@ -1113,7 +1113,7 @@ Deutsch - Präposition + Artikel: am, ans, im, ins, vom, zum, zur
 
 **Assignment**: Insert either _schon_ or _noch_ into the following phrases. In some phrases one may insert _schon_ as well as _noch_. Only the meaning changes.
 
-**功课**: 将 _schon_, _noch_ 的其中之一填入下列短句中。<!--TODO: vollstaendig uebersetzen!-->
+**任务**: 将 _schon_, _noch_ 的其中之一填入下列短句中。<!--TODO: vollstaendig uebersetzen!-->
 
 1. Kannst du dich \shortgap an letztes Jahr erinnern?
 2. Hast du den Film \shortgap nicht gesehen?
