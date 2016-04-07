@@ -619,31 +619,112 @@ aufgrund, auf Grund, wegen, trotz, ungeachtet, anstelle, an Stelle, statt, beide
 ### Beispielsätze
 
 1. _Aufgrund_ des Unfalls war der Bahnverkehr gestört.
+
+	**English**: Due to the accident, the rail traffic was disturbed.
+
 2. _Ungeachtet_ der Warnungen von Umweltschützern bauten sie einen Staudamm.
+
+	**English**: Despite warnings from environmentalists they build a dam.
+
 3. _Anstelle_ eines Zaunes errichteten sie eine Mauer.
+
+	**English**: Instead of a fence, they constructed a wall.
+
 4. _Beiderseits_ des Flusses leben Menschen.
+
+	**English**: On both sides of the river live people.
+
 5. _Diesseits_ des Gebirges erstreckt sich eine endlose Wüste.
+
+	**English**: On this side of the mountains an endless desert extends.
+
 6. _Jenseits_ des Gebirges liegen grüne Täler.
+
+	**English**: Beyong the mountains green valleys extend.
+
 7. _Abseits_ der großen Städte ist die Bevölkerungsdichte gering.
+
+	**English**: Apart the big cities the density of population is low.
+
 8. Das Dorf liegt _abseits_ der Straßen. Es ist nur über schmale Trampelpfade zu erreichen.
+
+	**English**: The village lies apart from the streets. It's only reachable walking beaten paths.
+
 9. Jeden Tag versammeln sich _entlang_ des Flusses viele Tiere.
-10. Sowohl _oberhalb_ als auch _unterhalb_ des Waldbodens leben viele Tiere.
-11. _Außerhalb_ des markierten Bereichs darf man nicht stehen.
-12. _Innerhalb_ der Städte ist es wärmer.
-13. Der Baumstamm liegt _längs_ des Flusses.
-14. Die Hundehütte steht _seitlich_ des Hauses.
-15. _Während_ der Vorführung des Films musste er mehrmals auf die Toilette gehen.
-16. _Anlässlich_ des 20-jährigen Bestehens der Firma wird ein Fest veranstaltet.
-17. _In Folge_[^mehrteiligeAdverbien] der Baumaßnahmen zogen viele Menschen in die Stadt.
-18. Die Miete _abzüglich_ der Nebenkosten beträgt 200\euro. _Zuzüglich_ der Nebenkosten beträgt sie 300\euro.
-19. _Anhand_ der neuen Statistik argumentierte der Minister sehr überzeugend.
-20. _Auf Seiten_ der Opposition wurde dieser Vorschlag stark kritisiert.
-21. _Mit Hilfe_ der neuen Straße könnte Stau verhindert werden.
-22. _Dank_ der neuen Straße gibt es wenig Stau.
-23. Die Wahl verlief _zu Gunsten_ von Herr Zhang.
-24. Die höheren Ausgaben im Bereich der Infrastruktur gehen _zu Lasten_ der Invesitionen im Bereich der Bildung.
-25. _Um_ Himmels _Willen_, tu das nicht!
-26. _Um_ Gottes _Willen_, das wäre zu viel.
+
+	**English**: Everyday many animals gather along the river.
+
+10. _Oberhalb_ der Schneegrenze gibt es immer wieder Unfälle.
+
+	**English**: Above the snow line again and again accidents happen.
+
+11. Viele Menschen leben _unterhalb_ der Armutsgrenze.
+
+	**English**: Many people live below the poverty threshold.
+
+12. _Außerhalb_ des markierten Bereichs darf man nicht stehen.
+
+	**English**: One is now allowed to stand outside of the marked area.
+
+13. _Innerhalb_ der Städte ist es wärmer.
+
+	**English**: Inside the cities it's warmer.
+
+14. Der Baumstamm liegt _längs_ des Flusses.
+
+	**English**: The trunk of the tree lies along the rivers.
+
+15. Die Hundehütte steht _seitlich_ des Hauses.
+
+	**English**: The dog house is on the side of the house.
+
+16. _Während_ der Vorführung des Films musste er mehrmals auf die Toilette gehen.
+
+	**English**: During the presentation of the movie he had to go toilet multiple times.
+
+17. _Anlässlich_ des 20-jährigen Bestehens der Firma wird ein Fest veranstaltet.
+
+	**English**: On occasion of the 20th anniversry of the company a festival will be arranged.
+
+18. _In Folge_[^mehrteiligeAdverbien] der Baumaßnahmen zogen viele Menschen in die Stadt.
+
+	**English**: In the wake of building operations many people moved to the city.
+
+19. Die Miete _abzüglich_ der Nebenkosten beträgt 200\euro. _Zuzüglich_ der Nebenkosten beträgt sie 300\euro.
+
+	**English**: The rent deducting the utilities is 200\euro. Plus utilities the rent is 300\euro.
+
+20. _Anhand_ der neuen Statistik argumentierte der Minister sehr überzeugend.
+
+	**English**: By means of the new statistic the minister argued very convincingly.
+
+21. _Auf Seiten_ der Opposition wurde dieser Vorschlag stark kritisiert.
+
+	**English**: On the part of the opposition the suggestion was heavily criticized.
+
+22. _Mit Hilfe_ der neuen Straße könnte Stau verhindert werden.
+
+	**English**: With the aid of the new road traffic jam could be avoided.
+
+23. _Dank_ der neuen Straße gibt es wenig Stau.
+
+	**English**: Thanks to the new road there is little traffic jam.
+
+24. Die Wahl verlief _zu Gunsten_ von Herr Zhang.
+
+	**English**: The election went in favor of Mr. Zhang.
+
+25. Die höheren Ausgaben im Bereich der Infrastruktur gehen _zu Lasten_ der Invesitionen im Bereich der Bildung.
+
+	**English**: The increased expenses in the infrastructure sector, are for investments in the sector of education's account. (TODO: check this phrase)
+
+26. _Um_ Himmels _Willen_, tu das nicht!
+
+	**English**: Good heavens, don't do that!
+
+27. _Um_ Gottes _Willen_, das wäre zu viel.
+
+	**English**: For God's sake, that'd be too much.
 
 [^mehrteiligeAdverbien]: : Laut §39 des Dudens gilt: _"Mehrteilige Adverbien, Konjunktionen, Präpositionen und Pronomen schreibt man zusammen, wenn die Wortart, die Wortform oder die Bedeutung der einzelnen Bestandteile nicht mehr deutlich erkennbar ist."_ Meinem Ermessen nach ist die Bedeutung bei "infolge" oder "in Folge" sehr wohl erkennbar, denn "in der Folge von etwas" und "als Folge dessen" sind ohne Weiteres von jedem Muttersprachler zu verstehen. Des Weitern ist, anstelle des Dudens, seit 1996 die amtliche Rechtschreibregelung maßgeblich für die deutsche Rechtschreibung. In dieser (Ausgabe Feb. 2006) befindet sich der zitierte Paragraph ebenso.
 
