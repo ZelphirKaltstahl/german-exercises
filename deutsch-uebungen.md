@@ -890,300 +890,302 @@ an, auf, hinter, in, neben, über, unter, vor, zwischen, um, um ... herum, durch
 1. treffen / sich treffen
 	a) Sie spannt den Bogen und lässt den Pfeil von der Sehne schnellen. Sie \mediumgap die Zielscheibe genau in der Mitte.
 
-		(She draws the bow and lets loose the arrow. She hits the target right in the center.)
+		**English**: She draws the bow and lets loose the arrow. She hits the target right in the center.
 
 	b) Sie haben sich verabredet, sie wollen \mediumgap.
 
-		(They made an appointment, they want to meet.)
+		**English**: They made an appointment, they want to meet.
 
 	c) Am Samstag wollen sie \mediumgap.
 
-		(At Saturday they want to meet.)
+		**English**: At Saturday they want to meet.
 
 	d) Heute haben sie schlecht gespielt. Sie haben das gegnerische Tor nicht ein einziges Mal \mediumgap. (Es geht um Fußball.)
 
-		(Today they played badly. They didn't hit the other team's goal once. (It's about soccer.))
+		**English**: Today they played badly. They didn't hit the other team's goal once. (It's about soccer.)
 
 2. sehen / sich sehen
 	a) Wann werdet ihr \mediumgap ?
 
-		(When will you see each other?)
+		**English**: When will you see each other?
 
 	b) Er kann \mediumgap, dass der Zug in den Bahnhof einfährt.
 
-		(He can see, that the train arrives at the train station.)
+		**English**: He can see, that the train arrives at the train station.
 
 	c) \mediumgap nun zu Ihrer rechten. Dort sehen sie das Brandenburger Tor.
 
-		(Now look to your right side. There you'll see the Brandenburger Gate.)
+		**English**: Now look to your right side. There you'll see the Brandenburger Gate.
 
 	d) Sie fuhren mit dem Auto in eine Sackgasse und mussten erst \mediumgap um wieder auf die Hauptstraße zu gelangen.
 
-		(They drove into an impasse with the car and had to turn, in order to get back on the main road.)
+		**English**: They drove into an impasse with the car and had to turn, in order to get back on the main road.
 
 	e) Eines Tages werden wir \mediumgap.
 
-		(One day we will see each other again.)
+		**English**: One day we will see each other again.
 
 	f) In der Menschenmenge war es nicht möglich, dass sie \mediumgap.
 
-		(In the crowd it was not possible for them to see each other.)
+		**English**: In the crowd it was not possible for them to see each other.
 
 	g) Bei gutem Wetter kann man vom Fernsehturm aus ganz Berlin \mediumgap.
 
-		(Under good weather conditions, one can see all of Berlin form the TV tower.)
+		**English**: Under good weather conditions, one can see all of Berlin form the TV tower.
 
 3. unterhalten / sich unterhalten
 	a) Die Lehrerin sagt zu ihren Schülern: Wir müssen \mediumgap.
 
-		(The teacher tells her students: "We have to talk.")
+		**English**: The teacher tells her students: "We have to talk."
 
 	b) In einer Fabrik müssen viele Maschinen \mediumgap werden.
 
-		(In a factory many machines have to be maintained.)
+		**English**: In a factory many machines have to be maintained.
 
 	c) In den Kinos werden viele Menschen \mediumgap.
+
+		**English**: Many people are entertained in the cinemas.
 
 4. verlaufen / sich verlaufen
 	a) Wir erkundeten die Stadt aber schon nach einer Stunde hatten wir \mediumgap .
 
-		(We explored the city, but after only one hour we were lost.)
+		**English**: We explored the city, but after only one hour we were lost.
 
 	b) Der Käse auf der Pizza sollte ordentlich \mediumgap, bevor man die Pizza aus dem Ofen nimmt.
 
-		(The cheese on the pizza should melt properly, before one takes the pizza out of the oven.)
+		**English**: The cheese on the pizza should melt properly, before one takes the pizza out of the oven.
 
 	c) Auf dem neuen großen Flughafen ist es einfach \mediumgap.
 
-		(It's easy to lose your way at the new big airport.)
+		**English**: It's easy to lose your way at the new big airport.
 
 	d) Auf einer Landkarte kann man erkennen, wie die Grenzen Chinas \mediumgap.
 
-		(On a map one can see, where the borders of China are.)
+		**English**: On a map one can see, where the borders of China are.
 
 5. vergeben / sich vergeben
 	a) In der letzten Vorlesung vor Weihnachten verteilte der Professor noch Plätzchen (Kekse zur Weihnachtszeit). Da ich zu spät kam, waren jedoch schon alle Plätzchen \mediumgap, als ich ankam.
 
-		(In the last lecture before Christmas the professor still distributed cookies. Because I was late, the cookies were already entirely distributed.)
+		**English**: In the last lecture before Christmas the professor still distributed cookies. Because I was late, the cookies were already entirely distributed.
 
 	b) Sie haben sich gestritten, aber schon am nächsten Tag haben sie \mediumgap.
 
-		(They had an argument, but the next day already they forgave each other.)
+		**English**: They had an argument, but the next day already they forgave each other.
 
 	c) Er liebte sie sehr, jedoch war sie schon \mediumgap.
 
-		(He loved her dearly, but she was already with someone else.)
+		**English**: He loved her dearly, but she was already with someone else.
 
 6. drücken / sich drücken (umarmen) / sich um etwas drücken
 	a) Um den Computer auszuschalten, musst du diesen Knopf \mediumgap.
 
-		(To turn off the computer, you have to press this button.)
+		**English**: To turn off the computer, you have to press this button.
 
 	b) Als sie sich verabschiedeten sagte sie zu ihrem Kind: „Komm, lass \mediumgap.“
 
-		(When they said goodbye, she told her child: "Let me give you a hug.")
+		**English**: When they said goodbye, she told her child: "Let me give you a hug."
 
-	c) Am Mittwoch muss er einen Vortrag halten. Er holte sich eine Krankschreibung vom Arzt, um \mediumgap. (Hinweis: Er möchte den Vortrag nicht halten. Der Satz soll "vor dem Vortrag" enthalten und den Zweck der Krankschreibung erklären.)
+	c) Am Mittwoch muss er einen Vortrag halten. Er holte sich eine Krankschreibung vom Arzt, um \mediumgap. _(Hinweis: Er möchte den Vortrag nicht halten. Der Satz soll "vor dem Vortrag" enthalten und den Zweck der Krankschreibung erklären.)_
 
-		(On Wednesday he has to give a talk. He got himself a sick note from the doctor, in order to not have to give the talk. Hint: He doesn't want to give the talk. The phrase shall contain "vor dem Vortrag" and explain the purpose of the sick note.)
+		**English**: On Wednesday he has to give a talk. He got himself a sick note from the doctor, in order to not have to give the talk. _(Hint: He doesn't want to give the talk. The phrase shall contain "vor dem Vortrag" and explain the purpose of the sick note.)_
 
 7. aufbauen / sich aufbauen
 	a) Nach dem schweren Erdbeben mussten die Menschen viele Gebäude wieder \mediumgap.
 
-		(After the heavy earthquake the people had to rebuild many buildings.)
+		**English**: After the heavy earthquake the people had to rebuild many buildings.
 
 	b) Dieser Erfolg war wichtig um \mediumgap. (Bedeutung: motivieren)
 
-		(This success was important to motivate him.)
+		**English**: This success was important to motivate him.
 
 8. ausmalen / sich etwas ausmalen
 	a) Man kann \mediumgap wie es um die Zukunft bestellt ist.
 
-		(One can imagine, what the future looks like.)
+		**English**: One can imagine, what the future looks like.
 
 	b) Im Kunstunterricht in der Grundschule sollten die Kinder heute etwas \mediumgap.
 
-		(In art class in primary school, the children were told to paint in something today.)
+		**English**: In art class in primary school, the children were told to paint in something today.
 
 9. hüten / sich hüten
 	a) Man sollte \mediumgap voreilige Schlussfolgerungen zu ziehen.
 
-		(One should beware of jumping to conclusions.)
+		**English**: One should beware of jumping to conclusions.
 
 	b) Sie \mediumgap die geheimen Schriften wie einen Schatz.
 
-		(They keep the secret scripts like a treasure.)
+		**English**: They keep the secret scripts like a treasure.
 
 	c) \mediumgap vor den Hunden!
 
-		(Beware of the dogs!)
+		**English**: Beware of the dogs!
 
 10. übergeben / sich übergeben
 	a) Die Ware wurde schon am Donnerstag an DHL \mediumgap.
 
-		(On Thursday the good was delivered to DHL already.)
+		**English**: On Thursday the good was delivered to DHL already.
 
 	b) Sie hatte zu viel gegessen und musste \mediumgap.
 
-		(She ate too much and had to vomit.)
+		**English**: She ate too much and had to vomit.
 
 11. verabschieden (ein Gesetz z.B.) / sich verabschieden
 	a) \mediumgap fiel ihnen schwer.
 
-		(Parting was difficult for them.)
+		**English**: Parting was difficult for them.
 
 	b) Von Ihrem Geld können Sie \mediumgap!
 
-		(You can say good bye to your money.)
+		**English**: You can say good bye to your money.
 
 	c) Der Bundestag hat gestern ein neues Gesetz \mediumgap.
 
-		(Yesterday the Bundestag established a new law.)
+		**English**: Yesterday the Bundestag established a new law.
 
 12. umziehen / sich umziehen
 	a) Sie sind von Hamburg nach Berlin \mediumgap.
 
-		(They moved from Hamburg to Berlin.)
+		**English**: They moved from Hamburg to Berlin.
 
 	b) Nach dem Sport soll man \mediumgap.
 
-		(After doing sports one should change clothes.)
+		**English**: After doing sports one should change clothes.
 
 	c) Sie wollen am Sonntag \mediumgap.
 
-		(They want to relocate on Sunday.)
+		**English**: They want to relocate on Sunday.
 
 	d) Als er zur Arbeit kam musste er \mediumgap.
 
-		(When he arrived at work, he had to change clothes.)
+		**English**: When he arrived at work, he had to change clothes.
 
 13. einstellen / sich auf etwas einstellen
 	a) In der Nacht von gestern auf heute wurden die Kampfeshandlungen \mediumgap.
 
-		(Yesterday night they stopped the hostilities.)
+		**English**: Yesterday night they stopped the hostilities.
 
 	b) Du kannst die Bildschirmauflösung \mediumgap.
 
-		(You can set the screen resolution.)
+		**English**: You can set the screen resolution.
 
 	c) Du kannst \mediumgap, dass der Winter kalt wird. (Hinweis: Der Satz enthält "darauf".)
 
-		(You can prepare for a cold winter. (Hint: The phrase contains "darauf".))
+		**English**: You can prepare for a cold winter. (Hint: The phrase contains "darauf".)
 
 	d) Auf die neuen Umstände mussten sie \mediumgap.
 
-		(They had to adapt to the new circumstances.)
+		**English**: They had to adapt to the new circumstances.
 
 	e) In den Optionen musst du die Schriftgröße \mediumgap.
 
-		(You have to set the font size in the settings.)
+		**English**: You have to set the font size in the settings.
 
 14. sich verlassen (auf etwas oder jemanden) / verlassen
 	a) Darauf kannst du \mediumgap.
 
-		(You can take it to the bank. / You bet! / You can rely on that.)
+		**English**: You can take it to the bank. / You bet! / You can rely on that.
 
 	b) Als wir das Haus \mediumgap, fiel uns auf, dass wir etwas vergessen hatten.
 
-		(When we left the house, we noticed, that we had forgotten something.)
+		**English**: When we left the house, we noticed, that we had forgotten something.
 
 	c) Das Unternehmen \mediumgap vollkommen auf die Mitarbeiter.
 
-		(The company relies entirely on its employees.)
+		**English**: The company relies entirely on its employees.
 
 	d) Am Donnerstag muss er sie \mediumgap.
 
-		(On Thursday he had to leave her.)
+		**English**: On Thursday he had to leave her.
 
 	e) Auf die Pünktlichkeit des Busses kann ich \mediumgap.
 
-		(I can rely on the punctuality of the bus.)
+		**English**: I can rely on the punctuality of the bus.
 
 15. vertiefen / sich vertiefen
 	a) Um den Mordfall aufzuklären, musste Sherlock Holmes \mediumgap. (*Hinweis: Enthält: "in" und "Dokumente"*)
 
-		(To solve the murder case, Sherlock Holmes had to delve into documents.)
+		**English**: To solve the murder case, Sherlock Holmes had to delve into documents.
 
 	b) Er \mediumgap in die vor ihm liegende Hausarbeit.
 
-		(He delved into the homework, lying before him.)
+		**English**: He delved into the homework, lying before him.
 
 	c) Wir müssen den Vorlesungsstoff \mediumgap.
 
-		(We have to deepen the lecture material.)
+		**English**: We have to deepen the lecture material.
 
 	d) In dieses Buch habe ich \mediumgap.
 
-		(I've delved into this book.)
+		**English**: I've delved into this book.
 
 16. vorstellen / sich etwas vorstellen
 	a) Am ersten Schultag sollten \mediumgap. (Hinweis: Der Satz enthält „alle Kinder“)
 
-		(On the first day of school the children were supposed to introduce themselves.)
+		**English**: On the first day of school the children were supposed to introduce themselves.
 
 	b) Es ist schwierig sich das \mediumgap, aber es ist möglich.
 
-		(It's difficult to imagine that, but it's possible.)
+		**English**: It's difficult to imagine that, but it's possible.
 
 	c) Es klingt mir sehr unwahrscheinlich. Ich kann mir nicht \mediumgap, dass das funktioniert.
 
-		(It sounds very unlikely to me. I can't imagine that to work.)
+		**English**: It sounds very unlikely to me. I can't imagine that to work.
 
 	d) Nachdem er den Raum betrat und seine Tasche abgestellt hatte, \mediumgap.
 
-		(After he entered the and put down his bag, he introduced himself.)
+		**English**: After he entered the and put down his bag, he introduced himself.
 
 	e) Kannst du dir ein Schachbrett \mediumgap?
 
-		(Can you imagine a chess board?)
+		**English**: Can you imagine a chess board?
 
 17. vorkommen / sich vorkommen
 	a) Wie oft ist es schon \mediumgap, dass es keinen Schnee zu Weihnachten gab?
 
-		(How often did it happen, that there was no snow on Christmas?)
+		**English**: How often did it happen, that there was no snow on Christmas?
 
 	b) Hier \mediumgap wie im Kindergarten!
 
-		(I feel like I am in a kindergarten here!)
+		**English**: I feel like I am in a kindergarten here!
 
 	c) In Anbetracht der gewaltigen Gebirgslandschaft vor einem \mediumgap. (Hinweis: verwende ein Adjektiv wie zum Beispiel: „unbedeutend“ oder „klein“)
 
-		(Considering the huge mountainscape in front, one can feel insignificant.)
+		**English**: Considering the huge mountainscape in front, one can feel insignificant.
 
 	d) Es kann schon \mediumgap, dass er Überstunden machen muss.
 
-		(It can happen, that one has to do overtime.)
+		**English**: It can happen, that one has to do overtime.
 
 18. lieben / sich lieben / sich verlieben
 	a) Die Leute \mediumgap Pandas!
 
-		(The people love pandas!)
+		**English**: The people love pandas!
 
 	b) Sie sind schon viele Jahre verheiratet und \mediumgap noch immer.
 
-		(They're married for many years now and still love each other.)
+		**English**: They're married for many years now and still love each other.
 
 	c) Ihre Mutter sagte ihr immer: Irgendwann wirst du \mediumgap.
 
-		(Her mother always said: "Eventually you'll fall in love.")
+		**English**: Her mother always said: "Eventually you'll fall in love."
 
 19. erhöhen / sich erhöhen
 	a) Die deutsche Bahn musste die Löhne der Lokführer \mediumgap.
 
-		(German Railways had to increase the sallary of their train drivers.)
+		**English**: German Railways had to increase the sallary of their train drivers.
 
 	b) Die Arbeitslosenquote des nächsten Jahres könnte \mediumgap.
 
-		(The unemployment rate of the next year could increase.)
+		**English**: The unemployment rate of the next year could increase.
 
 20. vorbereiten / sich vorbereiten
 	a) Gemeinsam werden wir das Treffen \mediumgap.
 
-		(Together we will prepare the meeting.)
+		**English**: Together we will prepare the meeting.
 
 	b) Auf diese Prüfung muss ich \mediumgap.
 
-		(I have to prepare for this exam.)
+		**English**: I have to prepare for this exam.
 
 # Präpositionen
 
