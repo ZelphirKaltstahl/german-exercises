@@ -1201,84 +1201,83 @@ Deutsch - Präposition + Artikel: am, ans, im, ins, vom, zum, zur
 
 1. \shortgap du wann das nächste Chinesisch Meetup ist?
 
-	(Do you know when the next Chinese meetup is?)
+	**English**: Do you know when the next Chinese meetup is?
 
 2. Es ist gut zu \shortgap, dass es dir gut geht.
 
-	(It's good to know you're well.)
+	**English**: It's good to know you're well.
 
 3. Sie \shortgap viele Leute in Berlin.
 
-	(She knows many people in Berlin.)
+	**English**: She knows many people in Berlin.
 
 4. Wie viel \shortgap du über die Geschichte Chinas?
 
-	(How much do you know about the history of China?)
+	**English**: How much do you know about the history of China?
 
 5. Er \shortgap viele chinesische Schriftzeichen.
 
-	(He knows many Chinese characters.)
+	**English**: He knows many Chinese characters.
 
 6. Man \shortgap noch nicht wie das Resultat der Wahlen lautet.
 
-	(TODO)
+	**English**: One doesn't know the result of the election yet.
 
 7. Ich \shortgap nun was wir tun können.
 
-	()
+	**English**: I know what we can do.
 
 8. Sie \shortgap wie man Jiaozi macht.
 
-	()
+	**English**: She knows how to make Jiaozi.
 
 9. Wir haben den Film neulich gesehen. Wir \shortgap die Handlung des Films.
 
-	()
+	**English**: We recently watched a movie. We know the plot of the movie.
 
 10. Ich \shortgap mich in Berlin gut aus.
 
-	()
+	**English**:  I know Berlin well.
 
 11. \shortgap er schon von der Überraschung?
 
-	()
+	**English**: Does he know about the surprise?
 
 12. Wer \shortgap schon was morgen passiert?
 
-	()
+	**English**: Who knows what will happen tomorrow?
 
 13. Ich hatte zwei Jahre bei diesem Professor Vorlesungen. Ich \shortgap ihn.
 
-	()
+	**English**: I had lectures with this professor for two years. I know him.
 
-14. \shortgap  du den Weg zur nächsten U-Bahn-Station?
+14. \shortgap du den Weg zur nächsten U-Bahn-Station?
 
-	()
+	**English**: Do you know the way to the next subway station?
 
 15. \shortgap Sie wie ich von hier zur Volksbar komme?
 
-	()
+	**English**: Do you know how to get to the Volksbar from here?
 
 16. Man muss sich nur zu helfen \shortgap
 
-	()
+	**English**: One just has to know how to help oneself.
 
 17. Ich frage einen Freund. Er \shortgap ein gutes authentisches Restaurant.
 
-	()
+	**English**: I ask a friend. He knows a good authentic restaurant.
 
 18. Ich \shortgap nicht wie viel das kostet.
 
-	()
+	**English**: I don't know how much that costs.
 
 19. \shortgap du wie spät es ist?
 
-	()
+	**English**: Do you know how late it is?
 
 20. Wenn man die Gegend \shortgap, dann bemerkt man die kleinen Veränderungen.
 
-	()
-
+	**English**: If one knows the surroundings, one notices the small changes.
 
 # Schon und Noch
 
