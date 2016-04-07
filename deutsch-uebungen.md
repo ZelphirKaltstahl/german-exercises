@@ -793,11 +793,11 @@ aus, aus ... heraus, außer, bei, zu, bis zu, entgegen, entsprechend, gemäß, g
 
 13. Ihrer Aussage _zufolge_ waren Sie um 15:00 noch nicht Zuhause.
 
-	**English**: TODO
+	**English**: According to her her statement, you were not at home at 15:00 yet.
 
 14. Seinen Eltern _zuliebe_ kam er schon um 20:00 nach Hause.
 
-	**English**: TODO
+	**English**: For his parents sake, he came home at 20:00 already.
 
 
 ## Akkusativ (4. Fall)
@@ -816,22 +816,72 @@ an, auf, hinter, in, neben, über, unter, vor, zwischen, um, um ... herum, durch
 #### Beispielsätze
 
 1. _An_ der Schule gibt es viele Lehrer.
+
+	**English**: There are many teachers at the school.
+
 2. _Auf_ dem Dach sitzt eine Taube.
+
+	**English**: A pidgeon sits on top of the roof.
+
 3. Ein Kind versteckte sich _hinter_ dem Baum.
+
+	**English**: A child hides behind the tree.
+
 4. _In_ der Universität lernte ich wissenschaftliches Arbeiten.
+
+	**English**: In university I learned how to work scientifically.
+
 5. Stell die Vase _neben_ den Blumentopf.
+
+	**English**: I put the vase next to the flower pot.
+
 6. Er hat das Auto _neben_ dem Straßenschild geparkt.
+
+	**English**: The parked the car next to the street sign.
+
 7. Ich muss _über_ deinen Vorschlag nachdenken.
+
+	**English**: I have to contemplate your proposal.
+
 8. _Unter_ diesen Umständen muss ich Ihr Angebot ablehnen.
+
+	**English**: Under these circumstances I have to reject your offer.
+
 9. Sie treffen sich jeden Tag _vor_ dem Hörsaal.
+
+	**English**: They meet in front of the auditorium everyday.
+
 10. _Zwischen_ den Häusern haben die Bewohner Wäscheleinen gespannt.
+
+	**English**: In between the houses, the residents stretched clothesline rope.
+
 11. Sie löschten das Feuer _um_ den Schaden zu begrenzen.
+
+	**English**: The quenched the fire to limit the damage.
+
 12. Er rannte _um_ den Tisch _herum_.
+
+	**English**: He ran around the table.
+
 13. Wir fahren _gerade_ durch den Tunnel.
+
+	**English**: We are driving through the tunnel.
+
 14. Ihr geht immer an der Mauer _entlang_ und dann nach rechts.
+
+	**English**: You always go along the wall and then turn right.
+
 15. Sie sammeln noch Gegenstände für den Trödelmarkt.
+
+	**English**: They still collect items for the junk market.
+
 16. Man kann sich _gegen_ den Virus impfen lassen.
+
+	**English**: You can vaccinate against the virus.
+
 17. Er kam _ohne_ den Einkauf nach Hause.
+
+	**English**: He came home without the purchase.
 
 # Reflexive Verben
 
