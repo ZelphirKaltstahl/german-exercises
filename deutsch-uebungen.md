@@ -4,6 +4,7 @@
 
 <!-- TODO: alle tabu tabellen mit longtabu tabellen ersetzen und ihnen eine caption geben, die unterhalb der tabelle ist -->
 <!-- TODO: Chinesische Uebersetzungen -->
+<!-- TODO: Ueberschriften uebersetzen (Format?) -->
 
 # Hinweise (Eng. Note)
 
@@ -1687,6 +1688,9 @@ TODO: mehr Inhalt
 ### Beschreibung des Diagrammtyps
 
 * In der Abbildung sieht man ...
+
+	**English**: 
+
 	* ... ein Balkendiagramm.
 
 		\begin{figure}[H]
