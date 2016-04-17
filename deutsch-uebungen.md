@@ -1225,8 +1225,9 @@ Deutsch - Präposition + Artikel: am, ans, im, ins, vom, zum, zur
 
 **Aufgabe**: Setze das je Satz gegebene Adjektiv in der richtigen Form in den Satz ein.
 
-<!-- TODO: Uebersetzung der Aufgabenstellung Englisch-->
-<!-- TODO: Uebersetzung der Aufgabenstellung Chinesisch-->
+**Assignment**: Insert the adjective given for each phrase into the corresponding phrases in the correct form.
+
+**任务**: <!-- TODO: Uebersetzung der Aufgabenstellung Chinesisch-->
 
 1. Er ist ein bekannter japanischer Komponist.
 
@@ -1239,13 +1240,30 @@ Deutsch - Präposition + Artikel: am, ans, im, ins, vom, zum, zur
 **任务**: 将 _man_ (_Man_), _Mann_ 的其中之一填入下列短句中。
 
 1. \shortgap muss den sich auf den Test vorbereiten.
+
+	**English**: One has to prepare oneself for the test.
+
 2. Sie sind nun \shortgap und Frau.
+
+	**English**: They're now husband and wife.
+
 3. Über die Ursachen ist \shortgap sich noch im Unklaren.
+
+	**English**: One still is unsure about the causes.
+
 4. Die Erdbeben kann \shortgap teilweise zeitlich ungefähr vorhersagen.
+
+	**English**: One can approximately partly predict the time of earth quakes.
+
 5. Ihr neuer \shortgap sagte \shortgap kann den Bahnhof innerhalb einer Stunde erreichen.
+
+	**English**: Her new husband said, one can reach the train station within an hour.
+
 6. Jeder \shortgap sollte seine Frau respektieren.
 
-<!-- TODO: Translation -->
+	**English**: Every man should respect their wife.
+
+<!-- TODO: Chinese Translation -->
 
 # Wissen und Kennen
 
