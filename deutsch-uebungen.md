@@ -1193,6 +1193,32 @@ an, auf, hinter, in, neben, über, unter, vor, zwischen, um, um ... herum, durch
 
 Deutsch - Präposition + Artikel: am, ans, im, ins, vom, zum, zur
 
+# Adjektive an Geschlecht und Anzahl anpassen
+
+**Aufgabe**: Setze das je Satz gegebene Adjektiv in der richtigen Form in den Satz ein.
+
+<!-- TODO: Uebersetzung der Aufgabenstellung Englisch-->
+<!-- TODO: Uebersetzung der Aufgabenstellung Chinesisch-->
+
+1. Er ist ein bekannter japanischer Komponist.
+
+# Man und Mann
+
+**Aufgabe**: Setze entweder _man_ (_Man_) oder _Mann_ in die folgenden Sätze ein.
+
+**Assignment**: Insert either _man_ (_Man_) or _Mann_ into the following phrases.
+
+**任务**: 将 _man_ (_Man_), _Mann_ 的其中之一填入下列短句中。
+
+1. \shortgap muss den sich auf den Test vorbereiten.
+2. Sie sind nun \shortgap und Frau.
+3. Über die Ursachen ist \shortgap sich noch im Unklaren.
+4. Die Erdbeben kann \shortgap teilweise zeitlich ungefähr vorhersagen.
+5. Ihr neuer \shortgap sagte \shortgap kann den Bahnhof innerhalb einer Stunde erreichen.
+6. Jeder \shortgap sollte seine Frau respektieren.
+
+<!-- TODO: Translation -->
+
 # Wissen und Kennen
 
 **Aufgabe**: Setze entweder _kennen_ oder _wissen_ in die folgenden Sätze ein.
