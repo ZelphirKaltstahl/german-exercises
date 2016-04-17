@@ -193,6 +193,8 @@ xxii. Du solltest ... noch einmal üben.
 
 xxiii. Ich weiß nicht worum es geht.
 
+	**English**: I don't know what's the matter.
+
 # Ideen für Übungen
 
 * Versuche einen Tagebucheintrag zu schreiben. Frage einen Muttersprachler oder eine Muttersprachlerin, ob er oder sie dir dabei helfen kann. Versuche dabei so viel wie möglich selbst zu schreiben. Weißt du nicht wie man ein Wort schreibt oder wie du einen Satz formulieren kannst, dann frage einfach nach.
