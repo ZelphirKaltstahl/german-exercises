@@ -58,19 +58,23 @@ Table: Replacements for German Umlaute
 
 * Es ist sinnvoll die Lösungen der Übungen mit einem Muttersprachler zu kontrollieren, der Bedeutungen von Sätzen und Wörtern erklären kann.
 	
-	_It makes sence to check the solutions to the exercises with a native speaker, who is able to explain meanings of phrases and words._
+	**English**: It makes sence to check the solutions to the exercises with a native speaker, who is able to explain meanings of phrases and words.
 
 * Versuche die Muster hinter dem Gebrauch von Wörtern zu erkennen.
 	
-	_Try to recognize the patterns of usage of words._
+	**English**: Try to recognize the patterns of usage of words.
 
 * Wenn du eine neue Vokabel lernst, die ein Nomen (Substantiv) ist, dann solltest du den Artikel mit der Vokabel zusammen lernen.
 
-	_When you learn a new vocable, if it is a noun, it is best to lern the article at the same time._
+	**English**: When you learn a new vocable, if it is a noun, it is best to lern the article at the same time.
 
 # Danksagung
 
-TODO
+Dank geht vor allem an Besucher des Chinese language and Culture Exchange Meetups, da sie mich bewusst oder unbewusst motiviert haben dieses Dokument zu verfassen. Besonders danke ich auch denjenigen, die mir geholfen haben Teile des Dokuments ins Chinesische zu übersetzen.
+
+**English**: Thanks go out to visitors of the Chinese language and Culture Exchange Meetup, because they consciously or unconsciously motivated me to write this document. Especially I thank those, who helped me to translate parts of this document to Chinese.
+
+**汉语**: TODO
 
 
 # Nützliche Wörter
@@ -246,6 +250,8 @@ TODO
 **Aufgabe**: Verbinde die Wörter jeweils zu ganzen Sätzen. Unterschiedliche Lösungen können jeweils richtig sein.
 
 **Assignment**: Form a whole phrase with each group of words. Various solutions can be correct for each group of words.
+
+**任务**: TODO
 
 1. können, wichtig, ist, einsetzen, Beruf, in, Fähigkeit, Universität, erlernte, im, der, zu, .
 2. bin, professionelle, noch, ich, Komponistin, keine, .
@@ -428,18 +434,40 @@ The two words _das_ and _dass_ are completely different in their usage. _Das_ is
 ### Haben
 
 * reflexive Verben
-* transitive Verben (Objekt im Akkusativ)
+
+	**English**: reflexive verbs
+
+* transitive Verben
+
+	**English**: transitive verbs
+
 * intransitive Verben[^intransitives_verb] die keine Ortsänderung des Subjekts ausdrücken
+
+	**English**: intransitive verbs, which do not express change of location of the subject
+
 * intransitive Verben die keine Zustandsänderung des Subjekts ausdrücken
-* haben, anfangen, beginnen, zunehmen, erhöhen, abnehmen, verringern, aufhören
+
+	**English**: intransitive verbs, which do not express change of state of the subject
+
+* folgende Verben: haben, anfangen, beginnen, zunehmen, erhöhen, abnehmen, verringern, aufhören
+
+	**English**: the following verbs: haben, anfangen, beginnen, zunehmen, erhöhen, abnehmen, verringern, aufhören
 
 [^intransitives_verb]: : Ein intransitives Verb ist ein Verb, dass kein Akkusativobjekt als Argument haben kann. Ein transitives Verb hingegen ist ein Verb, das ein Akkusativobjekt als Argument haben kann, aber nicht haben muss.
 
 ### Sein
 
 * intransitive Verben die eine Ortsänderung des Subjekts ausdrücken
+
+	**English**: intransitive verbs, which express change of location of the subject
+
 * intransitive Verben der Zustandsänderung des Subjekts
-* sein, bleiben, werden, passieren, geschehen
+
+	**English**: intransitive verbs, which express change of state of the subject
+
+* folgende Verben: sein, bleiben, werden, passieren, geschehen
+
+	**English**: the following verbs: sein, bleiben, werden, passieren, geschehen
 
 ### Beispiele mit Haben
 
