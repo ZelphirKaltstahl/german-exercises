@@ -1,5 +1,5 @@
 % Deutsch Übungen
-% 样小龙
+% 杨小龙
 
 
 <!-- TODO: alle tabu tabellen mit longtabu tabellen ersetzen und ihnen eine caption geben, die unterhalb der tabelle ist -->
@@ -58,11 +58,11 @@ Table: Replacements for German Umlaute
 ## Ratschläge
 
 * Es ist sinnvoll die Lösungen der Übungen mit einem Muttersprachler zu kontrollieren, der Bedeutungen von Sätzen und Wörtern erklären kann.
-	
+
 	**English**: It makes sence to check the solutions to the exercises with a native speaker, who is able to explain meanings of phrases and words.
 
 * Versuche die Muster hinter dem Gebrauch von Wörtern zu erkennen.
-	
+
 	**English**: Try to recognize the patterns of usage of words.
 
 * Wenn du eine neue Vokabel lernst, die ein Nomen (Substantiv) ist, dann solltest du den Artikel mit der Vokabel zusammen lernen.
@@ -1384,7 +1384,7 @@ Deutsch - Präposition + Artikel: am, ans, im, ins, vom, zum, zur
 18. Ich war \shortgap an vielen Orten, an denen es kaum Infrastruktur gab.
 19. Weißt du \shortgap was du später einmal werden möchtest?
 20. Als er 7 Jahre alt war, wollte er \shortgap Müllauto-Fahrer werden.
- 
+
 [^MeisterVomHimmel]: : Bedeutung: Man muss Dinge erst üben, bevor man sie gut kann. Es ist normal zu Beginn Fehler zu machen oder nicht perfekte Resultate zu erzielen.
 
 # Wenn und Als
@@ -1614,7 +1614,7 @@ TODO: mehr Inhalt
 ## Ausdruck der eigenen Meinung
 
 1. Ich bin der Meining, dass ..... .
-	
+
 	a) Ich bin der Meinung, dass wir ruhig bis um 23:00 hier bleiben können.
 	a) ... daher bin ich der Meinung, dass Professor Maier Recht hat.
 	a) Ich bin der Meinung, dass man das Problem nur durch eine bessere Aufklärung der Menschen lösen kann.
@@ -1649,7 +1649,7 @@ TODO: mehr Inhalt
 	a) Sie denken, dass sie sich in Deutschland gegen eine große Konkurrenz durchsetzen können.
 
 6. Aus meiner Sicht ..... .
-	
+
 	a) Aus meiner Sicht ist es wichtig die Sprache eines Landes zu erlernen, um in dessen Kultur eintauchen zu können.
 	a) Aus meiner Sicht muss ein anderer Weg gegangen werden als bisher.
 	a) Aus meiner Sicht sind wir auf gutem Weg um das Ziel zu erreichen.
@@ -1689,7 +1689,7 @@ TODO: mehr Inhalt
 
 * In der Abbildung sieht man ...
 
-	**English**: 
+	**English**:
 
 	* ... ein Balkendiagramm.
 
@@ -1700,7 +1700,7 @@ TODO: mehr Inhalt
 		\end{figure}
 
 	* ... ein Säulendiagramm.
-	
+
 		\begin{figure}[H]
 		\includegraphics[width=0.5\textwidth, height=!]{graphics/column_chart.pdf}
 		\centering
