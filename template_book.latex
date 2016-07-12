@@ -2,7 +2,7 @@
 \errorcontextlines 10000
 
 % DOCUMENT ATTRIBUTES
-\documentclass[12pt, a4paper, parskip=full, openany, twoside]{book}
+\documentclass[10pt, a4paper, parskip=full, openany, twoside]{book}
 % 12pt         : main font size
 % a4paper      : paper format
 % parskip=full : ???
@@ -227,7 +227,7 @@ $if(toc)$\tableofcontents$endif$
 
 \mainmatter
 \pagestyle{fancy}
-\renewcommand{\baselinestretch}{1.3}
+\renewcommand{\baselinestretch}{1.25}
 % FOOTER
 \fancyfoot[LE,RO]{杨小龙}
 \fancyfoot[CE,CO]{Seite \thepage{} von \pageref{LastPage}}
