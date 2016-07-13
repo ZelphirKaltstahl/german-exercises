@@ -158,9 +158,9 @@ ix. Was bedeutet ...?
 
 	**汉语:** ... 有什么意思？
 
-x. Kannst du das genauer erklären?
+x. Kannst du es genauer erklären?
 
-	**English:** Can you explain that in more detail?
+	**English:** Can you explain it in more detail?
 
 	**汉语:** TODO
 
@@ -168,7 +168,7 @@ xi. Kannst du meinen Text korrigieren?
 
 	**English:** Can you revise my text?
 
-	**汉语:** TODO
+	**汉语:** 你会修改我的文本吗？
 
 xii. Lass mich deinen Text lesen.
 
