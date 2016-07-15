@@ -431,8 +431,8 @@ The two words _das_ and _dass_ are completely different in their usage. _Das_ is
 
 ## Beispiele
 
-1. Hast du _dir_ _das Buch_ angeschaut?
-2. Hast du _dich_ umgeschaut?
+1. Hast du _dir_ _das Buch_ angeschaut? 
+2. Hast du _dich_ belesen?
 3. Er hat _dir_ _die Hand_ gegeben.
 4. Er hat _dich_ begrüßt.
 5. Wir haben _dir_ _eine Nachricht_ gesendet.
@@ -475,6 +475,20 @@ Handelt es sich eher um eine Anweisung, so wird meist _soll_ verwendet. Es hande
 Bei Ratschlägen wird hingegen meist _sollte_ verwendet. Es wird oft mitgedacht, dass etwas wahr ist.
 
 TODO: Mehr Details und Beispiele
+
+# Fugen-S und Fugenelemente
+
+Fugenelemente treten bei zusammengesetzten Nomen auf.
+
+## Grammatik
+
+* Bestimmte Endungen von Nomen als erste Teilwörter (Bestimmungswörter) des zusammengesetzten Wortes erfordern ein Fugen-S: _-heit_, _-keit_, _-ing_, _-ling_, _-sal_, _-schaft_, _-ung_, _-ion_, _-tät_, _-um_: Frei*heit*sbewegung, Einig*keit*sgefühl, Lehr*ling*sgehalt, Schick*sal*sschlag, Beruf*ung*sprozess, Kommunikat*ion*swissenschaft, Identi*tät*skrise, Dat*um*sangabe
+* Ist das erste Teilwort (Bestimmungswort) des zusammengesetzen Nomens ein Infinitiv eines Verbs, wird ein Fugen-S verwendet: *Schaffen*slust, *Wissen*sdurch, *Schaffen*skraft, *Schlafen*szeit
+* Falls _Geschichte_, _Liebe_, _Armut_ oder _Hilfe_ Bestimmungswort sind: *Geschicht*sstunde, *Geschicht*slehrbuch, *Liebe*sbrief, *Liebe*skomödie, *Hilf*sgüter, *Hilf*sleistung, *Armut*sgrenze, *Armut*sstatistik
+
+## Übung
+
+TODO
 
 # Hilfsverben
 
