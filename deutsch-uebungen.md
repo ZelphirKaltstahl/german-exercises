@@ -178,8 +178,6 @@ Dank geht vor allem an Besucher des Chinese language and Culture Exchange Meetup
 # Sprichwörter
 
 1. Es ist noch kein Meister vom Himmel gefallen.
-2. asasa...
-3. ooo
 
 TODO
 
@@ -443,13 +441,33 @@ Falls das Nomen aus mehr als einem Wort besteht, ein so genanntes zusammengesetz
 
 _In nouns, which consist of more than one word, so called compund nouns, the definite article depends on the last of those words._
 
-# Beantworten von Fragen
-
-TODO
-
 # Meinen und Bedeuten
 
-TODO
+## Grammatik
+
+* _Meinen_ kommt vom Wort Meinung. Jemand kann etwas meinen. Etwas meinen bedeutet einen Sachverhalt oder eine Meinung ausdrücken zu wollen.
+* _Bedeuten_ kommt vom Wort _Bedeutung_. Etwas oder jemand kann eine Bedeutung haben. Eine Bedeutung zu haben bedeutet einen Einfluss auf etwas zu haben.
+
+So kann beispielsweise eine Person einen Sachverhalt ausdrücken wollen (etwas meinen, etwas versuchen auszudrücken), aber das, was die Person sagt, kann eine andere Bedeutung haben. Auch die Person selbst kann eine Bedeutung haben. Die Bedeutung der Person ist ihr Einfluss auf die Welt. Es lässt sich beispielsweise fragen, welche Bedeutung Immanuel Kant für die Philosophie hat. Das ist jedoch nicht das Gleiche wie die Frage danach, was Kant mit einem Text ausdrücken wollte (meinte).
+
+Man muss unterscheiden zwischen:
+
+1. Was meinst du?
+
+	Dies ist die Frage danach, was eine Person ausdrücken oder beschreiben möchte. Es ist vergleichbar mit den Fragen _"Was möchtest du damit ausdrücken?"_, _"Was möchtest du, mit dem was du sagst, aussagen?"_ oder _"Was möchtest du, was das was du sagst, bedeutet?"_. Diese Fragen klingen jedoch weniger natürlich, als die Frage _"Was meinst du?"_.
+
+2. Was bedeutest du?
+
+	Dies ist die Frage danach, was für einen Einfluss die Person auf die Welt oder das Universum hat. Man kann beispielsweise fragen, welche Bedeutung der Utilitarismus für die Entwicklung des Kommunismus hat oder welche Bedeutung John Rawls Theorie der Gerechtigkeit für unsere heutige Gesellschaft hat.
+
+## Beispiele
+
+
+
+## Übungsaufgaben
+
+
+
 
 # Unterscheidung von das und dass
 
