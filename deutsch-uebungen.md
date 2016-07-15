@@ -471,8 +471,8 @@ TODO: Mehr Beispiele
 
 # Soll und Sollte
 
-Handelt es sich eher um eine Anweisung, so wird meist _soll_ verwendet.
-Bei Ratschlägen wird hingegen meist _sollte_ verwendet.
+Handelt es sich eher um eine Anweisung, so wird meist _soll_ verwendet. Es handelt sich of um subjektive Dinge.
+Bei Ratschlägen wird hingegen meist _sollte_ verwendet. Es wird oft mitgedacht, dass etwas wahr ist.
 
 TODO: Mehr Details und Beispiele
 
