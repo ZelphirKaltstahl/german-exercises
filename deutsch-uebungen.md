@@ -414,6 +414,68 @@ The two words _das_ and _dass_ are completely different in their usage. _Das_ is
 
 	**汉语:** TODO
 
+# Mir und Mich und Dir und Dich
+
+## Grammatik
+
+\begin{longtabu} to \linewidth [H] {X|[1.1pt]XXXXXX}
+	\rowfont[c]{}
+	Fall & ich & du & er, sie, es & wir & ihr & sie\\
+	\tabucline[1.1pt]{-}
+	\rowfont[c]{}
+	Dativ & mir & dir & sich & uns & euch & sich\\
+	\rowfont[c]{}
+	Akkusativ & mich & dich & sich & uns & euch & sich\\
+	\caption{Verwendung von Reflexivpronomen}
+\end{longtabu}
+
+## Beispiele
+
+1. Hast du _dir_ _das Buch_ angeschaut?
+2. Hast du _dich_ umgeschaut?
+3. Er hat _dir_ _die Hand_ gegeben.
+4. Er hat _dich_ begrüßt.
+5. Wir haben _dir_ _eine Nachricht_ gesendet.
+6. Wir haben _dich_ informiert.
+
+TODO: Mehr Beispiele
+
+## Übung
+
+**Aufgabe**: Setze in die folgenden Sätze entweder _mir_, _mich_, _dir_ oder _dich_ richtig ein.
+
+**Assignment**: Insert either _mir_, _mich_, _dir_ or _dich_ correctly into the following phrases.
+
+**任务:** 将 _mir_, _mich_, _dir_, _dich_ 的其中之一填入下列短句中。
+
+1. Sie hat \shortgap eine Nachricht gesendet.
+2. Man hat \shortgap schon informiert.
+3. Diese Aufgabe bereitet \shortgap Kopfschmerzen.
+4. Habe ich \shortgap nicht schon einmal gesehen?
+5. Ich rief \shortgap am Mittwoch an.
+6. Hast du \shortgap schon einmal Gedanken darüber gemacht?
+7. Jeden morgen sollst du \shortgap die Zähne putzen.
+8. Sollte ich \shortgap einen neuen Computer kaufen oder nicht?
+9. Lohnt sich das für \shortgap? (TODO: Warum hier "dich" und nicht "dir")
+10. Du musst \shortgap 10 Tage vorher anmelden.
+11. \shortgap wurde die Tür geöffnet.
+12. Sie hat \shortgap etwas beigebracht.
+13. Er hat \shortgap unterrichtet.
+14. Ich bitte \shortgap, niemandem davon zu erzählen.
+15. Du hast \shortgap nicht verraten.
+16. Sie haben \shortgap getäuscht.
+17. Ihr verwirrt \shortgap.
+18. Falls er \shortgap mitnimmt, kann noch jemand bei \shortgap mitfahren.
+19. Ich kann \shortgap online weiterbilden.
+20. Zu deinem Geburtstag laden wir \shortgap zum Essen ein.
+
+# Soll und Sollte
+
+Handelt es sich eher um eine Anweisung, so wird meist _soll_ verwendet.
+Bei Ratschlägen wird hingegen meist _sollte_ verwendet.
+
+TODO: Mehr Details und Beispiele
+
 # Hilfsverben
 
 ## Aufgabe 1
