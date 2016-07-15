@@ -118,16 +118,6 @@ Dank geht vor allem an Besucher des Chinese language and Culture Exchange Meetup
 	\caption{Satzteile}
 \end{longtabu}
 
-<!-- 
-* Nomen / Substantiv - noun - 名词 (míngcí)
-* Verb - verb - 动词 (dòngcí)
-* Adjektiv / Eigenschaftswort - adjective - 形容词 (xíngróngcí)
-* Artikel - article - 冠词 (guàncí)
-* Personalpronomen - personal pronoun - 人称代词 (rénchēngdàicí)
-* Possessivpronomen / besitzanzeigendes Pronomen - possessive pronoun - 物主代词 (wùzhǔdàicí)
-* Fragewort - question word - 疑问词 (yíwèncí)
- -->
-
 \needspace{7\baselineskip}
 
 ### Satzteile
@@ -142,14 +132,6 @@ Dank geht vor allem an Besucher des Chinese language and Culture Exchange Meetup
 	\rowfont[c]{}Prädikat & predicate & 宾词 & bīncí\\
 	\caption{Satzteile}
 \end{longtabu}
-
-<!--
-* Satz - sentence - 句子 (jùzi)
-* Wortgruppe - ???
-* Subjekt - subject - 主词 (zhǔcí)
-* Objekt - object - 受词 (shòucí)
-* Prädikat - predicate - 宾词 (bīncí)
--->
 
 \needspace{8\baselineskip}
 
@@ -167,15 +149,6 @@ Dank geht vor allem an Besucher des Chinese language and Culture Exchange Meetup
 	\caption{Satzteile}
 \end{longtabu}
 
-<!-- 
-* Futur 2 - future perfect tense - 未来完成式 (wèiláiwánchéngshì)
-* Zukunft / Futur 1 - future tense - 未来式 (wèiláishì)
-* Präsens / Gegenwart - present tense - 现在式 (xiànzàishì)
-* Perfekt - perfect tense - 完成时 (wánchéngshí)
-* Vergangenheit - past tense - 过去时 (guòqùshí) / 过去式 (guòqushì)
-* Plusquamperfekt - past perfect - 过去​完成式 (guòqù wánchéngshì)
- -->
-
 \needspace{4\baselineskip}
 
 ### Satzformen
@@ -187,11 +160,6 @@ Dank geht vor allem an Besucher des Chinese language and Culture Exchange Meetup
 	\rowfont[c]{}Imperativ & imperative & 命令式 & mìnglìngshì\\
 	\caption{Satzteile}
 \end{longtabu}
-
-<!-- 
-* Konjunktiv - conjunctive - 虚拟式 (xūnǐshì)
-* Imperativ - imperative - 命令句 (mìnglìngjù) / 命令式 (mìnglìngshì)
- -->
 
 ### Punktuation
 
