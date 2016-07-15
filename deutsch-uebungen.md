@@ -101,8 +101,24 @@ Dank geht vor allem an Besucher des Chinese language and Culture Exchange Meetup
 
 ## Sprache
 
+\needspace{8\baselineskip}
+
 ### Wortarten
 
+\begin{longtabu} to \linewidth [H] {X|[1.1pt]X|[1.1pt]X|[1.1pt]X}
+	\rowfont[c]{\bfseries}Deutsch & English & 汉语 & Pīnyīn\\
+	\tabucline[1.1pt]{-}
+	\rowfont[c]{}Nomen / Substantiv & noun & 名词 & míngcí\\
+	\rowfont[c]{}Verb & verb & 动词 & dòngcí\\
+	\rowfont[c]{}Adjektiv & adjective & 形容词 & xíngróngcí\\
+	\rowfont[c]{}Artikel & article & 冠词 & guàncí\\
+	\rowfont[c]{}Personalpronomen & personal pronoun & 人称代词 & rénchēngdàicí\\
+	\rowfont[c]{}Possessivpronomen & possessive pronoun & 物主代词 & wùzhǔdàicí\\
+	\rowfont[c]{}Fragewort & question word & 疑问词 & yíwèncí\\
+	\caption{Satzteile}
+\end{longtabu}
+
+<!-- 
 * Nomen / Substantiv - noun - 名词 (míngcí)
 * Verb - verb - 动词 (dòngcí)
 * Adjektiv / Eigenschaftswort - adjective - 形容词 (xíngróngcí)
@@ -110,36 +126,80 @@ Dank geht vor allem an Besucher des Chinese language and Culture Exchange Meetup
 * Personalpronomen - personal pronoun - 人称代词 (rénchēngdàicí)
 * Possessivpronomen / besitzanzeigendes Pronomen - possessive pronoun - 物主代词 (wùzhǔdàicí)
 * Fragewort - question word - 疑问词 (yíwèncí)
+ -->
+
+\needspace{7\baselineskip}
 
 ### Satzteile
 
-* Satz - 
-* Wortgruppe - 
-* Subjekt - 
-* Objekt - 
-* Prädikat - 
+\begin{longtabu} to \linewidth [H] {X|[1.1pt]X|[1.1pt]X|[1.1pt]X}
+	\rowfont[c]{\bfseries}Deutsch & English & 汉语 & Pīnyīn\\
+	\tabucline[1.1pt]{-}
+	\rowfont[c]{}Satz & sentence & 句子 & jùzi\\
+	\rowfont[c]{}Wortgruppe & ??? & ??? & ???\\
+	\rowfont[c]{}Subjekt & subject & 主词 & zhǔcí\\
+	\rowfont[c]{}Objekt & object & 受词 & shòucí\\
+	\rowfont[c]{}Prädikat & predicate & 宾词 & bīncí\\
+	\caption{Satzteile}
+\end{longtabu}
+
+<!--
+* Satz - sentence - 句子 (jùzi)
+* Wortgruppe - ???
+* Subjekt - subject - 主词 (zhǔcí)
+* Objekt - object - 受词 (shòucí)
+* Prädikat - predicate - 宾词 (bīncí)
+-->
+
+\needspace{8\baselineskip}
 
 ### Zeitformen
 
-* Futur 2 - 
-* Zukunft / Futur 1 - 
-* Präsens / Gegenwart - 
-* Perfekt - 
-* Vergangenheit - 
-* Plusquamperfekt - 
+\begin{longtabu} to \linewidth [H] {X|[1.1pt]X|[1.1pt]X|[1.1pt]X}
+	\rowfont[c]{\bfseries}Deutsch & English & 汉语 & Pīnyīn\\
+	\tabucline[1.1pt]{-}
+	\rowfont[c]{}Futur 2 & future perfect tense & 未来完成式 & wèiláiwánchéngshì\\
+	\rowfont[c]{}Zukunft / Futur 1 & future tense & 未来式 & wèiláishì\\
+	\rowfont[c]{}Präsens / Gegenwart & present tense & 现在式 & xiànzàishì\\
+	\rowfont[c]{}Perfekt & perfect tense & 完成式 & wánchéngshì\\
+	\rowfont[c]{}Vergangenheit & past tense & 过去式 & guòqushì\\
+	\rowfont[c]{}Plusquamperfekt & past perfect & 过去​完成式 & guòqùwánchéngshì\\
+	\caption{Satzteile}
+\end{longtabu}
+
+<!-- 
+* Futur 2 - future perfect tense - 未来完成式 (wèiláiwánchéngshì)
+* Zukunft / Futur 1 - future tense - 未来式 (wèiláishì)
+* Präsens / Gegenwart - present tense - 现在式 (xiànzàishì)
+* Perfekt - perfect tense - 完成时 (wánchéngshí)
+* Vergangenheit - past tense - 过去时 (guòqùshí) / 过去式 (guòqushì)
+* Plusquamperfekt - past perfect - 过去​完成式 (guòqù wánchéngshì)
+ -->
+
+\needspace{4\baselineskip}
 
 ### Satzformen
 
-* Konjunktiv - 
-* Imperativ - 
+\begin{longtabu} to \linewidth [H] {X|[1.1pt]X|[1.1pt]X|[1.1pt]X}
+	\rowfont[c]{\bfseries}Deutsch & English & 汉语 & Pīnyīn\\
+	\tabucline[1.1pt]{-}
+	\rowfont[c]{}Konjunktiv & conjunctive & 虚拟式 & xūnǐshì\\
+	\rowfont[c]{}Imperativ & imperative & 命令式 & mìnglìngshì\\
+	\caption{Satzteile}
+\end{longtabu}
+
+<!-- 
+* Konjunktiv - conjunctive - 虚拟式 (xūnǐshì)
+* Imperativ - imperative - 命令句 (mìnglìngjù) / 命令式 (mìnglìngshì)
+ -->
 
 ### Punktuation
 
-* Punkt - 
-* Komma - 
-* Fragezeichen - 
-* Ausrufezeichen - 
-* Doppelpunkt - 
+* Punkt - period - 
+* Komma - comma - 
+* Fragezeichen - question mark - 
+* Ausrufezeichen - exclamation mark - 
+* Doppelpunkt - colon - 
 
 ### Andere
 

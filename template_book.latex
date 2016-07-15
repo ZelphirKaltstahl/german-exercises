@@ -89,10 +89,10 @@ $if(author)$\author{$author$}$endif$
 
 \defaultfontfeatures{Mapping=tex-text, Scale=MatchLowercase} % what does this do? -- influences how quotes are rendered
 % \setmainfont[Scale=1]{Open Sans}
-\setmainfont[Scale=1]{Source Sans Pro}
+% \setmainfont[Scale=1]{Source Sans Pro}
+\setmainfont[Scale=1]{Ubuntu}
 \setmonofont{Liberation Mono}
 \DeclareMathSizes{14}{12}{9}{7}
-%\DeclareMathSizes{<surrounding text size>}{<math text size>}{<math script size>}{<math scriptscript size>}.
 
 
 
@@ -105,20 +105,11 @@ $if(author)$\author{$author$}$endif$
 \usepackage{booktabs}
 \usepackage{multirow}
 \usepackage{tabu}
-\tabulinesep=10pt
+\tabulinesep=4pt
 
-% \usepackage{array}
+\usepackage{needspace}
+
 \newcommand{\ra}[1]{\renewcommand{\arraystretch}{#1}}
-% \makeatletter
-% \newcommand{\thickhline}{%
-%     \noalign {\ifnum 0=`}\fi \hrule height 1pt
-%     \futurelet \reserved@a \@xhline
-% }
-% \newcolumntype{[}{@{\vrule width 1pt\hspace{6pt}}}
-% \newcolumntype{]}{@{\hspace{6pt}\vrule width 1pt}}
-% \newcolumntype{!}{@{\hskip\tabcolsep\vrule width 1pt\hskip\tabcolsep}}
-% \makeatother
-
 
 % PREDEFINED COLORS
 \usepackage[dvipsnames]{xcolor}
@@ -177,14 +168,6 @@ $if(author)$\author{$author$}$endif$
 \newcommand{\gapunit}{.....}
 \newcommand{\tinygap}{\gapunit}
 
-% \usepackage{multido}
-% \newcommand{\rpt}[3]{%
-% 	\newcount\iterations%
-% 	\iterations #1%
-% 	\advance\iterations -1
-% 	\multido{\iN=0+1}{\iterations}{#2#3}#2%
-% }
-
 
 % ===== EGREG VARIANT =====
 \makeatletter
@@ -206,16 +189,6 @@ $if(author)$\author{$author$}$endif$
 \newcommand{\longgap}{%
 	\myrepeat[10]{\gapunit}{\ }
 }
-% ===== Christian Hupfer VARIANT =====
-% \newcount\myloopcounter
-% \newcommand{\repeatit}[3][10]{%
-% 	\myloopcounter1% initialize the loop counter
-% 	\loop\ifnum\myloopcounter < #1
-% 	#2#3%
-% 	\advance\myloopcounter by 1%
-% 	\repeat% start again
-% 	#2%
-% }
 
 % ==============================
 % ========== DOCUMENT ==========
