@@ -3,10 +3,15 @@
 
 
 <!-- TODO: alle tabu tabellen mit longtabu tabellen ersetzen und ihnen eine caption geben, die unterhalb der tabelle ist -->
-<!-- TODO: Chinesische Uebersetzungen -->
-<!-- TODO: Ueberschriften uebersetzen (Format?) -->
+<!-- TODO: Ueberschriften uebersetzen (Format? A - B - C?) -->
 
-# Hinweise (Eng. Note)
+# Konzept
+
+Die Kapitel in diesem Dokument behandeln Themen, bei denen ich beobachten konnte, dass Deutschlernende und insbesondere Chinesisch-Muttersprachler häufig Fehler machen. Ich versuche zu jedem Thema die Grammatik möglichst einfach zu vermitteln Beispiele zu geben und mir einen Übungsteil auszudenken, in dem Gelerntes angewendet werden kann. Dies geschieht in der Hoffnung, dass Lernende selbst die Muster der richtigen Anwendung, sofern sie sie nicht von der Grammatik ableiten können, erkennen, verinnerlichen und sich somit die richtige Anwendung automatisiert.
+
+Verbesserungsvorschläge und oder Hinweise auf Fehler sind immer willkommen.
+
+# Hinweise
 
 ## Rechtschreibung
 
@@ -30,7 +35,7 @@ Normalerweise ersetze ich die deutschen Umlaute wie folgt:
 
 Table: Ersetzungen für deutsche Umlauten
 
-Da diese Schreibweise nicht jedem bekannt ist und manche Leute sie nicht akzeptieren, empfehle ich Deutschlernern sie (noch) nicht anzuwenden. In diesem Dokument werde ich die allgemein akzeptierte Schreibweise mit deutschen Umlauten verwenden. Dieser Hinweis dient hoffentlich, Verwirrung über meine Schreibweise aufzuklären, sollte ich in diesem Dokument versehentlich Umlaute, der Tabelle gemäß, ersetzen.
+Da diese Schreibweise nicht jedem bekannt ist und manche Leute sie nicht akzeptieren, empfehle ich Deutschlernern sie (noch) nicht anzuwenden. Besonders in der Informatik ist diese Schreibweise bekannt. In diesem Dokument werde ich jedoch die mehr akzeptierte Schreibweise mit deutschen Umlauten verwenden. Dieser Hinweis dient hoffentlich, Verwirrung über meine Schreibweise aufzuklären, sollte ich in diesem Dokument versehentlich Umlaute, der Tabelle gemäß, ersetzen.
 
 
 **English:** I tend to replace the German _Umlaute_ as follows:
@@ -79,6 +84,8 @@ Dank geht vor allem an Besucher des Chinese language and Culture Exchange Meetup
 
 # Nützliche Wörter
 
+## Satzstruktur
+
 * und (和，跟)
 * oder (还是，或者，．．．)
 * aber (不过，但是，．．．)
@@ -91,6 +98,54 @@ Dank geht vor allem an Besucher des Chinese language and Culture Exchange Meetup
 * außerdem
 * weiterhin
 * des Weiteren
+
+## Sprache
+
+### Wortarten
+
+* Nomen / Substantiv - noun - 名词 (míngcí)
+* Verb - verb - 动词 (dòngcí)
+* Adjektiv / Eigenschaftswort - adjective - 形容词 (xíngróngcí)
+* Artikel - article - 冠词 (guàncí)
+* Personalpronomen - personal pronoun - 人称代词 (rénchēngdàicí)
+* Possessivpronomen / besitzanzeigendes Pronomen - possessive pronoun - 物主代词 (wùzhǔdàicí)
+* Fragewort - question word - 疑问词 (yíwèncí)
+
+### Satzteile
+
+* Satz - 
+* Wortgruppe - 
+* Subjekt - 
+* Objekt - 
+* Prädikat - 
+
+### Zeitformen
+
+* Futur 2 - 
+* Zukunft / Futur 1 - 
+* Präsens / Gegenwart - 
+* Perfekt - 
+* Vergangenheit - 
+* Plusquamperfekt - 
+
+### Satzformen
+
+* Konjunktiv - 
+* Imperativ - 
+
+### Punktuation
+
+* Punkt - 
+* Komma - 
+* Fragezeichen - 
+* Ausrufezeichen - 
+* Doppelpunkt - 
+
+### Andere
+
+* weglassen - 
+* optional - 
+* obligatorisch / verpflichtend - 
 
 # Sprichwörter
 
@@ -364,6 +419,10 @@ _In nouns, which consist of more than one word, so called compund nouns, the def
 
 TODO
 
+# Meinen und Bedeuten
+
+TODO
+
 # Unterscheidung von das und dass
 
 ## Erklärung
@@ -482,7 +541,7 @@ Fugenelemente treten bei zusammengesetzten Nomen auf.
 
 ## Grammatik
 
-* Bestimmte Endungen von Nomen als erste Teilwörter (Bestimmungswörter) des zusammengesetzten Wortes erfordern ein Fugen-S: _-heit_, _-keit_, _-ing_, _-ling_, _-sal_, _-schaft_, _-ung_, _-ion_, _-tät_, _-um_: Frei*heit*sbewegung, Einig*keit*sgefühl, Lehr*ling*sgehalt, Schick*sal*sschlag, Beruf*ung*sprozess, Kommunikat*ion*swissenschaft, Identi*tät*skrise, Dat*um*sangabe
+* Bestimmte Endungen von Nomen als erste Teilwörter (Bestimmungswörter) des zusammengesetzten Wortes erfordern ein Fugen-S: _-heit_, _-keit_, _-ing_, _-ling_, _-sal_, _-schaft_, _-ung_, _-ion_, _-tät_, _-um_: Frei*heit*sbewegung, Einig*keit*sgefühl, Lehr*ling*sgehalt, Schick*sal*sschlag, Beruf*ung*sprozess, Verbesser*ung*svorschlag, Kommunikat*ion*swissenschaft, Identi*tät*skrise, Dat*um*sangabe
 * Ist das erste Teilwort (Bestimmungswort) des zusammengesetzen Nomens ein Infinitiv eines Verbs, wird ein Fugen-S verwendet: *Schaffen*slust, *Wissen*sdurch, *Schaffen*skraft, *Schlafen*szeit
 * Falls _Geschichte_, _Liebe_, _Armut_ oder _Hilfe_ Bestimmungswort sind: *Geschicht*sstunde, *Geschicht*slehrbuch, *Liebe*sbrief, *Liebe*skomödie, *Hilf*sgüter, *Hilf*sleistung, *Armut*sgrenze, *Armut*sstatistik
 

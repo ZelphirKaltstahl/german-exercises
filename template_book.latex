@@ -79,12 +79,17 @@ $if(author)$\author{$author$}$endif$
 
 % AUTOMATICAL PINYIN PHONETIC SCRIPT
 \newfontfamily{\DVS}{DejaVu Sans}
+% \newfontfamily{\DVS}{Sans}
+% \newfontfamily{\DVS}{Source Sans Pro}
+% \newfontfamily{\DVS}{Ubuntu}
+
 \usepackage{xpinyin}
 \xpinyinsetup{ratio={.7}, hsep={.5em plus .1em}, vsep={1.1em}, multiple={\color{red}}, pysep={.2em}, font=\DVS}
 
 
 \defaultfontfeatures{Mapping=tex-text, Scale=MatchLowercase} % what does this do? -- influences how quotes are rendered
-\setmainfont[Scale=1]{Open Sans}
+% \setmainfont[Scale=1]{Open Sans}
+\setmainfont[Scale=1]{Source Sans Pro}
 \setmonofont{Liberation Mono}
 \DeclareMathSizes{14}{12}{9}{7}
 %\DeclareMathSizes{<surrounding text size>}{<math text size>}{<math script size>}{<math scriptscript size>}.
