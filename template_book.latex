@@ -47,7 +47,9 @@
 % DOCUMENT META INFORMATION
 $if(title)$\title{$title$}$endif$
 $if(author)$\author{$author$}$endif$
-\date{\today}
+\usepackage{datetime}
+\date{\today\\\currenttime}
+% \date{}
 
 
 % TABLE OF CONTENTS

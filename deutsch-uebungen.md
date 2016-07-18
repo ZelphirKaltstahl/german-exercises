@@ -17,6 +17,19 @@ Verbesserungsvorschläge und oder Hinweise auf Fehler sind immer willkommen.
 
 Normalerweise ersetze ich die deutschen Umlaute wie folgt:
 
+\begin{longtabu} to 0.3\textwidth [H] {X|[1.1pt]X}
+	\rowfont[c]{\bfseries}Umlaut & Ersetzung\\
+	\tabucline[1.1pt]{-}
+	\rowfont[c]{}Ä & Ae\\
+	\rowfont[c]{}Ö & Oe\\
+	\rowfont[c]{}Ü & Ue\\
+	\rowfont[c]{}ä & ae\\
+	\rowfont[c]{}ö & oe\\
+	\rowfont[c]{}ü & ue\\
+	\caption{Ersetzungen für deutsche Umlauten}
+\end{longtabu}
+
+<!-- 
 +--------+-----------+
 | Umlaut | Ersetzung |
 +========+===========+
@@ -34,12 +47,26 @@ Normalerweise ersetze ich die deutschen Umlaute wie folgt:
 +--------+-----------+
 
 Table: Ersetzungen für deutsche Umlauten
+ -->
 
 Da diese Schreibweise nicht jedem bekannt ist und manche Leute sie nicht akzeptieren, empfehle ich Deutschlernern sie (noch) nicht anzuwenden. Besonders in der Informatik ist diese Schreibweise bekannt. In diesem Dokument werde ich jedoch die mehr akzeptierte Schreibweise mit deutschen Umlauten verwenden. Dieser Hinweis dient hoffentlich, Verwirrung über meine Schreibweise aufzuklären, sollte ich in diesem Dokument versehentlich Umlaute, der Tabelle gemäß, ersetzen.
 
 
 **English:** I tend to replace the German _Umlaute_ as follows:
 
+\begin{longtabu} to 0.3\textwidth [H] {X|[1.1pt]X}
+	\rowfont[c]{\bfseries}Umlaut & Replacement\\
+	\tabucline[1.1pt]{-}
+	\rowfont[c]{}Ä & Ae\\
+	\rowfont[c]{}Ö & Oe\\
+	\rowfont[c]{}Ü & Ue\\
+	\rowfont[c]{}ä & ae\\
+	\rowfont[c]{}ö & oe\\
+	\rowfont[c]{}ü & ue\\
+	\caption{Replacements for German Umlaute}
+\end{longtabu}
+
+<!-- 
 +--------+-------------+
 | Umlaut | Replacement |
 +========+=============+
@@ -57,6 +84,7 @@ Da diese Schreibweise nicht jedem bekannt ist und manche Leute sie nicht akzepti
 +--------+-------------+
 
 Table: Replacements for German Umlaute
+ -->
 
 **English:** Since this way of writing is not known to everyone and some people have trouble accepting it as a valid way of writing, I do not recommend it to people, who are learning German. In this document, I will use the more generally accepted way of spelling words using the German _Umlaute_. This note hopefully serves to clear up confusion in case I accidently use my way of writing within this document.
 
@@ -182,8 +210,6 @@ Dank geht vor allem an Besucher des Chinese language and Culture Exchange Meetup
 TODO
 
 # Nützliches Sätze
-
-<!-- TODO: Einleitung? -->
 
 i. Ist dieser Satz korrekt?
 
@@ -454,7 +480,17 @@ Man muss unterscheiden zwischen:
 
 1. Was meinst du?
 
-	Dies ist die Frage danach, was eine Person ausdrücken oder beschreiben möchte. Es ist vergleichbar mit den Fragen _"Was möchtest du damit ausdrücken?"_, _"Was möchtest du, mit dem was du sagst, aussagen?"_ oder _"Was möchtest du, was das was du sagst, bedeutet?"_. Diese Fragen klingen jedoch weniger natürlich, als die Frage _"Was meinst du?"_.
+	Dies ist die Frage danach, was eine Person ausdrücken oder beschreiben möchte. Meistens falls die fragende Person den Sinn oder die Logik nicht erkennen kann, seltener aber auch, falls die fragende Person das Ausgedrückte akkustisch nicht verstanden hat. Es ist vergleichbar mit den Fragen:
+
+	* _"Was möchtest du damit ausdrücken?"_
+	* _"Was möchtest du, mit dem was du sagst, aussagen?"_
+	* _"Was möchtest du, was das was du sagst, bedeutet?"_
+
+	Diese Fragen klingen jedoch weniger natürlich, als die Frage _"Was meinst du?"_. Alternativ wird _"Was meinst du?"_ verwendet, um nach einer Einschätzung zu fragen und ist vergleichbar mit den Fragen:
+
+	* _"Was ist deine Meinung dazu?"_
+	* _"Was denkst du darüber?"_
+	* _"Was ist deine Einschätzung?"_
 
 2. Was bedeutest du?
 
@@ -462,12 +498,20 @@ Man muss unterscheiden zwischen:
 
 ## Beispiele
 
+1. Person A: Wir können am Sonntag essen gehen. _Was meinst du?_
+2. Person B: Ja, warum nicht! Um wie viel Uhr wollen wir uns treffen?
 
+<!-- -->
+1. Person A: Du kannst morgen nicht zur Uni fahren.
+2. Person B: Was meinst du damit?
+3. Person A: Morgen fährt kein Zug.
+
+<!--  -->
+TODO: Mehr Beispiele
 
 ## Übungsaufgaben
 
-
-
+TODO
 
 # Unterscheidung von das und dass
 
@@ -542,8 +586,8 @@ The two words _das_ and _dass_ are completely different in their usage. _Das_ is
 4. Er hat _dich_ begrüßt.
 5. Wir haben _dir_ _eine Nachricht_ gesendet.
 6. Wir haben _dich_ informiert.
-
-TODO: Mehr Beispiele
+7. Hat er _dich_ abgeholt?
+8. Hat sie _dir_ _das Auto_ ausgeliehen?
 
 ## Übung
 
@@ -591,9 +635,52 @@ Fugenelemente treten bei zusammengesetzten Nomen auf.
 * Ist das erste Teilwort (Bestimmungswort) des zusammengesetzen Nomens ein Infinitiv eines Verbs, wird ein Fugen-S verwendet: *Schaffen*slust, *Wissen*sdurch, *Schaffen*skraft, *Schlafen*szeit
 * Falls _Geschichte_, _Liebe_, _Armut_ oder _Hilfe_ Bestimmungswort sind: *Geschicht*sstunde, *Geschicht*slehrbuch, *Liebe*sbrief, *Liebe*skomödie, *Hilf*sgüter, *Hilf*sleistung, *Armut*sgrenze, *Armut*sstatistik
 
-## Übung
+Diese Regeln gelten allgemein nur bei Wörtern, die nicht (in einem sichbaren zeitlichen Rahmen) aus anderen Sprachen entnommen sind.
 
-TODO
+## Übung zum Fugen-S
+
+Verbinde die folgenden Wörter:
+
+1. Telefon + Gespräch = \mediumgap
+2. Orangen + Saft = \mediumgap
+3. Installation + Anleitung = \mediumgap
+4. Eigentum + Nachweis = \mediumgap
+5. E-Mail + Text = \mediumgap
+6. schlafen + Zeit = \mediumgap
+7. Lehr + Kraft = \mediumgap
+8. lesen + Wert = \mediumgap
+9. Liebe + Erklärung = \mediumgap
+10. Armut + Zeugnis = \mediumgap
+11. Tinten + Patrone = \mediumgap
+12. Bogen + schießen = \mediumgap
+13. Wissen + Schatz = \mediumgap
+14. Flaschen + Pfand = \mediumgap
+15. Wahrheit + gemäß = \mediumgap
+16. Aufgaben + Stellung = \mediumgap
+17. Lebensmittel + Geschäft = \mediumgap
+18. Sprach + Zertifikat = \mediumgap
+19. Schul + Bildung = \mediumgap
+20. Antrieb + Kraft = \mediumgap
+21. Hering + Filet = \mediumgap
+22. Häftling + Abkommen = \mediumgap
+23. Gemeinschaft + treffen = \mediumgap
+24. Wort + Zusammensetzung = \mediumgap
+25. Arbeit + Kollege = \mediumgap
+26. Schicksal + Ruf = \mediumgap
+27. Tagung + Ergebnis = \mediumgap
+28. lese + Zeichen = \mediumgap
+29. Verfassung + Klage = \mediumgap
+30. Qualität + Prüfung = \mediumgap
+31. Wolken + Kratzer = \mediumgap
+32. Schaffen + Prozess = \mediumgap
+33. Hilfe + Kraft = \mediumgap
+34. Geschichte + Buch = \mediumgap
+
+## Übung zu anderen Fugenelementen
+
+Verbinde die folgenden Wörter:
+
+1. TODO
 
 # Hilfsverben
 
@@ -627,7 +714,7 @@ TODO
 
 	**English:** The homework is already done.
 
-	**汉语**: 作业结束了。
+	**汉语**: 作业做完了。
 
 5. In der Kaufhalle \shortgap viele Menschen.
 
@@ -2188,11 +2275,31 @@ Insert either _wenn_ or _als_ into the following phrases.
 
 ## Grammatik
 
-TODO
+* _Wie_ wird verwendet, wenn man eine Gemeinsamkeit von Objekten hervorheben möchte. Das bedeutet, dass in Vergleichen mit _als_ der Positiv verwendet wird.
+* _Als_ wird verwendet, wenn man einen Unterschied von Objekten hervorheben möchte. Das bedeutet, dass in Vergleichen mit _als_ der Komparativ verwendet wird.
 
 ## Übung
 
-TODO
+1. Im Sommer ist es länger hell _als_ im Winter.
+2. Das Essen ist so scharf _wie_ in China.
+3. Es gibt wenige so trübe Tage _wie_ diesen im Jahr.
+4. Uns geht es so gut _wie_ immer.
+5. Hier ist die Auswahl größer _als_ in der kleinen Buchhandlung.
+6. Er kann schneller rennen _als_ ich.
+7. Ihr Wortschatz ist viel größer _als_ meiner.
+8. Heute ist schöneres Wetter _als_ gestern.
+9. Die Datenmenge ist so groß _wie_ noch nie zuvor.
+10. 
+11. 
+12. 
+13. 
+14. 
+15. 
+16. 
+17. 
+18. 
+19. 
+20. 
 
 # Relativsätze
 
