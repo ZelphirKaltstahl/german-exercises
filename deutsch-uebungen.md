@@ -245,7 +245,7 @@ vi. Wie buchstabiert man ...?
 
 	**English:** How do you spell ...?
 
-	**汉语:** TODO
+	**汉语:** ... 怎么拼？
 
 vii. Wie spricht man ... aus?
 
@@ -269,7 +269,7 @@ x. Kannst du es genauer erklären?
 
 	**English:** Can you explain it in more detail?
 
-	**汉语:** TODO
+	**汉语:** 你能解释的更详细些吗？
 
 xi. Kannst du meinen Text korrigieren?
 
@@ -511,7 +511,9 @@ TODO: Mehr Beispiele
 
 ## Übungsaufgaben
 
-TODO
+Sie konnte jedes Wort des Satzes verstehen, jedoch war ihr nicht klar, was der Satz im Ganzen \mediumgap .
+
+TODO: Mehr Beispiele
 
 # Unterscheidung von das und dass
 
