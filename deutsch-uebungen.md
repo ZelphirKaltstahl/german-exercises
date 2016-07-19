@@ -1964,6 +1964,33 @@ Deutsch - Präposition + Artikel: am, ans, im, ins, vom, zum, zur
 
 # Wissen und Kennen
 
+## Grammatik
+
+_Wissen_ und _kennen_ werden meist unterschiedlich verwendet. Sie lassen sich meistens wie folgt unterscheiden:
+
+* _Wissen_ kann mit _to know a fact_ ins Englische übersetzt werden.
+* Etwas _wissen_ bedeutet Informationen über etwas zu haben.
+
+<!--  -->
+* _Kennen_ kann mit _to be familiar with_ ins Englische übersetzt werden.
+* Etwas _kennen_ bedeutet es schon einmal erlebt oder sinnlich erfahren zu haben.
+* Für Personen wird grundsätzlich _kennen_ verwendet.
+
+Es gibt jedoch auch Sätze in denen beide Varianten verwendet werden können:
+
+* Ich kenne den Weg(, weil ich ihn schon viele Male gegangen bin). (häufiger)
+* Ich weiß den Weg. (Ich habe Informationen darüber, wie wir zum Ziel kommen.) (seltener)
+
+## Beispiele
+
+1. Ich _kenne_ ihn. (Erklärung: _Person_)
+2. Ich _kenne_ China. (Erklärung: _to be familiar with_)
+3. Er _kennt_ den Geschmack. (Erklärung: _sinnliche Erfahrung_)
+4. Sie _weiß_ wie spät es ist. (Erklärung: _Informationen haben_)
+5. Du _weißt_ wann ich nach Deutschland gezogen bin. (Erklärung: _to know a fact_)
+
+## Übung
+
 **Aufgabe**: Setze entweder _kennen_ oder _wissen_ in die folgenden Sätze ein.
 
 **Assignment**: Insert either _kennen_ or _wissen_ into the following phrases.
@@ -2089,6 +2116,30 @@ Deutsch - Präposition + Artikel: am, ans, im, ins, vom, zum, zur
 	**English:** If one knows the surroundings, one notices the small changes.
 
 	**汉语:** TODO
+
+21. \shortgap du seine neue Freundin?
+	
+	**English:** Do you know his new girlfriend?
+
+	**汉语:** 你认识他的新的女朋友吗？
+
+22. \shortgap du den Geschmack von Jiaozi?
+
+	**English:** Do you know the taste of Jiaozi?
+
+	**汉语:** TODO
+
+23. \shortgap du schon, dass er nächste Woche nach China fliegt?
+
+	**English:** Do you already know, that he takes a plane to China next week?
+
+	**汉语:** TODO
+
+24. \shortgap du die Sängerin schon als ihr zum Konzert gegangen seid?
+
+	**English:** Did you already know the singer, when you went to the concert?
+
+	**汉语:** 你们去音乐会的时候，你已经知道那个歌手吗？
 
 # Schon und Noch
 
