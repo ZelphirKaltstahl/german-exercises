@@ -207,7 +207,201 @@ Dank geht vor allem an Besucher des Chinese language and Culture Exchange Meetup
 
 1. Es ist noch kein Meister vom Himmel gefallen.
 
-TODO
+	**English:** No one is born a master. / Masters are made, not born.
+
+	**汉语:** TODO
+
+2. Was du heute kannst besorgen, verschiebe nicht auf morgen.
+
+	**English:** A stitch in time saves nine.
+
+	**汉语:** TODO
+
+3. Wo ein Wille ist, ist auch ein Weg.
+
+	**English:** Where there's a will there's a way.
+
+	**汉语:** TODO
+
+4. Der Apfel fällt nicht weit vom Stamm.
+
+	**English:** The apple doesn't fall far from the tree.
+
+	**汉语:** TODO
+
+5. Geteiltes Leid ist halbes Leid.
+
+	**English:** A sorrow shared is a sorrow halved.
+
+	**汉语:** TODO
+
+6. Man soll den Tag nicht vor dem Abend loben.
+
+	**English:** Don't count your chicken before they are hatched.
+
+	**汉语:** TODO
+
+7. Eine Hand wäscht die andere.
+
+	**English:** One good turn deserves another.
+
+	**汉语:** TODO
+
+8. Hochmut kommt vor dem Fall.
+
+	**English:** Pride comes before the fall.
+
+	**汉语:** TODO
+
+9. In der Ruhe liegt die Kraft.
+
+	**English:** Haste makes waste.
+
+	**汉语:** TODO
+
+10. Stille Wasser sind tief.
+
+	**English:** Still waters run deep.
+
+	**汉语:** TODO
+
+11. Kleinvieh macht auch Mist.
+
+	**English:** A penny saved is a penny earned.
+
+	**汉语:** TODO
+
+12. Gut Ding will Weile haben.
+
+	**English:** Haste makes waste.
+
+	**汉语:** TODO
+
+13. Wer zuletzt lacht, lacht am besten.
+
+	**English:** He who laughs last laughs longest.
+
+	**汉语:** TODO
+
+14. Wer den Pfennig nicht ehrt, ist den Taler nicht wert.
+
+	**English:** A penny saved is a penny earned.
+
+	**汉语:** TODO
+
+15. Wer Wind sät, wird Sturm ernten.
+
+	**English:** They sow the wind and reap the whirlwind.
+
+	**汉语:** TODO
+
+16. Man erntet was man sät.
+
+	**English:** A man reaps what he sows.
+
+	**汉语:** TODO
+
+17. Wenn zwei sich streiten, freut sich der dritte.
+
+	**English:** When two people quarrel, a third rejoices.
+
+	**汉语:** TODO
+
+18. Wer anderen eine Grube gräbt, fällt selbst hinein.
+
+	**English:** Curses, like chickens, come home to roost.	Wer anderen eine Grube gräbt, fällt selbst hinein. / Harm set, harm get.
+
+	**汉语:** TODO
+
+19. Wie gewonnen, so zerronnen.
+
+	**English:** Easy come, easy go.
+
+	**汉语:** TODO
+
+20. Zu viele Köche verderben den Brei.
+
+	**English:** Too many cooks spoil the broth.
+
+	**汉语:** TODO
+
+21. Lügen haben kurze Beine.
+
+	**English:** Lies have short legs.
+
+	**汉语:** TODO
+
+22. Wie man in den Wald hineinruft, so schallt es heraus.
+
+	**English:** What goes around, comes around.
+
+	**汉语:** TODO
+
+23. Reden ist Silber, Schweigen ist Gold.
+
+	**English:** Talk is silver, silence is golden.
+
+	**汉语:** TODO
+
+24. Man trifft sich immer zwei Mal im Leben.
+
+	**English:** You always meet twice.
+
+	**汉语:** TODO
+
+25. Ehrlich währt am längsten.
+
+	**English:** Honesty is the best policy.
+
+	**汉语:** TODO
+
+26. Aller guten Dinge sind drei.
+
+	**English:** All good things come in threes.
+
+	**汉语:** TODO
+
+27. Andere Länder, andere Sitten.
+
+	**English:** When in Rome, do as the Romans do.
+
+	**汉语:** TODO
+
+28. Wer nicht hören will, muss fühlen.
+
+	**English:** He that will not hear must feel.
+
+	**汉语:** TODO
+
+29. Es ist nicht alles Gold, was glänzt.
+
+	**English:** All is not gold that glitters.
+
+	**汉语:** TODO
+
+30. Wer zuerst kommt, mahlt zuerst.
+
+	**English:** First come, first served.
+
+	**汉语:** TODO
+
+31. Lieber den Spatz in der Hand, als die Taube auf dem Dach.
+
+	**English:** A bird in the hand is worth two in the bush.
+
+	**汉语:** TODO
+
+32. Lieber locker vom Hocker, als hektisch übern Ecktisch.
+
+	**English:** TODO
+
+	**汉语:** TODO
+
+33. Lieber heimlich schlau als unheimlich doof.
+
+	**English:** Better secretly smart than as dumb as a tart.
+
+	**汉语:** TODO
 
 # Nützliches Sätze
 
@@ -1970,11 +2164,14 @@ _Wissen_ und _kennen_ werden meist unterschiedlich verwendet. Sie lassen sich me
 
 * _Wissen_ kann mit _to know a fact_ ins Englische übersetzt werden.
 * Etwas _wissen_ bedeutet Informationen über etwas zu haben.
+<!-- * _Wissen_ wird verwendet, falls das, wonach gefragt wird, in der Antwort normalerweise mit einer Wortgruppe repräsentiert wird. (W3) -->
+* Auf einen Satz oder Teilsatz, in dem _wissen_ vorkommt, folgt meist ein Nebensatz, der das, worauf sich _wissen_ bezieht beschreibt. (W3)
 
 <!--  -->
 * _Kennen_ kann mit _to be familiar with_ ins Englische übersetzt werden.
 * Etwas _kennen_ bedeutet es schon einmal erlebt oder sinnlich erfahren zu haben.
-* Für Personen wird grundsätzlich _kennen_ verwendet.
+* Für Personen und Orte wird grundsätzlich _kennen_ verwendet.
+* _Kennen_ wird außerdem verwendet, falls das, wonach gefragt wird, in der Antwort normalerweise mit einem einzelnen Wort repräsentiert wird. (K4)
 
 Es gibt jedoch auch Sätze in denen beide Varianten verwendet werden können:
 
@@ -1984,10 +2181,13 @@ Es gibt jedoch auch Sätze in denen beide Varianten verwendet werden können:
 ## Beispiele
 
 1. Ich _kenne_ ihn. (Erklärung: _Person_)
-2. Ich _kenne_ China. (Erklärung: _to be familiar with_)
-3. Er _kennt_ den Geschmack. (Erklärung: _sinnliche Erfahrung_)
-4. Sie _weiß_ wie spät es ist. (Erklärung: _Informationen haben_)
-5. Du _weißt_ wann ich nach Deutschland gezogen bin. (Erklärung: _to know a fact_)
+2. Ich _kenne_ China. (Erklärung: _Ort_)
+3. _Kennst_ du den neuen Film schon? (Erklärung: _to be familiar with_ / _K4_)
+4. Er _kennt_ den Geschmack. (Erklärung: _sinnliche Erfahrung_)
+5. _Kennst_ du den Unterschied zwischen 'schwer' und 'schwierig'? Ich kenne den _Unterschied_. (Erklärung: _K4_)
+6. Sie _weiß_, wie spät es ist. (Erklärung: _Informationen haben_, _W3_)
+7. Du _weißt_, wann ich nach Deutschland gezogen bin. (Erklärung: _to know a fact_, _W3_)
+8. Ich _weiß_, wann der Zug kommt. (Erklärung: _W3_)
 
 ## Übung
 
