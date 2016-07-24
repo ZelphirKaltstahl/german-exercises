@@ -104,6 +104,9 @@ $if(author)$\author{$author$}$endif$
 
 % TABLES
 \usepackage{longtable}
+\setlength{\LTpre}{16pt}
+\setlength{\LTpost}{-12pt}
+
 \usepackage{booktabs}
 \usepackage{multirow}
 \usepackage{tabu}

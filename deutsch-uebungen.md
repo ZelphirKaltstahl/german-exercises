@@ -7,9 +7,13 @@
 
 # Konzept
 
-Die Kapitel in diesem Dokument behandeln Themen, bei denen ich beobachten konnte, dass Deutschlernende und insbesondere Chinesisch-Muttersprachler häufig Fehler machen. Ich versuche zu jedem Thema die Grammatik möglichst einfach zu vermitteln Beispiele zu geben und mir einen Übungsteil auszudenken, in dem Gelerntes angewendet werden kann. Dies geschieht in der Hoffnung, dass Lernende selbst die Muster der richtigen Anwendung, sofern sie sie nicht von der Grammatik ableiten können, erkennen, verinnerlichen und sich somit die richtige Anwendung automatisiert.
+Die Kapitel in diesem Dokument behandeln Eigenschaften der deutschen Sprache, bei denen ich beobachten konnte, dass sie für Deutschlernende und insbesondere Chinesisch-Muttersprachler schwierig zu lernen sind. Ich versuche zu jedem Thema die Grammatik möglichst einfach zu vermitteln Beispiele zu geben und mir einen Übungsteil auszudenken, in dem Gelerntes angewendet werden kann. Dies geschieht in der Hoffnung, dass Lernende selbst die Muster der richtigen Anwendung, sofern sie sie nicht von der Grammatik ableiten können, erkennen, verinnerlichen und sich somit die richtige Anwendung automatisiert.
 
 Verbesserungsvorschläge und oder Hinweise auf Fehler sind immer willkommen.
+
+**English:** The chapters of this document deal with properties of the German language, which I observed to be difficult to learn for German learners and especially Chinese native speakers learning German. I try to convey the grammar for each of these properties as simple as possible, to give examples and to think of exercises, in which the learner can apply what they learned. Hoping, that this enables the learner to deduce and memorize the patterns of proper application of the learned from examples, in case the learner cannot deduce it from the grammar.
+
+**English:** Suggestions for improvement and indications of mistakes are always welcome.
 
 # Hinweise
 
@@ -17,7 +21,7 @@ Verbesserungsvorschläge und oder Hinweise auf Fehler sind immer willkommen.
 
 Normalerweise ersetze ich die deutschen Umlaute wie folgt:
 
-\begin{longtabu} to 0.3\textwidth [H] {X|[1.1pt]X}
+\begin{longtabu} to 0.36\textwidth [H] {X|[1.1pt]X}
 	\rowfont[c]{\bfseries}Umlaut & Ersetzung\\
 	\tabucline[1.1pt]{-}
 	\rowfont[c]{}Ä & Ae\\
@@ -29,32 +33,12 @@ Normalerweise ersetze ich die deutschen Umlaute wie folgt:
 	\caption{Ersetzungen für deutsche Umlauten}
 \end{longtabu}
 
-<!-- 
-+--------+-----------+
-| Umlaut | Ersetzung |
-+========+===========+
-| Ä      | Ae        |
-+--------+-----------+
-| Ö      | Oe        |
-+--------+-----------+
-| Ü      | Ue        |
-+--------+-----------+
-| ä      | ae        |
-+--------+-----------+
-| ö      | oe        |
-+--------+-----------+
-| ü      | ue        |
-+--------+-----------+
-
-Table: Ersetzungen für deutsche Umlauten
- -->
-
 Da diese Schreibweise nicht jedem bekannt ist und manche Leute sie nicht akzeptieren, empfehle ich Deutschlernern sie (noch) nicht anzuwenden. Besonders in der Informatik ist diese Schreibweise bekannt. In diesem Dokument werde ich jedoch die mehr akzeptierte Schreibweise mit deutschen Umlauten verwenden. Dieser Hinweis dient hoffentlich, Verwirrung über meine Schreibweise aufzuklären, sollte ich in diesem Dokument versehentlich Umlaute, der Tabelle gemäß, ersetzen.
 
 
 **English:** I tend to replace the German _Umlaute_ as follows:
 
-\begin{longtabu} to 0.3\textwidth [H] {X|[1.1pt]X}
+\begin{longtabu} to 0.36\textwidth [H] {X|[1.1pt]X}
 	\rowfont[c]{\bfseries}Umlaut & Replacement\\
 	\tabucline[1.1pt]{-}
 	\rowfont[c]{}Ä & Ae\\
@@ -66,26 +50,6 @@ Da diese Schreibweise nicht jedem bekannt ist und manche Leute sie nicht akzepti
 	\caption{Replacements for German Umlaute}
 \end{longtabu}
 
-<!-- 
-+--------+-------------+
-| Umlaut | Replacement |
-+========+=============+
-| Ä      | Ae          |
-+--------+-------------+
-| Ö      | Oe          |
-+--------+-------------+
-| Ü      | Ue          |
-+--------+-------------+
-| ä      | ae          |
-+--------+-------------+
-| ö      | oe          |
-+--------+-------------+
-| ü      | ue          |
-+--------+-------------+
-
-Table: Replacements for German Umlaute
- -->
-
 **English:** Since this way of writing is not known to everyone and some people have trouble accepting it as a valid way of writing, I do not recommend it to people, who are learning German. In this document, I will use the more generally accepted way of spelling words using the German _Umlaute_. This note hopefully serves to clear up confusion in case I accidently use my way of writing within this document.
 
 ## Ratschläge
@@ -94,13 +58,19 @@ Table: Replacements for German Umlaute
 
 	**English:** It makes sence to check the solutions to the exercises with a native speaker, who is able to explain meanings of phrases and words.
 
+	**汉语:**
+
 * Versuche die Muster hinter dem Gebrauch von Wörtern zu erkennen.
 
 	**English:** Try to recognize the patterns of usage of words.
 
+	**汉语:**
+
 * Wenn du eine neue Vokabel lernst, die ein Nomen (Substantiv) ist, dann solltest du den Artikel mit der Vokabel zusammen lernen.
 
 	**English:** When you learn a new vocable, if it is a noun, it is best to lern the article at the same time.
+
+	**汉语:**
 
 # Danksagung
 
@@ -126,6 +96,8 @@ Dank geht vor allem an Besucher des Chinese language and Culture Exchange Meetup
 * außerdem
 * weiterhin
 * des Weiteren
+
+<!-- TODO: Satzstrukturen mit Beispielen hinzufuegen -->
 
 ## Sprache
 
@@ -191,17 +163,17 @@ Dank geht vor allem an Besucher des Chinese language and Culture Exchange Meetup
 
 ### Punktuation
 
-* Punkt - period - 
-* Komma - comma - 
-* Fragezeichen - question mark - 
-* Ausrufezeichen - exclamation mark - 
-* Doppelpunkt - colon - 
+* Punkt - period -
+* Komma - comma -
+* Fragezeichen - question mark -
+* Ausrufezeichen - exclamation mark -
+* Doppelpunkt - colon -
 
 ### Andere
 
-* weglassen - 
-* optional - 
-* obligatorisch / verpflichtend - 
+* weglassen -
+* optional -
+* obligatorisch / verpflichtend -
 
 # Sprichwörter
 
@@ -776,7 +748,7 @@ The two words _das_ and _dass_ are completely different in their usage. _Das_ is
 
 ## Beispiele
 
-1. Hast du _dir_ _das Buch_ angeschaut? 
+1. Hast du _dir_ _das Buch_ angeschaut?
 2. Hast du _dich_ belesen?
 3. Er hat _dir_ _die Hand_ gegeben.
 4. Er hat _dich_ begrüßt.
@@ -2318,7 +2290,7 @@ Es gibt jedoch auch Sätze in denen beide Varianten verwendet werden können:
 	**汉语:** TODO
 
 21. \shortgap du seine neue Freundin?
-	
+
 	**English:** Do you know his new girlfriend?
 
 	**汉语:** 你认识他的新的女朋友吗？
@@ -2542,17 +2514,17 @@ Insert either _wenn_ or _als_ into the following phrases.
 7. Ihr Wortschatz ist viel größer _als_ meiner.
 8. Heute ist schöneres Wetter _als_ gestern.
 9. Die Datenmenge ist so groß _wie_ noch nie zuvor.
-10. 
-11. 
-12. 
-13. 
-14. 
-15. 
-16. 
-17. 
-18. 
-19. 
-20. 
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
 
 # Relativsätze
 
