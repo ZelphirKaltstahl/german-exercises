@@ -140,8 +140,8 @@ $if(author)$\author{$author$}$endif$
 \setlength\parindent{0pt}
 
 % LANGUAGE SETTINGS (important for automatic breaking words)
-\usepackage[english, ngerman]{babel} % the last language in this line will be default for the document
-\selectlanguage{ngerman}
+\usepackage[english]{babel} % the last language in this line will be default for the document
+\selectlanguage{english}
 
 
 
