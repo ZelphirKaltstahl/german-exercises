@@ -7,7 +7,7 @@
 
 # Concept
 
-The chapters of this document deal with properties of the German language, which I observed to be difficult to learn for German learners and especially Chinese native speakers learning German. I try to convey the grammar for each of these properties as simple as possible, to give examples and to think of exercises, in which the learner can apply what they learned. Hoping, that this enables the learner to deduce and memorize the patterns of proper application of the learned from examples, in case the learner cannot deduce it from the grammar.
+The chapters of this document deal with properties of the German language, which I observed to be difficult to learn for German learners and especially Chinese native speakers learning German. I try to convey the grammar for each of these properties as simply as possible, to give examples and to think of exercises, in which the learner can apply what they learned. Hoping, that this enables the learner to deduce and memorize the patterns of proper application from the shown examples, in case the learner cannot deduce it from the grammar.
 
 Suggestions for improvement and indications of mistakes are always welcome.
 
@@ -33,35 +33,37 @@ Since this way of writing is not known to everyone and some people have trouble 
 
 ## Advice
 
-* It makes sense to check the solutions to the exercises with a native speaker, who is able to explain meanings of phrases and words.
+* It makes sense to check the solutions of the exercises with a native speaker, who is able to explain meanings of phrases and words.
 
 * Try to recognize the patterns of usage of words.
 
-* When you learn a new vocable, if it is a noun, it is best to lern the article at the same time.
+* When you learn a new noun, it is best to learn the article at the same time.
 
 # Acknowledgment
 
-Thanks go out to visitors of the Chinese language and Culture Exchange Meetup, because they consciously or unconsciously motivated me to write this document. Especially I thank those, who helped me to translate parts of this document to English and Chinese.
+Thanks go out to visitors of the Chinese language and Culture Exchange Meetup, because they consciously or unconsciously motivated me to write this document. Especially I thank those who helped me to translate parts of this document to English and Chinese.
 
 \needspace{8\baselineskip}
 
 # Useful words
 
+<!-- TODO: Think about the use of this section. Is it really a good idea to classify these words as more important than others? -->
+
 \begin{longtabu} to \linewidth [H] {X|[1.1pt]X}
 	\rowfont[c]{\bfseries}German & English\\
 	\tabucline[1.1pt]{-}
 	\rowfont[c]{}und & and\\
-	\rowfont[c]{}oder & TODO\\
-	\rowfont[c]{}aber & TODO\\
-	\rowfont[c]{}trotzdem & TODO\\
-	\rowfont[c]{}obwohl & TODO\\
-	\rowfont[c]{}dennoch & TODO\\
-	\rowfont[c]{}jedoch & TODO\\
-	\rowfont[c]{}noch & TODO\\
-	\rowfont[c]{}schon & TODO\\
-	\rowfont[c]{}außerdem & TODO\\
-	\rowfont[c]{}weiterhin & TODO\\
-	\rowfont[c]{}des Weiteren & TODO\\
+	\rowfont[c]{}oder & or\\
+	\rowfont[c]{}aber & but\\
+	\rowfont[c]{}trotzdem & although\\
+	\rowfont[c]{}obwohl & although\\
+	\rowfont[c]{}dennoch & still\\
+	\rowfont[c]{}jedoch & however\\
+	\rowfont[c]{}noch & still, yet\\
+	\rowfont[c]{}schon & already\\
+	\rowfont[c]{}außerdem & additionally, furthermore\\
+	\rowfont[c]{}weiterhin & furthermore\\
+	\rowfont[c]{}des Weiteren & furthermore\\
 	\caption{Useful words}
 \end{longtabu}
 
@@ -115,7 +117,7 @@ Thanks go out to visitors of the Chinese language and Culture Exchange Meetup, b
 	\rowfont[c]{}Präsens / Gegenwart & present tense\\
 	\rowfont[c]{}Perfekt & perfect tense\\
 	\rowfont[c]{}Vergangenheit & past tense\\
-	\rowfont[c]{}Plusquamperfekt & past perfect\\
+	\rowfont[c]{}Plusquamperfekt & past perfect tense\\
 	\caption{Tenses}
 \end{longtabu}
 
@@ -183,7 +185,7 @@ Thanks go out to visitors of the Chinese language and Culture Exchange Meetup, b
 
 6. Man soll den Tag nicht vor dem Abend loben.
 
-	**English:** Don't count your chicken before they are hatched.
+	**English:** Don't count your chickens before they hatch.
 
 7. Eine Hand wäscht die andere.
 
@@ -199,7 +201,7 @@ Thanks go out to visitors of the Chinese language and Culture Exchange Meetup, b
 
 10. Stille Wasser sind tief.
 
-	**English:** Still waters run deep.
+	**English:** Still water runs deep.
 
 11. Kleinvieh macht auch Mist.
 
@@ -455,43 +457,45 @@ In nouns, which consist of more than one word, so called compund nouns, the defi
 
 ## Grammar
 
-* _Meinen_ kommt vom Wort Meinung. Jemand kann etwas meinen. Etwas meinen bedeutet einen Sachverhalt oder eine Meinung ausdrücken zu wollen.
-* _Bedeuten_ kommt vom Wort _Bedeutung_. Etwas oder jemand kann eine Bedeutung haben. Eine Bedeutung zu haben bedeutet einen Einfluss auf etwas zu haben.
+* _Meinen_ is derived form the noun _Meinung_. Someone can _meinen_ something. To _meinen_ something means to want to express how things relate to each other or an opinion.
 
-So kann beispielsweise eine Person einen Sachverhalt ausdrücken wollen (etwas meinen, etwas versuchen auszudrücken), aber das, was die Person sagt, kann eine andere Bedeutung haben. Auch die Person selbst kann eine Bedeutung haben. Die Bedeutung der Person ist ihr Einfluss auf die Welt. Es lässt sich beispielsweise fragen, welche Bedeutung Immanuel Kant für die Philosophie hat. Das ist jedoch nicht das Gleiche wie die Frage danach, was Kant mit einem Text ausdrücken wollte (meinte).
+* The word _bedeuten_ is derived from the noun _Bedeutung_. Something or someone (on rare occasion) can have a _Bedeutung_. To have a _Bedeutung_ means to have influence on something or be a definition of something. <!-- TODO: add to german version -->
 
-Man muss unterscheiden zwischen:
+For example a person can want to express how things relate, but what the person says can have a different meaning. Also the person themselves can have a meaning. The meaning of the person is their influence on the world. For example it can be asked, what is the significance (meaning) of Immanuel Kant on philosophy. However, this is not the same as the question, what Kant wanted to express by something he wrote.
+
+One has to differentiate between:
 
 1. Was meinst du?
 
-	Dies ist die Frage danach, was eine Person ausdrücken oder beschreiben möchte. Meistens falls die fragende Person den Sinn oder die Logik nicht erkennen kann, seltener aber auch, falls die fragende Person das Ausgedrückte akkustisch nicht verstanden hat. Es ist vergleichbar mit den Fragen:
+	This is the question to clarify, what a person wants to express or describe. Mostly if the questioner cannot understand or see the sense or logic of what has been stated. In rarer cases, if the questioner did not understand accustically, what has been said. It can be compared to the following questions:
 
-	* _"Was möchtest du damit ausdrücken?"_
-	* _"Was möchtest du, mit dem was du sagst, aussagen?"_
-	* _"Was möchtest du, was das was du sagst, bedeutet?"_
+	* _"Was möchtest du damit ausdrücken?"_ (What do you mean by that?)
+	* _"Was möchtest du, mit dem was du sagst, aussagen?"_ (What do you mean by what you said?)
+	* _"Was möchtest du, was das was du sagst, bedeutet?"_ (What is it, what you want your words to mean?)
 
-	Diese Fragen klingen jedoch weniger natürlich, als die Frage _"Was meinst du?"_. Alternativ wird _"Was meinst du?"_ verwendet, um nach einer Einschätzung zu fragen und ist vergleichbar mit den Fragen:
+	However, these questions sound less natural, than the question _"Was meinst du?"_. Alternatively _"Was meinst du?"_ is used to ask for someone's opinion and is comparable to the questions:
 
-	* _"Was ist deine Meinung dazu?"_
-	* _"Was denkst du darüber?"_
-	* _"Was ist deine Einschätzung?"_
+	* _"Was ist deine Meinung dazu?"_ (What's your opinion on this?)
+	* _"Was denkst du (darüber)?"_ (What do you think about this?)
+	* _"Was ist deine Einschätzung?"_ (What's your evaluation?)
 
 2. Was bedeutest du?
 
-	Dies ist die Frage danach, was für einen Einfluss die Person auf die Welt oder das Universum hat. Man kann beispielsweise fragen, welche Bedeutung der Utilitarismus für die Entwicklung des Kommunismus hat oder welche Bedeutung John Rawls Theorie der Gerechtigkeit für unsere heutige Gesellschaft hat.
+	This is the question to ask for what a person's influence on the world or the universe is. One can ask for example, what the significance (meaning) of utilitarianism is in the development of communism or what the significance (meaning) of John Rawl's theory of justice has for today's society.
 
 ## Examples
 
-1. Person A: Wir können am Sonntag essen gehen. _Was meinst du?_
-2. Person B: Ja, warum nicht! Um wie viel Uhr wollen wir uns treffen?
+1. Person A: Wir können am Sonntag essen gehen. _Was meinst du?_ (We can go eat on Sunday. What do you think?)
+2. Person B: Ja, warum nicht! Um wie viel Uhr wollen wir uns treffen? (Yes, why not? When do you want to meet?)
 
 <!-- -->
-1. Person A: Du kannst morgen nicht zur Uni fahren.
-2. Person B: Was meinst du damit?
-3. Person A: Morgen fährt kein Zug.
+1. Person A: Du kannst morgen nicht zur Uni fahren. (You cannot drive to university tomorrow.)
+2. Person B: Was meinst du damit? (What do you mean by that?)
+3. Person A: Morgen fährt kein Zug. (Tomorrow there is no train service.)
 
-<!--  -->
+<!--
 TODO: Mehr Beispiele
+-->
 
 ## Exercises
 
@@ -511,11 +515,11 @@ The two words _das_ and _dass_ are completely different in their usage. _Das_ is
 
 **Assignment:** Insert _das_ or _dass_[^dass_old_spelling] correctly in each of the following phrases.
 
-[^dass_old_spelling]: : According to old spelling, _dass_ was written with _ß_ instead (_daß_). Still many people use _daß_ instead of _dass_.
+[^dass_old_spelling]: : According to the old spelling, _dass_ was written with _ß_ instead (_daß_). Still many people use _daß_ instead of _dass_.
 
 1. Es überraschte mich, \shortgap niemand ans Telefon ging.
 
-	**English:** It surprised me, that no one answered the phone.
+	**English:** It surprised me that no one answered the phone.
 
 2. Die Universität, die \shortgap Zertifikat ausstellt, ist in Berlin.
 
@@ -527,13 +531,15 @@ The two words _das_ and _dass_ are completely different in their usage. _Das_ is
 
 4. Nach einer Stunde des Wartens sahen wir ein, \shortgap das weiteres Warten sinnlos gewesen wäre.
 
-	**English:** After waiting one hour we realized, that further waiting wouldn't serve us.
+	**English:** After waiting one hour we realized that further waiting wouldn't serve us.
 
 5. Man konnte nicht vorhersehen, \shortgap \shortgap (2 Wörter, 2 words) Wetter so schlecht sein würde.
 
-	**English:** One couldn't foresee, that the weather would be this bad.
+	**English:** One couldn't foresee that the weather would be this bad.
 
 # Mir and Mich and Dir and Dich
+
+<!-- TODO: reflexiv or something else? -->
 
 ## Grammar
 
@@ -550,7 +556,7 @@ The two words _das_ and _dass_ are completely different in their usage. _Das_ is
 
 ## Examples
 
-1. Hast du _dir_ _das Buch_ angeschaut?
+1. Hast du _dir_ _das Buch_ angeschaut? <!-- TODO this is a case of reflexive -->
 2. Hast du _dich_ belesen?
 3. Er hat _dir_ _die Hand_ gegeben.
 4. Er hat _dich_ begrüßt.
@@ -593,9 +599,11 @@ TODO: Mehr Details und Beispiele
 
 # Interfixes
 
-Fugenelemente treten bei zusammengesetzten Nomen auf.
+Interfixes appear when concatenating nouns.
 
 ## Grammar
+
+
 
 * Bestimmte Endungen von Nomen als erste Teilwörter (Bestimmungswörter) des zusammengesetzten Wortes erfordern ein Fugen-S: _-heit_, _-keit_, _-ing_, _-ling_, _-sal_, _-schaft_, _-ung_, _-ion_, _-tät_, _-um_: Frei*heit*sbewegung, Einig*keit*sgefühl, Lehr*ling*sgehalt, Schick*sal*sschlag, Beruf*ung*sprozess, Verbesser*ung*svorschlag, Kommunikat*ion*swissenschaft, Identi*tät*skrise, Dat*um*sangabe
 * Ist das erste Teilwort (Bestimmungswort) des zusammengesetzen Nomens ein Infinitiv eines Verbs, wird ein Fugen-S verwendet: *Schaffen*slust, *Wissen*sdurch, *Schaffen*skraft, *Schlafen*szeit
