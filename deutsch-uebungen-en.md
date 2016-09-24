@@ -83,6 +83,7 @@ Thanks go out to visitors of the Chinese language and Culture Exchange Meetup, b
 	\rowfont[c]{}Nomen / Substantiv & noun\\
 	\rowfont[c]{}Verb & verb\\
 	\rowfont[c]{}Adjektiv & adjective\\
+	\rowfont[c]{}Adverb & adverb\\
 	\rowfont[c]{}Artikel & article\\
 	\rowfont[c]{}Personalpronomen & personal pronoun\\
 	\rowfont[c]{}Possessivpronomen & possessive pronoun\\

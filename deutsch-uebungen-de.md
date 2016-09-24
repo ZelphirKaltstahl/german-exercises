@@ -83,6 +83,7 @@ Dank geht vor allem an Besucher des Chinese language and Culture Exchange Meetup
 	\rowfont[c]{}Nomen / Substantiv & 名词 & míngcí\\
 	\rowfont[c]{}Verb & 动词 & dòngcí\\
 	\rowfont[c]{}Adjektiv & 形容词 & xíngróngcí\\
+	\rowfont[c]{}Adverb & 副词 & fùcí\\
 	\rowfont[c]{}Artikel & 冠词 & guàncí\\
 	\rowfont[c]{}Personalpronomen & 人称代词 & rénchēngdàicí\\
 	\rowfont[c]{}Possessivpronomen & 物主代词 & wùzhǔdàicí\\
