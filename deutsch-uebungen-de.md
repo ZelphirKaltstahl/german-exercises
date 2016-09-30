@@ -1048,7 +1048,7 @@ aufgrund, auf Grund, wegen, trotz, ungeachtet, anstelle, an Stelle, statt, beide
 
 	**汉语:** TODO
 
-[^mehrteiligeAdverbien]: : Laut §39 des Dudens gilt: _"Mehrteilige Adverbien, Konjunktionen, Präpositionen und Pronomen schreibt man zusammen, wenn die Wortart, die Wortform oder die Bedeutung der einzelnen Bestandteile nicht mehr deutlich erkennbar ist."_ Meinem Ermessen nach ist die Bedeutung bei "infolge" oder "in Folge" sehr wohl erkennbar, denn "in der Folge von etwas" und "als Folge dessen" sind ohne Weiteres von jedem Muttersprachler zu verstehen. Des Weitern ist, anstelle des Dudens, seit 1996 die amtliche Rechtschreibregelung maßgeblich für die deutsche Rechtschreibung. In dieser (Ausgabe Feb. 2006) befindet sich der zitierte Paragraph ebenso.
+[^mehrteiligeAdverbien]: : Laut §39 des Dudens gilt: _"Mehrteilige Adverbien, Konjunktionen, Präpositionen und Pronomen schreibt man zusammen, wenn die Wortart, die Wortform oder die Bedeutung der einzelnen Bestandteile nicht mehr deutlich erkennbar ist."_ Meinem Ermessen nach ist die Bedeutung bei "infolge" oder "in Folge" sehr wohl erkennbar, denn "in der Folge von etwas" und "als Folge dessen" sind ohne Weiteres von jedem Muttersprachler zu verstehen. Des Weiteren ist, anstelle des Dudens, seit 1996 die amtliche Rechtschreibregelung maßgeblich für die deutsche Rechtschreibung. In dieser (Ausgabe Feb. 2006) befindet sich der zitierte Paragraph ebenso.
 
 ## Dativ (3. Fall)
 
