@@ -518,11 +518,11 @@ The two words _das_ and _dass_ are completely different in their usage. _Das_ is
 
 [^dass_old_spelling]: : According to the old spelling, _dass_ was written with _ß_ instead (_daß_). Still many people use _daß_ instead of _dass_.
 
-1. Es überraschte mich, \shortgap niemand ans Telefon ging.
+1. Es überraschte mich, \ShortBlankText{dass} niemand ans Telefon ging. \shortgap
 
 	**English:** It surprised me that no one answered the phone.
 
-2. Die Universität, die \shortgap Zertifikat ausstellt, ist in Berlin.
+2. Die Universität, die \ShortBlankText{das} Zertifikat ausstellt, ist in Berlin.
 
 	**English:** The university, which issued the certificate, is in Berlin.
 
@@ -1737,25 +1737,25 @@ Insert either _wenn_ or _als_ into the following phrases.
 
 	**English:** When I was little, we always went into the forest to play.
 
-3. \shortgap ich nach Deutschland kam, suchte ich gleichen nach einen Sprachtandem-Partner.
+3. \shortgap ich nach Deutschland kam, suchte ich gleich nach einem Sprachtandem-Partner.
 
-	**English:** <!-- TODO: Vollstaendig uebersetzen -->
+	**English:** When I came to Germany I immediately searched for a language tandem partner.
 
-4. \shortgap ich ein einkaufen gehe, nehme ich einen Rucksack mit.
+4. \shortgap ich einkaufen gehe, nehme ich einen Rucksack mit.
 
-	**English:** <!-- TODO: Vollstaendig uebersetzen -->
+	**English:** When I go to the grocery store, I take a backpack with me.
 
 5. Wollen wir uns treffen, \shortgap du Zeit hast?
 
-	**English:** <!-- TODO: Vollstaendig uebersetzen -->
+	**English:** Do you want us to meet when you have time?
 
 6. Wir müssen aussteigen, \shortgap der Zug am Hauptbahnhof hält.
 
-	**English:** <!-- TODO: Vollstaendig uebersetzen -->
+	**English:** We have to get off the train when it holds at the central station.
 
 7. \shortgap zum Essen gerufen wird, ist die ganze Familie schnell am Tisch.
 
-	**English:** <!-- TODO: Vollstaendig uebersetzen -->
+	**English:** When <!-- TODO: Vollstaendig uebersetzen -->
 
 8. Gestern, \shortgap ich Hausaufgaben erledigte, bemerkte ich einen Fehler.
 

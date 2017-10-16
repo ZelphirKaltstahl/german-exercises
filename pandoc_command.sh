@@ -89,7 +89,7 @@ pandoc \
 --table-of-contents \
 --toc-depth=2 \
 --preserve-tabs \
---chapters \
+--top-level-division=chapter \
 --standalone \
 --template=template-book-de.latex \
 --latex-engine=xelatex \
@@ -112,7 +112,7 @@ pandoc \
 --table-of-contents \
 --toc-depth=2 \
 --preserve-tabs \
---chapters \
+--top-level-division=chapter \
 --standalone \
 --template=template-book-en.latex \
 --latex-engine=xelatex \
