@@ -196,28 +196,32 @@ $if(author)$\author{$author$}$endif$
 }
 
 %\usepackage{calc}
-\newlength\blankblanklength
 \newlength\blanktextlength
-\newlength\blankcenterindentation
-\newcommand\BlankText[2][]{%
+\newcommand\BlankText[2]{%
+    \setlength{\blanktextlength}{#1}
     % do some length calculations for text length
-    \if\relax\detokenize{#1}\relax%
-        \settowidth{\blanktextlength}{#2}%
-    \else%
-        \setlength\blanktextlength{#1}%
-    \fi% calculate width of text
-    \rlap{\makebox[\blanktextlength][c]{\textcolor{white}{#2}}}% write the text without moving, centered in a box
+    %\if\relax\detokenize{#1}\relax%
+    %    \settowidth{\blanktextlength}{#2}%
+    %\else%
+    %    \setlength\blanktextlength{#1}%
+    %\fi% calculate width of text
+    %\showthe{DEBUG: The length is \the\blanktextlength}
+    %\message{DEBUG: The length is \the\blanktextlength}
+    %\typeout{DEBUG: The length is \the\blanktextlength}
+    %The content of \verb|\blanktextlength| is \blanktextlength
+    \noindent
+    \rlap{\makebox[#1][c]{\textcolor{white}{#2}}}% write the text without moving, centered in a box
     \raisebox{-0.5ex}{\hbox to \blanktextlength{\dotfill}}% add dots to cover text
 }
 
 \newcommand{\ShortBlankText}[1]{%
-    \BlankText[2cm]{#1}
+    \BlankText{2cm}{#1}
 }
 \newcommand{\MediumBlankText}[1]{%
-    \BlankText[3.2cm]{#1}
+    \BlankText{3.2cm}{#1}
 }
 \newcommand{\LongBlankText}[1]{%
-    \BlankText[4.4cm]{#1}
+    \BlankText{4.4cm}{#1}
 }
 
 

@@ -518,7 +518,7 @@ The two words _das_ and _dass_ are completely different in their usage. _Das_ is
 
 [^dass_old_spelling]: : According to the old spelling, _dass_ was written with _ß_ instead (_daß_). Still many people use _daß_ instead of _dass_.
 
-1. Es überraschte mich, \ShortBlankText{dass} niemand ans Telefon ging. \shortgap
+1. Es überraschte mich, \ShortBlankText{dass} niemand ans Telefon ging.
 
 	**English:** It surprised me that no one answered the phone.
 
@@ -526,17 +526,17 @@ The two words _das_ and _dass_ are completely different in their usage. _Das_ is
 
 	**English:** The university, which issued the certificate, is in Berlin.
 
-3. Das Chinesisch-Treffen, \shortgap ich besuche ist in der Nähe vom Alexanderplatz.
+3. Das Chinesisch-Treffen, \ShortBlankText{das} ich besuche ist in der Nähe vom Alexanderplatz.
 
 	**English:** The Chinese meeting, which I visit, is near Alexanderplatz.
 
-4. Nach einer Stunde des Wartens sahen wir ein, \shortgap das weiteres Warten sinnlos gewesen wäre.
+4. Nach einer Stunde des Wartens sahen wir ein, \ShortBlankText{dass} das weiteres Warten sinnlos gewesen wäre.
 
 	**English:** After waiting one hour we realized that further waiting wouldn't serve us.
 
-5. Man konnte nicht vorhersehen, \shortgap \shortgap (2 Wörter, 2 words) Wetter so schlecht sein würde.
+5. Man konnte nicht vorhersehen, \ShortBlankText{dass} \ShortBlankText{das} (2 words) Wetter so schlecht sein würde.
 
-	**English:** One couldn't foresee that the weather would be this bad.
+	**English:** One could not foresee that the weather would be this bad.
 
 # Mir and Mich and Dir and Dich
 
@@ -570,26 +570,26 @@ The two words _das_ and _dass_ are completely different in their usage. _Das_ is
 
 Insert either _mir_, _mich_, _dir_ or _dich_ correctly into the following phrases.
 
-1. Sie hat \shortgap eine Nachricht gesendet.
-2. Man hat \shortgap schon informiert.
-3. Diese Aufgabe bereitet \shortgap Kopfschmerzen.
-4. Habe ich \shortgap nicht schon einmal gesehen?
-5. Ich rief \shortgap am Mittwoch an.
-6. Hast du \shortgap schon einmal Gedanken darüber gemacht?
-7. Jeden morgen sollst du \shortgap die Zähne putzen.
-8. Sollte ich \shortgap einen neuen Computer kaufen oder nicht?
-9. Lohnt sich das für \shortgap? (TODO: Warum hier "dich" und nicht "dir")
-10. Du musst \shortgap 10 Tage vorher anmelden.
-11. \shortgap wurde die Tür geöffnet.
-12. Sie hat \shortgap etwas beigebracht.
-13. Er hat \shortgap unterrichtet.
-14. Ich bitte \shortgap, niemandem davon zu erzählen.
-15. Du hast \shortgap nicht verraten.
-16. Sie haben \shortgap getäuscht.
-17. Ihr verwirrt \shortgap.
-18. Falls er \shortgap mitnimmt, kann noch jemand bei \shortgap mitfahren.
-19. Ich kann \shortgap online weiterbilden.
-20. Zu deinem Geburtstag laden wir \shortgap zum Essen ein.
+1. Sie hat \ShortBlankText{mir/dir} eine Nachricht gesendet.
+2. Man hat \ShortBlankText{mich/dich} schon informiert.
+3. Diese Aufgabe bereitet \ShortBlankText{mir/dir} Kopfschmerzen.
+4. Habe ich \ShortBlankText{mich/dich} nicht schon einmal gesehen?
+5. Ich rief \ShortBlankText{mich/dich} am Mittwoch an.
+6. Hast du \ShortBlankText{dir} schon einmal Gedanken darüber gemacht?
+7. Jeden morgen solltest du \ShortBlankText{dir} die Zähne putzen.
+8. Sollte ich \ShortBlankText{mir/dir} einen neuen Computer kaufen?
+9. Lohnt sich das für \ShortBlankText{mich/dich}?
+10. Du musst \ShortBlankText{mich/dich} 10 Tage vorher anmelden.
+11. \ShortBlankText{Mir/Dir} wurde die Tür geöffnet.
+12. Sie hat \ShortBlankText{mir/dir} etwas beigebracht.
+13. Er hat \ShortBlankText{mich/dich} unterrichtet.
+14. Ich bitte \ShortBlankText{mich/dich}, niemandem davon zu erzählen.
+15. Du hast \ShortBlankText{mich/dich} nicht verraten.
+16. Sie haben \MediumBlankText{mich/dich/sich} getäuscht.
+17. Ihr verwirrt \ShortBlankText{mich/dich}.
+18. Falls er \ShortBlankText{mich/dich} mitnimmt, kann noch jemand bei \ShortBlankText{mir/dir} mitfahren.
+19. Ich kann \ShortBlankText{mich/dich} online weiterbilden.
+20. Zu deinem Geburtstag laden wir \ShortBlankText{mich/dich} zum Essen ein.
 
 # Soll and sollte
 
