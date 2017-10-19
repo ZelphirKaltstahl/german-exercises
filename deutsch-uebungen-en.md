@@ -661,61 +661,57 @@ Verbinde die folgenden Wörter:
 
 ## Exercise
 
-Insert either _haben_, _sein_ or _werden_ into the following phrases.
+**Assignment:** Insert either _haben_, _sein_ or _werden_ into the following phrases.
 
-1. Gestern \shortgap wir in der Bahn kontrolliert worden.
+1. Gestern \ShortBlankText{sind} wir in der Bahn kontrolliert worden.
 
 	**English:** Yesterday they checked our tickets in the train.
 
-2. \shortgap Sie schon Ihre Verwandten besucht?
+2. \ShortBlankText{Haben} Sie schon Ihre Verwandten besucht?
 
 	**English:** Did you already visit your relatives?
 
-3. Für das neue Semester \shortgap sich schon viele Studenten angemeldet.
+3. Für das neue Semester \ShortBlankText{haben} sich schon viele Studenten angemeldet.
 
 	**English:** Many students already signed up for the new semester.
 
-4. Die Hausaufgaben \shortgap bereits gelöst.
+4. Die Hausaufgaben \ShortBlankText{sind} bereits gelöst.
 
 	**English:** The homework is already done.
 
-5. In der Kaufhalle \shortgap viele Menschen.
+5. In der Kaufhalle \ShortBlankText{sind} viele Menschen.
 
 	**English:** There are many people in the supermarket.
 
-6. \shortgap der Weihnachtsmann dieses Jahr kommen?
+6. \ShortBlankText{Wird} der Weihnachtsmann dieses Jahr kommen?
 
 	**English:** Will Santa come this year?
 
-7. Am Donnerstag \shortgap wir die Klausur geschrieben haben.
+7. Am Donnerstag \ShortBlankText{werden} wir die Klausur geschrieben haben.
 
 	**English:** On Thursday we will have written the exam.
 
-8. Vorheriges Jahr \shortgap die Firma bereits pleite.
+8. Vorheriges Jahr \ShortBlankText{war} die Firma bereits pleite.
 
 	**English:** Last year the company was already bankrupt.
 
-9. Vorheriges Jahr ist die Firme bereits pleite \shortgap.
+9. Vorheriges Jahr ist die Firma bereits pleite \ShortBlankText{gewesen}.
 
 	**English:** Last year the company has already been bankrupt.
 
-10. Um 16:00 \shortgap der Zug schon unterwegs sein.
+10. Um 16:00 \ShortBlankText{wird} der Zug schon unterwegs sein.
 
 	**English:** At 16:00 the train will have been on its way already.
 
-## Exercise
-
-**Assignment:** Insert either _haben_, _sein_ or _werden_ into the following phrases.
-
-1. Es \shortgap sehr viele Menschen in Berlin.
+11. Es \ShortBlankText{sind/waren} sehr viele Menschen in Berlin.
 
 	**English:** There are many people in Berlin.
 
-2. Gestern \shortgap es geregnet.
+12. Gestern \ShortBlankText{hat} es geregnet.
 
 	**English:** Yesterday it was raining.
 
-3. Am Montag \shortgap ich Eis gegessen.
+13. Am Montag \ShortBlankText{habe} ich Eis gegessen.
 
 	**English:** On Monday I've eaten ice cream.
 
@@ -830,8 +826,8 @@ Insert either _haben_, _sein_ or _werden_ into the following phrases.
 		**English:** It stopped raining.
 
 
-[^shaobing]: : Shāobing ist ein chinesisches rundes Gebäck (Nahrungsmittel). <!-- TODO translate -->
-[^zustandsaenderung]: : Die Definition einer Zustandsänderung ist schwierig und ungenau. Man könnte anbringen, dass jede Handlung eine Zustandsänderung zur Folge hat und diese auch ausdrückt. Zum Beispiel drückt _"Sie hat gegessen."_ aus, dass _Sie_ bereits gegessen hat, während eine andere Person vielleicht noch nicht gegessen hat, wodurch der Unterschied der Zustände beider Personen ausgedrückt wird. <!-- TODO translate -->
+[^shaobing]: : Shāobing is a round Chinese cookie (food).
+[^zustandsaenderung]: : A precise definition of change of state is difficult and might depend on philosophical interpretation and ideas. One could say, that every action implies a change of state. For example expresses _"She has eaten."_, the change in state of having eaten or not.
 
 ### Examples for Sein
 
@@ -1513,27 +1509,27 @@ Deutsch - Präposition + Artikel: am, ans, im, ins, vom, zum, zur
 
 **Assignment**: Insert either _man_ (_Man_) or _Mann_ into the following phrases.
 
-1. \shortgap muss den sich auf den Test vorbereiten.
+1. \ShortBlankText{Man} muss den sich auf den Test vorbereiten.
 
 	**English:** One has to prepare oneself for the test.
 
-2. Sie sind nun \shortgap und Frau.
+2. Sie sind nun \ShortBlankText{Mann} und Frau.
 
 	**English:** They're now husband and wife.
 
-3. Über die Ursachen ist \shortgap sich noch im Unklaren.
+3. Über die Ursachen ist \ShortBlankText{man} sich noch im Unklaren.
 
 	**English:** One still is unsure about the causes.
 
-4. Die Erdbeben kann \shortgap teilweise zeitlich ungefähr vorhersagen.
+4. Die Erdbeben kann \ShortBlankText{man} teilweise zeitlich ungefähr vorhersagen.
 
 	**English:** One can approximately partly predict the time of earth quakes.
 
-5. Ihr neuer \shortgap sagte \shortgap kann den Bahnhof innerhalb einer Stunde erreichen.
+5. Ihr neuer \ShortBlankText{Mann} sagte \ShortBlankText{man} kann den Bahnhof innerhalb einer Stunde erreichen.
 
 	**English:** Her new husband said, one can reach the train station within an hour.
 
-6. Jeder \shortgap sollte seine Frau respektieren.
+6. Jeder \ShortBlankText{Mann} sollte seine Frau respektieren.
 
 	**English:** Every man should respect their wife.
 
@@ -1578,99 +1574,99 @@ Es gibt jedoch auch Sätze in denen beide Varianten verwendet werden können:<!-
 
 **Assignment**: Insert either _kennen_ or _wissen_ into the following phrases.
 
-1. \shortgap du wann das nächste Chinesisch Meetup ist?
+1. \ShortBlankText{Weißt} du wann das nächste Chinesisch Meetup ist?
 
 	**English:** Do you know when the next Chinese meetup is?
 
-2. Es ist gut zu \shortgap, dass es dir gut geht.
+2. Es ist gut zu \ShortBlankText{wissen}, dass es dir gut geht.
 
 	**English:** It's good to know you're well.
 
-3. Sie \shortgap viele Leute in Berlin.
+3. Sie \ShortBlankText{kennt} viele Leute in Berlin.
 
 	**English:** She knows many people in Berlin.
 
-4. Wie viel \shortgap du über die Geschichte Chinas?
+4. Wie viel \ShortBlankText{weißt} du über die Geschichte Chinas?
 
 	**English:** How much do you know about the history of China?
 
-5. Er \shortgap viele chinesische Schriftzeichen.
+5. Er \ShortBlankText{kennt} viele chinesische Schriftzeichen.
 
 	**English:** He knows many Chinese characters.
 
-6. Man \shortgap noch nicht wie das Resultat der Wahlen lautet.
+6. Man \ShortBlankText{weißt} noch nicht wie das Resultat der Wahlen lautet.
 
 	**English:** One doesn't know the result of the election yet.
 
-7. Ich \shortgap nun was wir tun können.
+7. Ich \ShortBlankText{weiß} was wir tun können.
 
 	**English:** I know what we can do.
 
-8. Sie \shortgap wie man Jiaozi macht.
+8. Sie \ShortBlankText{weiß} wie man Jiaozi macht.
 
 	**English:** She knows how to make Jiaozi.
 
-9. Wir haben den Film neulich gesehen. Wir \shortgap die Handlung des Films.
+9. Wir haben den Film neulich gesehen. Wir \ShortBlankText{kennen} die Handlung des Films.
 
 	**English:** We recently watched a movie. We know the plot of the movie.
 
-10. Ich \shortgap mich in Berlin gut aus.
+10. Ich \ShortBlankText{kenne} mich in Berlin gut aus.
 
 	**English:**  I know Berlin well.
 
-11. \shortgap er schon von der Überraschung?
+11. \ShortBlankText{Weiß} er schon von der Überraschung?
 
 	**English:** Does he know about the surprise?
 
-12. Wer \shortgap schon was morgen passiert?
+12. Wer \ShortBlankText{weiß} schon was morgen passiert?
 
 	**English:** Who knows what will happen tomorrow?
 
-13. Ich hatte zwei Jahre bei diesem Professor Vorlesungen. Ich \shortgap ihn.
+13. Ich hatte zwei Jahre bei diesem Professor Vorlesungen. Ich \ShortBlankText{kenne} ihn.
 
 	**English:** I had lectures with this professor for two years. I know him.
 
-14. \shortgap du den Weg zur nächsten U-Bahn-Station?
+14. \ShortBlankText{Kennst/Weißt} du den Weg zur nächsten U-Bahn-Station?
 
 	**English:** Do you know the way to the next subway station?
 
-15. \shortgap Sie wie ich von hier zur Volksbar komme?
+15. \ShortBlankText{Weiß} Sie wie ich von hier zur Volksbar komme?
 
 	**English:** Do you know how to get to the Volksbar from here?
 
-16. Man muss sich nur zu helfen \shortgap
+16. Man muss sich nur zu helfen \ShortBlankText{wissen}.
 
 	**English:** One just has to know how to help oneself.
 
-17. Ich frage einen Freund. Er \shortgap ein gutes authentisches Restaurant.
+17. Ich frage einen Freund. Er \ShortBlankText{kennt} ein gutes authentisches Restaurant.
 
 	**English:** I ask a friend. He knows a good authentic restaurant.
 
-18. Ich \shortgap nicht wie viel das kostet.
+18. Ich \ShortBlankText{weiß} nicht wie viel das kostet.
 
 	**English:** I don't know how much that costs.
 
-19. \shortgap du wie spät es ist?
+19. \ShortBlankText{Weißt} du wie spät es ist?
 
 	**English:** Do you know how late it is?
 
-20. Wenn man die Gegend \shortgap, dann bemerkt man die kleinen Veränderungen.
+20. Wenn man die Gegend \ShortBlankText{kennt}, dann bemerkt man die kleinen Veränderungen.
 
 	**English:** If one knows the surroundings, one notices the small changes.
 
-21. \shortgap du seine neue Freundin?
+21. \ShortBlankText{Kennst} du seine neue Freundin?
 
 	**English:** Do you know his new girlfriend?
 
-22. \shortgap du den Geschmack von Jiaozi?
+22. \ShortBlankText{Kennst} du den Geschmack von Jiaozi?
 
 	**English:** Do you know the taste of Jiaozi?
 
-23. \shortgap du schon, dass er nächste Woche nach China fliegt?
+23. \ShortBlankText{Weißt} du schon, dass er nächste Woche nach China fliegt?
 
 	**English:** Do you already know, that he takes a plane to China next week?
 
-24. \shortgap du die Sängerin schon als ihr zum Konzert gegangen seid?
+24. \ShortBlankText{Kanntest} du die Sängerin schon als ihr zum Konzert gegangen seid?
 
 	**English:** Did you already know the singer, when you went to the concert?
 
@@ -1678,26 +1674,26 @@ Es gibt jedoch auch Sätze in denen beide Varianten verwendet werden können:<!-
 
 **Assignment**: Insert either _schon_ or _noch_ into the following phrases. In some phrases one may insert _schon_ as well as _noch_. Only the meaning changes.
 
-1. Kannst du dich \shortgap an letztes Jahr erinnern? <!-- TODO translate -->
-2. Hast du den Film \shortgap nicht gesehen? <!-- TODO translate -->
-3. Als er den Gesichtsausdruck seines Freundes sah, wusste er \shortgap was geschehen war. <!-- TODO translate -->
-4. \shortgap nie haben die Forscher etwas so bedeutendes entdeckt. <!-- TODO translate -->
-5. Das Schweigen hält \shortgap an. <!-- TODO translate -->
-6. Ich habe die Hausaufgaben \shortgap gelöst. <!-- TODO translate -->
-7. Es ist \shortgap kein Meister vom Himmel gefallen.[^MeisterVomHimmel] <!-- TODO translate -->
-8. Er laß \shortgap eine Seite des Buches, dann kam der Zug. <!-- TODO translate -->
-9. Die Menschen haben immer \shortgap nichts aus ihren Fehlern gelernt. <!-- TODO translate -->
-10. Ich bin \shortgap um 6 Uhr augestanden. <!-- TODO translate -->
-11. \shortgap hielten die alten Burgmauern der Witterung stand. <!-- TODO translate -->
-12. Gestern war ich \shortgap bis 0 Uhr wach. <!-- TODO translate -->
-13. Am ersten Tag haben wir \shortgap 10 Sehenswürdigkeiten Roms besichtigt. <!-- TODO translate -->
-14. Die Forschung ist \shortgap nicht so weit. <!-- TODO translate -->
-15. Warst du \shortgap einmal in China? <!-- TODO translate -->
-16. Warst du \shortgap nie in China? <!-- TODO translate -->
-17. Es gibt \shortgap viele Orte, die ich nicht besucht habe. <!-- TODO translate -->
-18. Ich war \shortgap an vielen Orten, an denen es kaum Infrastruktur gab. <!-- TODO translate -->
-19. Weißt du \shortgap was du später einmal werden möchtest? <!-- TODO translate -->
-20. Als er 7 Jahre alt war, wollte er \shortgap Müllauto-Fahrer werden. <!-- TODO translate -->
+1. Kannst du dich \ShortBlankText{noch} an letztes Jahr erinnern? <!-- TODO translate -->
+2. Hast du den Film \ShortBlankText{schon} nicht gesehen? <!-- TODO translate -->
+3. Als er den Gesichtsausdruck seines Freundes sah, wusste er \ShortBlankText{schon} was geschehen war. <!-- TODO translate -->
+4. \ShortBlankText{Noch} nie haben die Forscher etwas so bedeutendes entdeckt. <!-- TODO translate -->
+5. Das Schweigen hält \ShortBlankText{noch} an. <!-- TODO translate -->
+6. Ich habe die Hausaufgaben \ShortBlankText{schon} gelöst. <!-- TODO translate -->
+7. Es ist \ShortBlankText{noch} kein Meister vom Himmel gefallen.[^MeisterVomHimmel] <!-- TODO translate -->
+8. Er laß \ShortBlankText{noch} eine Seite des Buches, dann kam der Zug. <!-- TODO translate -->
+9. Die Menschen haben immer \ShortBlankText{noch} nichts aus ihren Fehlern gelernt. <!-- TODO translate -->
+10. Ich bin \ShortBlankText{schon} um 6 Uhr augestanden. <!-- TODO translate -->
+11. \ShortBlankText{Noch} hielten die alten Burgmauern der Witterung stand. <!-- TODO translate -->
+12. Gestern war ich \ShortBlankText{noch} bis 0 Uhr wach. <!-- TODO translate -->
+13. Am ersten Tag haben wir \ShortBlankText{schon} 10 Sehenswürdigkeiten Roms besichtigt. <!-- TODO translate -->
+14. Die Forschung ist \ShortBlankText{noch} nicht so weit. <!-- TODO translate -->
+15. Warst du \ShortBlankText{schon} einmal in China? <!-- TODO translate -->
+16. Warst du \ShortBlankText{noch} nie in China? <!-- TODO translate -->
+17. Es gibt \ShortBlankText{noch} viele Orte, die ich nicht besucht habe. <!-- TODO translate -->
+18. Ich war \ShortBlankText{schon} an vielen Orten, an denen es kaum Infrastruktur gab. <!-- TODO translate -->
+19. Weißt du \ShortBlankText{schon} was du später einmal werden möchtest? <!-- TODO translate -->
+20. Als er 7 Jahre alt war, wollte er \ShortBlankText{schon/noch} Müllauto-Fahrer werden. <!-- TODO translate -->
 
 [^MeisterVomHimmel]: : Bedeutung: Man muss Dinge erst üben, bevor man sie gut kann. Es ist normal zu Beginn Fehler zu machen oder nicht perfekte Resultate zu erzielen.<!-- TODO translate -->
 
@@ -1729,89 +1725,89 @@ Insert either _wenn_ or _als_ into the following phrases.
 
 将 _wenn_, _als_ 的其中之一填入下列短句中。
 
-1. Denke daran dein Essen mitzunehmen \shortgap du in die Schule gehst.
+1. Denke daran dein Essen mitzunehmen \ShortBlankText{wenn} du in die Schule gehst.
 
 	**English:** Remember to take your lunch with you, when you go to school.
 
-2. \shortgap ich noch klein war, gingen wir immer in den Wald spielen.
+2. \ShortBlankText{Als} ich noch klein war, gingen wir immer in den Wald spielen.
 
 	**English:** When I was little, we always went into the forest to play.
 
-3. \shortgap ich nach Deutschland kam, suchte ich gleich nach einem Sprachtandem-Partner.
+3. \ShortBlankText{Als} ich nach Deutschland kam, suchte ich gleich nach einem Sprachtandem-Partner.
 
 	**English:** When I came to Germany I immediately searched for a language tandem partner.
 
-4. \shortgap ich einkaufen gehe, nehme ich einen Rucksack mit.
+4. \ShortBlankText{Wenn} ich einkaufen gehe, nehme ich einen Rucksack mit.
 
 	**English:** When I go to the grocery store, I take a backpack with me.
 
-5. Wollen wir uns treffen, \shortgap du Zeit hast?
+5. Wollen wir uns treffen, \ShortBlankText{wenn} du Zeit hast?
 
 	**English:** Do you want us to meet when you have time?
 
-6. Wir müssen aussteigen, \shortgap der Zug am Hauptbahnhof hält.
+6. Wir müssen aussteigen, \ShortBlankText{wenn} der Zug am Hauptbahnhof hält.
 
 	**English:** We have to get off the train when it holds at the central station.
 
-7. \shortgap zum Essen gerufen wird, ist die ganze Familie schnell am Tisch.
+7. \ShortBlankText{Wenn} zum Essen gerufen wird, ist die ganze Familie schnell am Tisch.
 
-	**English:** When <!-- TODO: Vollstaendig uebersetzen -->
+	**English:** When dinner is announced, the whole family quickly gathers at the table.
 
-8. Gestern, \shortgap ich Hausaufgaben erledigte, bemerkte ich einen Fehler.
+8. Gestern, \ShortBlankText{als} ich Hausaufgaben erledigte, bemerkte ich einen Fehler.
 
-	**English:** <!-- TODO: Vollstaendig uebersetzen -->
+	**English:** When I did homework yesterday, I noticed a mistake.
 
-9. \shortgap wir neulich Jiaozi aßen, ist mir eine Idee gekommen.
+9. \ShortBlankText{Als} wir neulich Jiaozi aßen, ist mir eine Idee gekommen.
 
-	**English:** <!-- TODO: Vollstaendig uebersetzen -->
+	**English:** When we recently ate Jiaozi, I had an idea.
 
-10. Er führte 3 zu 0, \shortgap er den Aufschlag bekam.
+10. Er führte 3 zu 0, \ShortBlankText{als} er den Aufschlag bekam.
 
-	**English:** <!-- TODO: Vollstaendig uebersetzen -->
+	**English:** He was leading by 3 points when he got the serve.
 
-11. Was war dein Plan, \shortgap du diesen Schachzug ausführtest?
+11. Was war dein Plan, \ShortBlankText{als} du diesen Schachzug ausführtest?
 
-	**English:** <!-- TODO: Vollstaendig uebersetzen -->
+	**English:** What was your plan when you made that chess move?
 
-12. Immer \shortgap die Kinder gute Noten hatten, durften sie sich Eis am Eiswagen kaufen.
+12. Immer \ShortBlankText{wenn} die Kinder gute Noten hatten, durften sie sich Eis am Eiswagen kaufen.
 
-	**English:** <!-- TODO: Vollstaendig uebersetzen -->
+	**English:** Every time the children had good grades, they were allowed to buy ice cream at the ice cream cart.
 
-13. \shortgap sie anfing zu rennen schlossen sich die Türen des Zuges schon.
+13. \ShortBlankText{Als} sie anfing zu rennen schlossen sich die Türen des Zuges schon.
 
-	**English:** <!-- TODO: Vollstaendig uebersetzen -->
+	**English:** When she started running, the doors of the train already closed.
 
-14. \shortgap die Sonne untergeht, hat der Himmel eine wunderschöne Farbe.
+14. \ShortBlankText{Wenn} die Sonne untergeht, hat der Himmel eine wunderschöne Farbe.
 
-	**English:** <!-- TODO: Vollstaendig uebersetzen -->
+	**English:** When the sun goes down the sky has a beautiful color.
 
-15. Wir fuhren mit dem Fahrrad nach Hause, \shortgap die Sonne unterging.
+15. Wir fuhren mit dem Fahrrad nach Hause, \ShortBlankText{als} die Sonne unterging.
 
-	**English:** <!-- TODO: Vollstaendig uebersetzen -->
+	**English:** We rode the bike home, when the sun set.
 
-16. Die Kinder werden müde sein, \shortgap sie nach Hause kommen.
+16. Die Kinder werden müde sein, \ShortBlankText{wenn} sie nach Hause kommen.
 
-	**English:** <!-- TODO: Vollstaendig uebersetzen -->
+	**English:** The children will be tired, when they come home.
 
-17. Sein Mobiltelefon klingelte genau dann, \shortgap er auf Toilette war.
+17. Sein Mobiltelefon klingelte genau dann, \ShortBlankText{als} er auf Toilette war.
 
-	**English:** <!-- TODO: Vollstaendig uebersetzen -->
+	**English:** His mobile phone rang exactly when he was in the toilet.
 
-18. \shortgap man Strom sparen will, kann man den Stromsparmodus nutzen.
+18. \ShortBlankText{Wenn} man Strom sparen will, kann man den Stromsparmodus nutzen.
 
-	**English:** <!-- TODO: Vollstaendig uebersetzen -->
+	**English:** If one wants to save power, one can use the power sving mode.
 
-19. \shortgap du morgen nicht erscheinst, dann rufe ich dich an.
+19. \ShortBlankText{Wenn} du morgen nicht erscheinst, dann rufe ich dich an.
 
-	**English:** <!-- TODO: Vollstaendig uebersetzen -->
+	**English:** If you do not show up tomorrow, I will call you.
 
-20. \shortgap sie in der Schule saßen erinnerte sie sich daran, dass ihr Vater gesagt hatte, sie solle sich melden, \shortgap sie die Antwort auf die Fragen der Lehrer weiß.
+20. \ShortBlankText{Als} sie in der Schule saßen erinnerte sie sich daran, dass ihr Vater gesagt hatte, sie solle sich melden, \ShortBlankText{wenn} sie die Antwort auf die Fragen der Lehrer weiß.
 
-	**English:** <!-- TODO: Vollstaendig uebersetzen -->
+	**English:** When she sat in school, she remembered, that her father had said should raise her hand, if she know the answers for the teacher's questions.
 
-21. \shortgap das Gebäude gebaut wurde, existierte die Straße noch nicht.
+21. \ShortBlankText{Als} das Gebäude gebaut wurde, existierte die Straße noch nicht.
 
-	**English:** <!-- TODO: Vollstaendig uebersetzen -->
+	**English:** When the building was built the street did not yet exist.
 
 # Camparisons using Wie and Als
 
