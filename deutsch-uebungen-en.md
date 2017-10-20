@@ -1863,37 +1863,104 @@ Insert either _wenn_ or _als_ into the following phrases.
 	\caption{Relative clauses 2}
 \end{longtabu}
 
+TODO: "wessen", "welchen"?
+
 ## Exercises
 
-1. Die Bücher, \shortgap sie las, sind Philosophiebücher. <!-- TODO -->
-2. Die Webseite, \shortgap Autor verhaftet wurde, wurde vom Netz genommen. <!-- TODO -->
-3. Es gibt viele Orte, \shortgap man besuchen sollte. <!-- TODO -->
-4. Das Geld, \shortgap seine Eltern ihm gaben, verwendete er, um sich ein Eis zu kaufen. <!-- TODO -->
-5. Der Angeklagte gestand, dass er das Auto \shortgap Klägers beschädigt hatte. <!-- TODO -->
-6. Die Natur, \shortgap oft so unachtsam zerstört wird, ist die Lebensgrundlage für viele Lebewesen. <!-- TODO -->
-7. Die Nachrichten, \shortgap gestern im Fernseher liefen, waren erschreckend. <!-- TODO -->
-8. Läufer, \shortgap die Strecke schon kennen, sind gegenüber anderen (Läufern) im Vorteil. <!-- TODO -->
-9. Man kann sich immer neue Fragen ausdenken, \shortgap Antwort der Wissenschaft noch nicht bekannt sind. <!-- TODO -->
-10. Am meisten wundert mich, dass die Leute, \shortgap es eigentlich besser wissen müssten, es auch nicht besser machen. <!-- TODO -->
-11. Das widerrechtlich geparkte Fahrzeug, \shortgap Besitzer nicht gefunden werden konnte, wurde abgeschleppt. <!-- TODO -->
-12. Die Musik, \shortgap ihr gefällt hat eine schöne Melodie. <!-- TODO -->
-13. Unsere Wanderungen, auf \shortgap wir sehr viele Fotos machten, sind mir noch gut in Erinnerung. <!-- TODO -->
-14. Die Forscher, die am CERN in der Schweiz arbeiten, sind Spezialisten auf ihren (jeweiligen) (Forschungs-)Gebieten. <!-- TODO -->
-15. Der Lehrer hat Hausaufgaben aufgegeben, \shortgap wir über das Wochenende erledigen sollen. <!-- TODO -->
-16. Die Schüler kamen nicht rechtzeitig zum Unterricht. Sie mussten die Inhalte, \shortgap sie verpasst hatten Zuhause selbst erarbeiten. <!-- TODO -->
-17. Das Wasser, \shortgap im Ganges fließt, ist schon lange nicht mehr sauber. <!-- TODO -->
-18. Der Flieger, \shortgap mich um 15:00 nach China bringen sollte, hat Verspätung. <!-- TODO -->
-19. Auf einer Reise ist es immer gut, eine Reiseapotheke mitzunehmen, \shortgap auf die Zielgegend abgestimmt ist. <!-- TODO -->
-20. Es ist die UV-Strahlung, \shortgap der Haut schadet. <!-- TODO -->
+1. Die Bücher, \MediumBlankText{die/welche} sie las, sind Philosophiebücher.
+
+    **English:** The books she read are philosophy books.
+
+2. Die Webseite, \ShortBlankText{deren} Autor verhaftet wurde, wurde vom Netz genommen.
+
+    **English:** The website, whose author was arrested, was taken from the web.
+
+3. Es gibt viele Orte, \MediumBlankText{die/welche} man besuchen sollte.
+
+    **English:** There are many locations one should visit.
+
+4. Das Geld, \MediumBlankText{das/welches} seine Eltern ihm gaben, verwendete er, um sich ein Eis zu kaufen.
+
+    **English:** The money his parents gave him he used to buy ice cream.
+
+5. Der Angeklagte gestand, dass er das Auto \ShortBlankText{des} Klägers beschädigt hatte.
+
+    **English:** <!-- TODO -->
+
+6. Die Natur, \MediumBlankText{die/welche} oft so unachtsam zerstört wird, ist die Lebensgrundlage für viele Lebewesen.
+
+    **English:** <!-- TODO -->
+
+7. Die Nachrichten, \MediumBlankText{die/welche} gestern im Fernsehen übertragen wurden, waren erschreckend.
+
+    **English:** The news broadcasted on TV yesterday were shocking.
+
+8. Läufer, \MediumBlankText{die/welche} die Strecke schon kennen, sind gegenüber anderen (Läufern) im Vorteil.
+
+    **English:** Runners, who already know the track, have an advantage compared to other runners.
+
+9. Man kann sich immer neue Fragen ausdenken, \ShortBlankText{deren} Antwort der Wissenschaft noch nicht bekannt sind.
+
+    **English:** One can always think of new questions, whose answer is not yet known to science.
+
+10. Am meisten wundert mich, dass die Leute, \MediumBlankText{die/welche} es eigentlich besser wissen müssten, es auch nicht besser machen.
+
+    **English:** What I wonder most about is, that the people who should know better, do not act accordingly.
+
+11. Das widerrechtlich geparkte Fahrzeug, \MediumBlankText{das/welches} Besitzer nicht gefunden werden konnte, wurde abgeschleppt.
+
+    **English:** <!-- TODO -->
+
+12. Die Musik, \MediumBlankText{die/welche} ihr gefällt hat eine schöne Melodie.
+
+    **English:** The music she likes has a beautiful melody.
+
+13. Unsere Wanderungen, auf \MediumBlankText{der/welcher} wir sehr viele Fotos machten, sind mir noch gut in Erinnerung.
+
+    **English:** Our hiking tours, on which we took many photos, are still well memorized.
+
+14. Die Forscher, \MediumBlankText{die/welche} am CERN in der Schweiz arbeiten, sind Spezialisten auf ihren (jeweiligen) (Forschungs-)Gebieten.
+
+    **English:** The reearchers, who work at CERN in Switzerland, are specialists in their (respective) (research) areas.
+
+15. Der Lehrer hat Hausaufgaben aufgegeben, \MediumBlankText{die/welche} wir über das Wochenende erledigen sollen.
+
+    **English:** <!-- TODO -->
+
+16. Die Schüler kamen nicht rechtzeitig zum Unterricht. Sie mussten die Inhalte, \MediumBlankText{die/welche} sie verpasst hatten Zuhause selbst erarbeiten.
+
+    **English:** <!-- TODO -->
+
+17. Das Wasser, \MediumBlankText{das/welches} im Ganges fließt, ist schon lange nicht mehr sauber.
+
+    **English:** <!-- TODO -->
+
+18. Der Flieger, \MediumBlankText{der/welcher} mich um 15:00 nach China bringen sollte, hat Verspätung.
+
+    **English:** <!-- TODO -->
+
+19. Auf einer Reise ist es immer gut, eine Reiseapotheke mitzunehmen, \MediumBlankText{die/welche} auf die Zielgegend abgestimmt ist.
+
+    **English:** <!-- TODO -->
+
+20. Es ist die UV-Strahlung, \MediumBlankText{die/welche} der Haut schadet.
+
+    **English:** <!-- TODO -->
 
 # Infinitive with zu
 
-1. Im Unterricht mit dem Handy _zu spielen_ ist nicht gestattet. <!-- TODO -->
-2. Um aus dem Fenster _zu sehen_, stieg sie auf einen Stuhl. <!-- TODO -->
-3. Wir versuchen Ihr Anliegen bis Donnerstag _zu bearbeiten_. <!-- TODO -->
-4. Später einmal Feuerwehrmann _zu sein_, das war sein großer Traum. <!-- TODO -->
-5. Er konnte es nicht anders, als vom frisch gebackenen Kuchen _zu naschen_. <!-- TODO -->
-6. Sie machten es zu einer Gewohnheit abends die Nachrichten _zu schauen_. <!-- TODO -->
+1. Im Unterricht mit dem Handy _zu spielen_ ist nicht gestattet.
+   **English:** <!-- TODO -->
+2. Um aus dem Fenster _zu sehen_, stieg sie auf einen Stuhl.
+   **English:** <!-- TODO -->
+3. Wir versuchen Ihr Anliegen bis Donnerstag _zu bearbeiten_.
+   **English:** <!-- TODO -->
+4. Später einmal Feuerwehrmann _zu sein_, das war sein großer Traum.
+   **English:** <!-- TODO -->
+5. Er konnte es nicht anders, als vom frisch gebackenen Kuchen _zu naschen_.
+   **English:** <!-- TODO -->
+6. Sie machten es zu einer Gewohnheit abends die Nachrichten _zu schauen_.
+   **English:** <!-- TODO -->
 
 # Conjunktive
 
