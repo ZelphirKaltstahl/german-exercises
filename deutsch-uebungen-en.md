@@ -1489,6 +1489,15 @@ an, auf, hinter, in, neben, über, unter, vor, zwischen, um, um ... herum, durch
 
 		**English:** I have to prepare for this exam.
 
+21. sammeln / sich sammeln
+    a) Manche Leute \mediumgap Briefmarken, andere \mediumgap Postkarten.
+
+        **English:** Some people collect stamps, others collect postcards.
+
+    b) Nach den schockierenden Ereignissen musste ich \mediumgap, bevor ich auf die Frage antworten konnte.
+
+        **English:** After the shocking events, I had to compose myself, before I could answer the question.
+
 # Prepositions
 
 à, ab, abseits, abzüglich, als, an, anfangs, angelegentlich, angesichts, anhand, anlässlich, anstatt, anstelle, auf, auf Grund, aus, ausgenommen, ausschließlich, außer, außerhalb, bar, behufs, bei, betreffs, bezüglich, binnen, bis, bis an, bis auf, bis in, bis nach, bis vor, bis zu, dank, diesseits, durch, einbezüglich, eingedenk, einschließlich, entgegen, entlang, entsprechend, exklusive, fern, fernab, frei, für, gegen, gegenüber, gelegentlich, gemäß, getreu, gleich, halber, hinsichtlich, hinter, in, In punkto, In Sachen, infolge, inklusive, inmitten, innerhalb, je, jenseits, kontra, kraft, lang, längs, laut, links, mangels, minus, mit, mitsamt, mittels, nach, nächst, nah, namens, neben, nebst, nördlich, nordöstlich, nordwestlich, ob, oberhalb, ohne, östlich, per, plus, pro, quer, rechts, rücksichtlich, samt, seit, seit nach, seit über, seit vor, seitens, seitlich, statt, südlich, südöstlich, südwestlich, trotz, über, um, um … willen, unfern, ungeachtet, unter, unterhalb, unweit, vermittels, vermöge, vis à vis, voll, von, von … an, von … wegen, von Seiten, vor, vorbehaltlich, während, wegen, wider, zeit, zu, zufolge, zugunsten, zuliebe, zusätzlich, zuungunsten, zuzuglich, zwecks, zwischen
