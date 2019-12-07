@@ -7,5 +7,5 @@ pandoc \
   --standalone \
   --template=template_book.latex \
   --pdf-engine=xelatex \
-  deutsch-uebungen.md \
-  --output deutsch-uebungen.pdf
+  german-exercises.md \
+  --output german-exercises.pdf
