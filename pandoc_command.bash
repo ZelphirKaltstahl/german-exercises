@@ -1,0 +1,11 @@
+pandoc \
+  --read=markdown+footnotes+grid_tables+multiline_tables+fancy_lists+startnum+definition_lists \
+  --table-of-contents \
+  --toc-depth=2 \
+  --preserve-tabs \
+  --top-level-division=chapter \
+  --standalone \
+  --template=template_book.latex \
+  --pdf-engine=xelatex \
+  deutsch-uebungen.md \
+  --output deutsch-uebungen.pdf
