@@ -90,9 +90,7 @@ $if(author)$\author{$author$}$endif$
 
 
 \defaultfontfeatures{Mapping=tex-text, Scale=MatchLowercase} % what does this do? -- influences how quotes are rendered
-% \setmainfont[Scale=1]{Open Sans}
-% \setmainfont[Scale=1]{Source Sans Pro}
-\setmainfont[Scale=1]{Ubuntu}
+\setmainfont[Scale=1]{OpenSans-Regular.ttf}
 \setmonofont{Liberation Mono}
 \DeclareMathSizes{14}{12}{9}{7}
 
