@@ -6,21 +6,7 @@
 <!-- TODO: Chinesische Uebersetzungen -->
 <!-- TODO: Ueberschriften uebersetzen (Format?) -->
 
-
-<!-- TODO: alle tabu tabellen mit longtabu tabellen ersetzen und ihnen eine caption geben, die unterhalb der tabelle ist -->
-<!-- TODO: Ueberschriften uebersetzen (Format? A - B - C?) -->
-
-# Konzept
-
-Die Kapitel in diesem Dokument behandeln Eigenschaften der deutschen Sprache, bei denen ich beobachten konnte, dass sie für Deutschlernende und insbesondere Chinesisch-Muttersprachler schwierig zu lernen sind. Ich versuche zu jedem Thema die Grammatik möglichst einfach zu vermitteln Beispiele zu geben und mir einen Übungsteil auszudenken, in dem Gelerntes angewendet werden kann. Dies geschieht in der Hoffnung, dass Lernende selbst die Muster der richtigen Anwendung, sofern sie sie nicht von der Grammatik ableiten können, erkennen, verinnerlichen und sich somit die richtige Anwendung automatisiert.
-
-Verbesserungsvorschläge und oder Hinweise auf Fehler sind immer willkommen.
-
-**English:** The chapters of this document deal with properties of the German language, which I observed to be difficult to learn for German learners and especially Chinese native speakers learning German. I try to convey the grammar for each of these properties as simple as possible, to give examples and to think of exercises, in which the learner can apply what they learned. Hoping, that this enables the learner to deduce and memorize the patterns of proper application of the learned from examples, in case the learner cannot deduce it from the grammar.
-
-**English:** Suggestions for improvement and indications of mistakes are always welcome.
-
-# Hinweise
+# Hinweise (Eng. Note)
 
 ## Rechtschreibung
 
@@ -270,9 +256,7 @@ TODO
 
 **任务**: TODO
 
-**任务:** TODO
-
-1. können, wichtig, ist, einsetzen, Beruf, in, Fähigkeiten, Universität, erlernte, im, der, zu, .
+1. können, wichtig, ist, einsetzen, Beruf, in, Fähigkeit, Universität, erlernte, im, der, zu, .
 2. bin, professionelle, noch, ich, Komponistin, keine, .
 3. ich, New Age, gerne, Musik, höre, .
 4. komponieren, dein, Hobby, ist, größtes, Musik, ?
@@ -286,8 +270,7 @@ TODO
 
 ## Merkregeln
 
-<!--
-+--------------+-----------------------------------------------------------------------+
+<!-- +--------------+-----------------------------------------------------------------------+
 | Artikel      | Vorkommen                                                             |
 +==============+=======================================================================+
 | die (female) | Plural (außer bei Genitiv und Akkusativ),                             |
@@ -306,8 +289,7 @@ Table: Geschlecht von Nomen anhand von Endungen
 	die (weiblich) & Plural (außer bei Genitiv und Akkusativ), -ung, -ion, -heit, -schaft, -ei, -in, -tät, -enz, -ie, -ik, -sis, -ur\\
 	der (männlich) & -ling, -ig, -ich, -ismus, -ant, -ast, -ent, -ist, -or, -us\\
 	das (neuter) & -chen, -lein, -tel, -tum, -nis, -em, -in, -um, -ma, -ment
-\end{tabu}
--->
+\end{tabu} -->
 
 <!-- Example table! -->
 \begin{longtabu} to \linewidth [H] {X[0.2]|[1.1pt]X[0.8]}
@@ -322,53 +304,9 @@ Falls das Nomen aus mehr als einem Wort besteht, ein so genanntes zusammengesetz
 
 _In nouns, which consist of more than one word, so called compund nouns, the definite article depends on the last of those words._
 
-# Meinen und Bedeuten
+# Beantworten von Fragen
 
-## Grammatik
-
-* _Meinen_ kommt vom Wort Meinung. Jemand kann etwas meinen. Etwas meinen bedeutet einen Sachverhalt oder eine Meinung ausdrücken zu wollen.
-* _Bedeuten_ kommt vom Wort _Bedeutung_. Etwas oder jemand kann eine Bedeutung haben. Eine Bedeutung zu haben bedeutet einen Einfluss auf etwas zu haben.
-
-So kann beispielsweise eine Person einen Sachverhalt ausdrücken wollen (etwas meinen, etwas versuchen auszudrücken), aber das, was die Person sagt, kann eine andere Bedeutung haben. Auch die Person selbst kann eine Bedeutung haben. Die Bedeutung der Person ist ihr Einfluss auf die Welt. Es lässt sich beispielsweise fragen, welche Bedeutung Immanuel Kant für die Philosophie hat. Das ist jedoch nicht das Gleiche wie die Frage danach, was Kant mit einem Text ausdrücken wollte (meinte).
-
-Man muss unterscheiden zwischen:
-
-1. Was meinst du?
-
-	Dies ist die Frage danach, was eine Person ausdrücken oder beschreiben möchte. Meistens falls die fragende Person den Sinn oder die Logik nicht erkennen kann, seltener aber auch, falls die fragende Person das Ausgedrückte akkustisch nicht verstanden hat. Es ist vergleichbar mit den Fragen:
-
-	* _"Was möchtest du damit ausdrücken?"_
-	* _"Was möchtest du, mit dem was du sagst, aussagen?"_
-	* _"Was möchtest du, was das was du sagst, bedeutet?"_
-
-	Diese Fragen klingen jedoch weniger natürlich, als die Frage _"Was meinst du?"_. Alternativ wird _"Was meinst du?"_ verwendet, um nach einer Einschätzung zu fragen und ist vergleichbar mit den Fragen:
-
-	* _"Was ist deine Meinung dazu?"_
-	* _"Was denkst du darüber?"_
-	* _"Was ist deine Einschätzung?"_
-
-2. Was bedeutest du?
-
-	Dies ist die Frage danach, was für einen Einfluss die Person auf die Welt oder das Universum hat. Man kann beispielsweise fragen, welche Bedeutung der Utilitarismus für die Entwicklung des Kommunismus hat oder welche Bedeutung John Rawls Theorie der Gerechtigkeit für unsere heutige Gesellschaft hat.
-
-## Beispiele
-
-1. Person A: Wir können am Sonntag essen gehen. _Was meinst du?_
-2. Person B: Ja, warum nicht! Um wie viel Uhr wollen wir uns treffen?
-
-<!-- -->
-1. Person A: Du kannst morgen nicht zur Uni fahren.
-2. Person B: Was meinst du damit?
-3. Person A: Morgen fährt kein Zug.
-
-<!--  -->
-TODO: Mehr Beispiele
-
-## Übungsaufgaben
-
-Sie konnte jedes Wort des Satzes verstehen, jedoch war ihr nicht klar, was der Satz im Ganzen \mediumgap .
-
-TODO: Mehr Beispiele
+TODO
 
 # Unterscheidung von das und dass
 
@@ -384,95 +322,11 @@ The two words _das_ and _dass_ are completely different in their usage. _Das_ is
 
 **Assignment**: (Insert _das_ or _dass_[^dass_old_spelling] correctly in each of the following phrases.)
 
-**任务:** 将 _das_, _dass_ 的其中之一填入下列短句中。
-
-[^dass_alte_rechtschreibung]: : Nach alter Rechtschreibung wurde dieses _dass_ mit _ß_ geschrieben (_daß_). Immer noch schreiben viele Menschen mit _ß_ anstatt doppeltem _s_.
-
-[^dass_old_spelling]: : According to old spelling, _dass_ was written with _ß_ instead (_daß_). Still many people use _daß_ instead of _dass_.
-
-1. Es überraschte mich, \shortgap niemand ans Telefon ging.
-
-	**English:** It surprised me, that no one answered the phone.
-
-	**汉语:** TODO
-
-2. Die Universität, die \shortgap Zertifikat ausstellt, ist in Berlin.
-
-	**English:** The university, which issued the certificate, is in Berlin.
-
-	**汉语:** TODO
-
-3. Das Chinesisch-Treffen, \shortgap ich besuche ist in der Nähe vom Alexanderplatz.
-
-	**English:** The Chinese meeting, which I visit, is near Alexanderplatz.
-
-	**汉语:** TODO
-
-4. Nach einer Stunde des Wartens sahen wir ein, \shortgap das weiteres Warten sinnlos gewesen wäre.
-
-	**English:** After waiting one hour we realized, that further waiting wouldn't serve us.
-
-	**汉语:** TODO
-
-5. Man konnte nicht vorhersehen, \shortgap \shortgap (2 Wörter, 2 words) Wetter so schlecht sein würde.
-
-	**English:** One couldn't foresee, that the weather would be this bad.
-
-	**汉语:** TODO
-
-# Mir und Mich und Dir und Dich
-
-## Grammatik
-
-\begin{longtabu} to \linewidth [H] {X|[1.1pt]XXXXXX}
-	\rowfont[c]{}
-	Fall & ich & du & er, sie, es & wir & ihr & sie\\
-	\tabucline[1.1pt]{-}
-	\rowfont[c]{}
-	Dativ & mir & dir & sich & uns & euch & sich\\
-	\rowfont[c]{}
-	Akkusativ & mich & dich & sich & uns & euch & sich\\
-	\caption{Verwendung von Reflexivpronomen}
-\end{longtabu}
-
-# Unterscheidung von das und dass
-
-1. Sie hat \shortgap eine Nachricht gesendet.
-2. Man hat \shortgap schon informiert.
-3. Diese Aufgabe bereitet \shortgap Kopfschmerzen.
-4. Habe ich \shortgap nicht schon einmal gesehen?
-5. Ich rief \shortgap am Mittwoch an.
-6. Hast du \shortgap schon einmal Gedanken darüber gemacht?
-7. Jeden morgen sollst du \shortgap die Zähne putzen.
-8. Sollte ich \shortgap einen neuen Computer kaufen oder nicht?
-9. Lohnt sich das für \shortgap? (TODO: Warum hier "dich" und nicht "dir")
-10. Du musst \shortgap 10 Tage vorher anmelden.
-11. \shortgap wurde die Tür geöffnet.
-12. Sie hat \shortgap etwas beigebracht.
-13. Er hat \shortgap unterrichtet.
-14. Ich bitte \shortgap, niemandem davon zu erzählen.
-15. Du hast \shortgap nicht verraten.
-16. Sie haben \shortgap getäuscht.
-17. Ihr verwirrt \shortgap.
-18. Falls er \shortgap mitnimmt, kann noch jemand bei \shortgap mitfahren.
-19. Ich kann \shortgap online weiterbilden.
-20. Zu deinem Geburtstag laden wir \shortgap zum Essen ein.
-
-# Soll und Sollte
-
-The two words _das_ and _dass_ are completely different in their usage. _Das_ is an article and _dass_ is a so called conjunction. _Das_ always relates to a thing, while _dass_ always introduces the describtion of a situation.
-
-## Übungsaufgaben
-
-**Aufgabe**: Setze in die folgenden Sätze jeweils _das_ oder _dass_[^dass_alte_rechtschreibung] richtig ein.
-
-**Assignment**: (Insert _das_ or _dass_[^dass_old_spelling] correctly in each of the following phrases.)
-
 **任务**: 将 _das_, _dass_ 的其中之一填入下列短句中。
 
 [^dass_alte_rechtschreibung]: : Nach alter Rechtschreibung wurde dieses _dass_ mit _ß_ geschrieben (_daß_). Immer noch schreiben viele Menschen mit _ß_ anstatt doppeltem _s_.
 
-## Grammatik
+[^dass_old_spelling]: : According to old spelling, _dass_ was written with _ß_ instead (_daß_). Still many people use _daß_ instead of _dass_.
 
 1. Es überraschte mich, \shortgap niemand ans Telefon ging.
 
@@ -698,9 +552,9 @@ The two words _das_ and _dass_ are completely different in their usage. _Das_ is
 [^shaobing]: : Shāobing ist ein chinesisches rundes Gebäck (Nahrungsmittel).
 [^zustandsaenderung]: : Die Definition einer Zustandsänderung ist schwierig und ungenau. Man könnte anbringen, dass jede Handlung eine Zustandsänderung zur Folge hat und diese auch ausdrückt. Zum Beispiel drückt _"Sie hat gegessen."_ aus, dass _Sie_ bereits gegessen hat, während eine andere Person vielleicht noch nicht gegessen hat, wodurch der Unterschied der Zustände beider Personen ausgedrückt wird.
 
-	**English:** The dog house is on the side of the house.
+### Beispiele mit Sein
 
-	**汉语:** TODO
+1. intransitive Verben die eine Ortsänderung des Subjekts ausdrücken
 
 	a) Er _ist_ nach Hause _gelaufen_.
 
@@ -744,19 +598,20 @@ The two words _das_ and _dass_ are completely different in their usage. _Das_ is
 
 ### Verben der Ortsänderung des Subjektes
 
-18. _In Folge_[^mehrteiligeAdverbien] der Baumaßnahmen zogen viele Menschen in die Stadt.
+gehen, kommen, schlendern, spazieren, stolzieren, marschieren, stapfen, wandern, wandeln, laufen, rennen, eilen, hetzen, jagen, fliehen, flüchten, fahren, reisen, fliegen, reiten, segeln, rudern rasen, rollen, brettern, dampfen, düsen, flitzen, sausen, klettern, steigen, klimmen, kraxeln, springen, hüpfen, hopsen, fallen, stürzen, stolpern, traucheln, eiern, kippen, aufwachen, aufstehen, auftauen, schlüpfen, ausbrechen, einbrechen, entweichen, entkommen
+schwimmen, tauchen, sinken, watscheln, flattern, schleichen, traben, galoppieren, hoppeln, tapsen, gleiten, rutschen, robben, kriechen, stampfen, trampeln, ...
 
 **Anmerkung**: Verben, die das nicht Vorhandensein einer Ortsänderung ausdrücken zählen nicht zu den Verben der Ortsänderung und erfordern das Hilfsverb _haben_. Umgangssprachlich werden sie jedoch vor allem im Süden Deutschlands mit dem Hilfsverb _sein_ verwendet. Einige Beispiele sind _liegen_, _stehen_ und _sitzen_.
 
 **English**: Some verbs, which express the non-existence of movement of the subject, don't count as verbs of movement and require the auxiliary verb _haben_. Colloquially they are used with _sein_ primarily in the south of Germany. Some examples are _liegen_, _stehen_ and _sitzen_.
 
-	**汉语:** TODO
+### Verben der Zustandsänderung
 
 * aufwachen, einschlafen, sterben, erkranken, gesunden, verblühen, verwelken gefrieren, tauen, sterben, zerfallen, ertrinken, ersticken
 
-	**English:** The rent deducting the utilities is 200\euro. Plus utilities the rent is 300\euro.
+### Übung
 
-	**汉语:** TODO
+TODO
 
 **Aufgabe**: Setze in die folgenden Sätze entweder _haben_ oder _sein_ ein.
 
@@ -764,33 +619,35 @@ The two words _das_ and _dass_ are completely different in their usage. _Das_ is
 
 **任务**: 将 _haben_, _sein_ 的其中之一填入下列短句中。
 
-21. _Auf Seiten_ der Opposition wurde dieser Vorschlag stark kritisiert.
+# Fälle
 
-	**English:** On the part of the opposition the suggestion was heavily criticized.
+## Nominativ (1. Fall)
 
-	**汉语:** TODO
+### Fragewörter
 
-22. _Mit Hilfe_ der neuen Straße könnte Stau verhindert werden.
+Antworten auf die folgenden Fragewörter erfordern den Nominativ:
 
-	**English:** With the aid of the new road traffic jam could be avoided.
+* Wer
+* Was
 
-	**汉语:** TODO
+### Präpositionen
 
-23. _Dank_ der neuen Straße gibt es wenig Stau.
+(keine)
 
-	**English:** Thanks to the new road there is little traffic jam.
+## Genetiv (2. Fall)
 
-	**汉语:** TODO
+### Fragewörter
 
-24. Die Wahl verlief _zu Gunsten_ von Herr Zhang.
+Antworten auf die folgenden Fragewörter erfordern den Genitiv:
 
-	**English:** The election went in favor of Mr. Zhang.
+* Wessen
+* Weswegen
 
-	**汉语:** TODO
+### Präpositionen
 
-25. Die höheren Ausgaben im Bereich der Infrastruktur gehen _zu Lasten_ der Invesitionen im Bereich der Bildung.
+aufgrund, auf Grund, wegen, trotz, ungeachtet, anstelle, an Stelle, statt, beiderseits, diesseits, jenseits, abseits, entlang, oberhalb, unterhalb, außerhalb, innerhalb, längs, seitlich, links, rechts, nördlich, östlich, südlich, westlich, unweit, weitab, während, anlässlich, angesichts, infolge, abzüglich, zuzüglich, anhand, aufseiten, auf Seiten, mithilfe, mit Hilfe, dank, zugunsten, zu Gunsten, zuungunsten, zu Ungunsten, zulasten, zu Lasten, um ... willen
 
-	**English:** The increased expenses in the infrastructure sector, are for investments in the sector of education's account. (TODO: check this phrase)
+### Beispielsätze
 
 1. _Aufgrund_ des Unfalls war der Bahnverkehr gestört.
 
@@ -1411,7 +1268,7 @@ Deutsch - Präposition + Artikel: am, ans, im, ins, vom, zum, zur
 
 <!-- TODO: Chinese Translation -->
 
-## Übung
+# Wissen und Kennen
 
 **Aufgabe**: Setze entweder _kennen_ oder _wissen_ in die folgenden Sätze ein.
 
@@ -1565,148 +1422,33 @@ Insert either _wenn_ or _als_ into the following phrases.
 <!-- TODO: Vollstaendig uebersetzen -->
 
 3. \shortgap ich nach Deutschland kam, suchte ich gleichen nach einen Sprachtandem-Partner.
-
-	**English:** <!-- TODO: Vollstaendig uebersetzen -->
-
-	**汉语:** TODO
-
 4. \shortgap ich ein einkaufen gehe, nehme ich einen Rucksack mit.
-
-	**English:** <!-- TODO: Vollstaendig uebersetzen -->
-
-	**汉语:** TODO
-
 5. Wollen wir uns treffen, \shortgap du Zeit hast?
-
-	**English:** <!-- TODO: Vollstaendig uebersetzen -->
-
-	**汉语:** TODO
-
 6. Wir müssen aussteigen, \shortgap der Zug am Hauptbahnhof hält.
-
-	**English:** <!-- TODO: Vollstaendig uebersetzen -->
-
-	**汉语:** TODO
-
 7. \shortgap zum Essen gerufen wird, ist die ganze Familie schnell am Tisch.
-
-	**English:** <!-- TODO: Vollstaendig uebersetzen -->
-
-	**汉语:** TODO
-
 8. Gestern, \shortgap ich Hausaufgaben erledigte, bemerkte ich einen Fehler.
-
-	**English:** <!-- TODO: Vollstaendig uebersetzen -->
-
-	**汉语:** TODO
-
 9. \shortgap wir neulich Jiaozi aßen, ist mir eine Idee gekommen.
-
-	**English:** <!-- TODO: Vollstaendig uebersetzen -->
-
-	**汉语:** TODO
-
 10. Er führte 3 zu 0, \shortgap er den Aufschlag bekam.
-
-	**English:** <!-- TODO: Vollstaendig uebersetzen -->
-
-	**汉语:** TODO
-
 11. Was war dein Plan, \shortgap du diesen Schachzug ausführtest?
-
-	**English:** <!-- TODO: Vollstaendig uebersetzen -->
-
-	**汉语:** TODO
-
 12. Immer \shortgap die Kinder gute Noten hatten, durften sie sich Eis am Eiswagen kaufen.
-
-	**English:** <!-- TODO: Vollstaendig uebersetzen -->
-
-	**汉语:** TODO
-
 13. \shortgap sie anfing zu rennen schlossen sich die Türen des Zuges schon.
-
-	**English:** <!-- TODO: Vollstaendig uebersetzen -->
-
-	**汉语:** TODO
-
 14. \shortgap die Sonne untergeht, hat der Himmel eine wunderschöne Farbe.
-
-	**English:** <!-- TODO: Vollstaendig uebersetzen -->
-
-	**汉语:** TODO
-
 15. Wir fuhren mit dem Fahrrad nach Hause, \shortgap die Sonne unterging.
-
-	**English:** <!-- TODO: Vollstaendig uebersetzen -->
-
-	**汉语:** TODO
-
 16. Die Kinder werden müde sein, \shortgap sie nach Hause kommen.
-
-	**English:** <!-- TODO: Vollstaendig uebersetzen -->
-
-	**汉语:** TODO
-
 17. Sein Mobiltelefon klingelte genau dann, \shortgap er auf Toilette war.
-
-	**English:** <!-- TODO: Vollstaendig uebersetzen -->
-
-	**汉语:** TODO
-
 18. \shortgap man Strom sparen will, kann man den Stromsparmodus nutzen.
-
-	**English:** <!-- TODO: Vollstaendig uebersetzen -->
-
-	**汉语:** TODO
-
 19. \shortgap du morgen nicht erscheinst, dann rufe ich dich an.
-
-	**English:** <!-- TODO: Vollstaendig uebersetzen -->
-
-	**汉语:** TODO
-
-20. \shortgap sie in der Schule saßen erinnerte sie sich daran, dass ihr Vater gesagt hatte, sie solle sich melden, \shortgap sie die Antwort auf die Fragen der Lehrer weiß.
-
-	**English:** <!-- TODO: Vollstaendig uebersetzen -->
-
-	**汉语:** TODO
-
-21. \shortgap das Gebäude gebaut wurde, existierte die Straße noch nicht.
-
-	**English:** <!-- TODO: Vollstaendig uebersetzen -->
-
-	**汉语:** TODO
+20. \shortgap sie in der Schule saßen erinnerte sie sich daran, dass ihr Vater gesagt hatte, sie solle sich melden, \shortgap sie die Antwort auf die Fragen der Lehrer wusste.
 
 # Vergleiche mit Wie und Als
 
 ## Grammatik
 
-* _Wie_ wird verwendet, wenn man eine Gemeinsamkeit von Objekten hervorheben möchte. Das bedeutet, dass in Vergleichen mit _als_ der Positiv verwendet wird.
-* _Als_ wird verwendet, wenn man einen Unterschied von Objekten hervorheben möchte. Das bedeutet, dass in Vergleichen mit _als_ der Komparativ verwendet wird.
+TODO
 
 ## Übung
 
-1. Im Sommer ist es länger hell _als_ im Winter.
-2. Das Essen ist so scharf _wie_ in China.
-3. Es gibt wenige so trübe Tage _wie_ diesen im Jahr.
-4. Uns geht es so gut _wie_ immer.
-5. Hier ist die Auswahl größer _als_ in der kleinen Buchhandlung.
-6. Er kann schneller rennen _als_ ich.
-7. Ihr Wortschatz ist viel größer _als_ meiner.
-8. Heute ist schöneres Wetter _als_ gestern.
-9. Die Datenmenge ist so groß _wie_ noch nie zuvor.
-10.
-11.
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19.
-20.
+TODO
 
 # Relativsätze
 
@@ -1874,209 +1616,59 @@ TODO: mehr Inhalt
 1. Ich bin der Meining, dass ..... .
 
 	a) Ich bin der Meinung, dass wir ruhig bis um 23:00 hier bleiben können.
-
-		**English:** TODO
-
-		**汉语:** TODO
-
 	a) ... daher bin ich der Meinung, dass Professor Maier Recht hat.
-
-		**English:** TODO
-
-		**汉语:** TODO
-
 	a) Ich bin der Meinung, dass man das Problem nur durch eine bessere Aufklärung der Menschen lösen kann.
-
-		**English:** TODO
-
-		**汉语:** TODO
-
 	a) Sollten Sie der Meinung sein, dass wir uns das gefallen lassen, dann irren Sie sich gewaltig.
-
-		**English:** TODO
-
-		**汉语:** TODO
-
 	a) Einige Leute sind der Meinung, dass die Menschen zu sehr vom Internet abhängig sind.
-
-		**English:** TODO
-
-		**汉语:** TODO
-
 
 2. Meine Meinung ist, dass ..... .
 
 	a) Meine Meinung ist, dass man das Problem nicht ignorieren darf und jetzt handeln muss.
-
-		**English:** TODO
-
-		**汉语:** TODO
-
 	a) Meine Meinung ist, dass wir mehr in die Bildung investieren müssen.
-
-		**English:** TODO
-
-		**汉语:** TODO
-
 	a) Die Meinung von Doktorin Müller ist, dass man mehr Stadtführungen für Touristen organisieren sollte, um die Tourismusbranche zu stärken.
-
-		**English:** TODO
-
-		**汉语:** TODO
-
 	a) Seine Meinung ist, dass man nicht aufhören darf zu lernen.
-
-		**English:** TODO
-
-		**汉语:** TODO
-
 	a) Eine weit verbreitete Meinung ist, dass Unternehmen eigene Kindergärten betreiben sollten.
-
-		**English:** TODO
-
-		**汉语:** TODO
-
 
 3. Meiner Meinung nach ..... .
 
 	a) Meiner Meinung nach sind das nur Ausreden.
-
-		**English:** TODO
-
-		**汉语:** TODO
-
 	a) Meiner Meinung nach sollte man das verbieten.
-
-		**English:** TODO
-
-		**汉语:** TODO
-
 	a) Meiner Meinung nach schauen die Leute zu viel fern.
-
-		**English:** TODO
-
-		**汉语:** TODO
-
 	a) Seiner Meinung nach ist es nicht richtig, dass Unternehmen so viele unbenötigte Produkte auf den Markt bringen.
-
-		**English:** TODO
-
-		**汉语:** TODO
-
 
 4. Meiner Ansicht nach ..... .
 
 	a) Meiner Ansicht nach ist das zu kurz gedacht.
-
-		**English:** TODO
-
-		**汉语:** TODO
-
 	a) Meiner Ansicht nach sollte die Integrationspolitik geändert werden.
-
-		**English:** TODO
-
-		**汉语:** TODO
-
 	a) Meiner Ansicht nach ist die Regelung bezüglich ... nicht gerecht.
-
-		**English:** TODO
-
-		**汉语:** TODO
-
 
 5. Ich denke, dass ..... .
 
 	a) Ich denke, dass der Ausbau der Breitbandanbindung zu lange dauert.
-
-		**English:** TODO
-
-		**汉语:** TODO
-
 	a) Ich denke, dass man mehr in erneuerbare Energien investieren sollte.
-
-		**English:** TODO
-
-		**汉语:** TODO
-
 	a) Sie denken, dass sie sich in Deutschland gegen eine große Konkurrenz durchsetzen können.
-
-		**English:** TODO
-
-		**汉语:** TODO
-
 
 6. Aus meiner Sicht ..... .
 
 	a) Aus meiner Sicht ist es wichtig die Sprache eines Landes zu erlernen, um in dessen Kultur eintauchen zu können.
-
-		**English:** TODO
-
-		**汉语:** TODO
-
 	a) Aus meiner Sicht muss ein anderer Weg gegangen werden als bisher.
-
-		**English:** TODO
-
-		**汉语:** TODO
-
 	a) Aus meiner Sicht sind wir auf gutem Weg um das Ziel zu erreichen.
-
-		**English:** TODO
-
-		**汉语:** TODO
-
 
 7. Meine Sicht auf ..... ist ..... .
 
 	a) Meine Sicht auf den Sachverhalt ist eine andere.
-
-		**English:** TODO
-
-		**汉语:** TODO
-
 	a) Meine Sicht der Dinge unterscheidet sich von der des Autors.
-
-		**English:** TODO
-
-		**汉语:** TODO
-
 	a) Meine Sicht auf das Problem ist, dass man zunächst die Ursache des Problems beheben muss.
-
-		**English:** TODO
-
-		**汉语:** TODO
-
 
 8. Ich bin (davon) überzeugt, dass ..... .
 
 	a) Ich bin überzeugt, dass eine Lösung (des Problems) gefunden werden kann, wenn alle zusammenarbeiten.
-
-		**English:** TODO
-
-		**汉语:** TODO
-
 	a) Ich bin davon überzeugt, dass man Schülern ausreichend Freizeit einräumen muss, damit sie eigene Interessengebiete entdecken können.
-
-		**English:** TODO
-
-		**汉语:** TODO
-
 
 9. Ich bin der Überzeugung, dass ..... .
 
 	a) Ich bin der Überzeugung, dass es möglich ist, mehr Bücher im Deutschunterricht zu lesen. Es müssen nur interessante Bücher ausgewählt werden.
-
-		**English:** TODO
-
-		**汉语:** TODO
-
 	a) Ich bin der Überzeugung, dass wir der Aufgabe gewachsen sind.
-
-		**English:** TODO
-
-		**汉语:** TODO
-
 
 10. Mein Standpunkt ist, dass ..... .
 11. Ich vertrete den Standpunkt, dass ..... .
@@ -2085,23 +1677,8 @@ TODO: mehr Inhalt
 14. Ich erachte ..... als ..... .
 
 	a) Ich erachte die ergiffenen Maßnahmen als unzulänglich.
-
-		**English:** TODO
-
-		**汉语:** TODO
-
 	a) Ich erachte es als ein erstrebenswertes Ziel, die Menschen früher im Umgang mit Computern zu schulen.
-
-		**English:** TODO
-
-		**汉语:** TODO
-
 	a) Ich erachte dies als eine unbewiesene Aussage.
-
-		**English:** TODO
-
-		**汉语:** TODO
-
 
 15. Ich glaube ..... .
 16. Ich halte ..... für ..... .
@@ -2198,127 +1775,34 @@ TODO: mehr Inhalt
 
 * In dem Diagramm wird die Bevölkerungszahl Deutschlands in den Jahren 1945 bis 2010 dargestellt.
 
-	**English:** TODO
-
-	**汉语:** TODO
-
 
 * Das Diagramm hat zwei Achsen.
-
-	**English:** TODO
-
-	**汉语:** TODO
-
 * Auf der x-Achse kann man die Jahreszahlen ablesen.
-
-	**English:** TODO
-
-	**汉语:** TODO
-
 * Auf der y-Achse kann man die Bevölkerungszahlen sehen.
-
-	**English:** TODO
-
-	**汉语:** TODO
 
 
 * Man kann erkennen, dass ... .
 * Man kann erkennen, dass in den Jahren ... die Bevölkerungszahl stark angestiegen ist.
-
-	**English:** TODO
-
-	**汉语:** TODO
-
 * Im Jahr ... war die Bevölkerungszahl am höchsten.
-
-	**English:** TODO
-
-	**汉语:** TODO
-
 * Im Jahr ... war die Bevölkerungszahl am niedrigsten.
-
-	**English:** TODO
-
-	**汉语:** TODO
-
 
 ### Erklärung der Gründe
 
 * Das lässt sich wahrscheinlich darauf zurückführen, dass _\[Ursache\]_ .
-
-	**English:** TODO
-
-	**汉语:** TODO
-
 * Wahrscheinlich ist _\[Grund\]_ die Ursache dafür.
-
-	**English:** TODO
-
-	**汉语:** TODO
-
 * Wahrscheinlich ist _\[Grund\]_ die Ursache für diese Entwicklung.
-
-	**English:** TODO
-
-	**汉语:** TODO
-
 * Die hohen Bevölkerungszahlen in den Jahren _\[Jahreszahlen\]_ sind durch _\[Ursache\]_ entstanden / zustande gekommen.
-
-	**English:** TODO
-
-	**汉语:** TODO
-
 * Im Jahr ... war die Bevölkerungszahl am niedrigsten, weil _\[Begründung\]_ .
-
-	**English:** TODO
-
-	**汉语:** TODO
-
 * Die Geburtenrate hat in den Jahren _\[Jahreszahlen\]_ stark abgenommen, da _\[Begründung\]_ .
-
-	**English:** TODO
-
-	**汉语:** TODO
-
 
 ### Schlussfolgerung
 
 * Das Diagramm deutet auf eine Diskrepanz zwischen der _A_ und der _B_ hin.
-
-	**English:** TODO
-
-	**汉语:** TODO
-
 * Aus der Statistik kann man schließen, dass ein Mangel an ... besteht.
-
-	**English:** TODO
-
-	**汉语:** TODO
-
 * In Zukunft sollte ....
-
-	**English:** TODO
-
-	**汉语:** TODO
-
 * Man muss ..., sonst wird ....
-
-	**English:** TODO
-
-	**汉语:** TODO
-
 * Die Konsequenzen sind noch nicht absehbar.
-
-	**English:** TODO
-
-	**汉语:** TODO
-
 * Insgesamt lässt sich eine positive Entwicklung erkennen, die jedoch durch weitere Maßnahmen noch unterstützt werden sollte.
-
-	**English:** TODO
-
-	**汉语:** TODO
-
 
 
 <!--
