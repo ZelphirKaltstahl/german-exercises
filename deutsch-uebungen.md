@@ -30,7 +30,7 @@ Normalerweise ersetze ich die deutschen Umlaute wie folgt:
 
 Table: Ersetzungen für deutsche Umlauten
 
-Da diese Schreibweise nicht jedem bekannt ist und manche Leute sie nicht akzeptieren, empfehle ich Deutschlernern sie (noch) nicht anzuwenden. In diesem Dokument werde ich die allgemein akzeptierte Schreibweise mit deutschen Umlauten verwenden. Dieser Hinweis dient hoffentlich, Verwirrung über meine Schreibweise aufzuklären, sollte ich in diesem Dokument versehentlich Umlaute, der Tabelle gemäß, ersetzen.
+Da diese Schreibweise nicht jedem bekannt ist und manche Leute sie nicht akzeptieren, empfehle ich Deutschlernern sie (noch) nicht anzuwenden. In diesem Dokument werde ich die allgemein akzeptierte Schreibweise mit deutschen Umlauten verwenden. Dieser Hinweis dient hoffentlich Verwirrung über meine Schreibweise aufzuklären, sollte ich in diesem Dokument versehentlich Umlaute, der Tabelle gemäß, ersetzen.
 
 
 **English**: I tend to replace the German _Umlaute_ as follows:
@@ -57,7 +57,7 @@ Table: Replacements for German Umlaute
 
 ## Ratschläge
 
-* Es ist sinnvoll die Lösungen der Übungen mit einem Muttersprachler zu kontrollieren, der Bedeutungen von Sätzen und Wörtern erklären kann.
+* Es ist sinnvoll die eigenen Lösungen der Übungen mit Muttersprachlern zu kontrollieren, die Bedeutungen von Sätzen und Wörtern erklären können.
 
 	**English**: It makes sence to check the solutions to the exercises with a native speaker, who is able to explain meanings of phrases and words.
 
@@ -1863,5 +1863,3 @@ multiple lines.
 \end{tabular}
 
 -->
-
-
